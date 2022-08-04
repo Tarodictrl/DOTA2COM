@@ -3,3 +3,5 @@
 Files from the site - dota2.com
 
 Directory of js files - dota2.com//public/javascript/dota_react/
+
+Directory of css files - dota2.com//public/css/dota_react/
