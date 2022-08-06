@@ -10,3 +10,5 @@ Directory of css files - dota2.com//public/css/dota_react/
 Directory of heroes files - dota2.com/datafeed/herodata
 
 Directory of DPCStandingsfile - dota2.com/webapi/IDOTA2DPC/GetDPCStandings/v0001
+
+Directory of GetLeagueTeamInfos - dota2.com/webapi/IDOTA2Teams/GetLeagueTeamInfos/v0001
