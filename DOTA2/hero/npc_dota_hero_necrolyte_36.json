@@ -1,0 +1,2085 @@
+{
+    "result": {
+        "data": {
+            "heroes": [
+                {
+                    "id": 36,
+                    "name": "npc_dota_hero_necrolyte",
+                    "order_id": 12,
+                    "name_loc": "Necrophos",
+                    "bio_loc": "In a time of great plague, an obscure monk of dark inclinations, one Rotund'jere, found himself promoted to the rank of Cardinal by the swift death of all his superiors. While others of the order went out to succor the ill, the newly ordained cardinal secluded himself within the Cathedral of Rumusque, busily scheming to acquire the property of dying nobles, promising them spiritual rewards if they signed over their terrestrial domains. As the plague receded to a few stubborn pockets, his behavior came to the attention of the greater order, which found him guilty of heresy and sentenced him to serve in the plague ward, ensorcelled with spells that would ensure him a slow and lingering illness. But they had not counted on his natural immunity. Rotund'jere caught the pox, but instead of dying, found it feeding his power, transforming him into a veritable plague-mage, a Pope of Pestilence. Proclaiming himself Necrophos, he travels the world, spreading plague wherever he goes, and growing in terrible power with every village his pestilential presence obliterates.",
+                    "hype_loc": "Wherever Necrophos goes, enemies wither as allies thrive. <b>Restoring health</b> to his friends and harming enemies with each <b>death pulse</b>, once his very presence has eaten away at an enemy, he <b>summons the reaper</b> to lengthen their stay in the afterlife.",
+                    "npe_desc_loc": "Damages enemies and heals allies simultaneously",
+                    "str_base": 18,
+                    "str_gain": 2.299999952316284,
+                    "agi_base": 12,
+                    "agi_gain": 1.2999999523162842,
+                    "int_base": 21,
+                    "int_gain": 2.700000047683716,
+                    "primary_attr": 2,
+                    "complexity": 1,
+                    "attack_capability": 2,
+                    "role_levels": [
+                        1,
+                        0,
+                        2,
+                        1,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0
+                    ],
+                    "damage_min": 47,
+                    "damage_max": 51,
+                    "attack_rate": 1.7000000476837158,
+                    "attack_range": 500,
+                    "projectile_speed": 1200,
+                    "armor": 3,
+                    "magic_resistance": 25,
+                    "movement_speed": 280,
+                    "turn_rate": 0.6000000238418579,
+                    "sight_range_day": 1800,
+                    "sight_range_night": 800,
+                    "max_health": 560,
+                    "health_regen": 2.0500001907348633,
+                    "max_mana": 327,
+                    "mana_regen": 1.0500000715255737,
+                    "abilities": [
+                        {
+                            "id": 5158,
+                            "name": "necrolyte_death_pulse",
+                            "name_loc": "Death Pulse",
+                            "desc_loc": "Necrophos releases a wave of death around him, dealing damage to enemy units and healing allied units.",
+                            "lore_loc": "Poor souls who succumb to Rotund'jere's plagues are recycled for future use.",
+                            "notes_loc": [
+                                "Death Pulse can't be disjointed.",
+                                "Can heal Spell Immune units."
+                            ],
+                            "shard_loc": "",
+                            "scepter_loc": "",
+                            "type": 0,
+                            "behavior": "4",
+                            "target_team": 0,
+                            "target_type": 0,
+                            "flags": 0,
+                            "damage": 2,
+                            "immunity": 4,
+                            "dispellable": 0,
+                            "max_level": 4,
+                            "cast_ranges": [
+                                0
+                            ],
+                            "cast_points": [
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "channel_times": [
+                                0
+                            ],
+                            "cooldowns": [
+                                8,
+                                7,
+                                6,
+                                5
+                            ],
+                            "durations": [
+                                0
+                            ],
+                            "damages": [
+                                100,
+                                160,
+                                220,
+                                280
+                            ],
+                            "mana_costs": [
+                                100,
+                                130,
+                                160,
+                                190
+                            ],
+                            "gold_costs": [],
+                            "special_values": [
+                                {
+                                    "name": "area_of_effect",
+                                    "values_float": [
+                                        500
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "RADIUS:",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "heal",
+                                    "values_float": [
+                                        55,
+                                        80,
+                                        105,
+                                        130
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "HEAL:",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "projectile_speed",
+                                    "values_float": [
+                                        400
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "#AbilityDamage",
+                                    "values_float": [
+                                        100,
+                                        160,
+                                        220,
+                                        280
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCastRange",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityChannelTime",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityDuration",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCastPoint",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCharges",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityChargeRestoreTime",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityManaCost",
+                                    "values_float": [
+                                        100,
+                                        130,
+                                        160,
+                                        190
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCooldown",
+                                    "values_float": [
+                                        8,
+                                        7,
+                                        6,
+                                        5
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                }
+                            ],
+                            "is_item": false,
+                            "ability_has_scepter": false,
+                            "ability_has_shard": true,
+                            "ability_is_granted_by_scepter": false,
+                            "ability_is_granted_by_shard": false,
+                            "item_cost": 0,
+                            "item_initial_charges": 0,
+                            "item_neutral_tier": 4294967295,
+                            "item_stock_max": 0,
+                            "item_stock_time": 0,
+                            "item_quality": 0
+                        },
+                        {
+                            "id": 5160,
+                            "name": "necrolyte_sadist",
+                            "name_loc": "Ghost Shroud",
+                            "desc_loc": "Necrophos slips into the realm that separates the living from the dead. Unable to attack or be attacked, he emits an aura that slows enemies around him. He takes additional magic damage in this form, but his restorative powers are amplified.",
+                            "lore_loc": "Rotund'jere uses the souls of his victims as bridge from life to afterlife.",
+                            "notes_loc": [],
+                            "shard_loc": "",
+                            "scepter_loc": "Reduces Ghost Shroud cooldown.",
+                            "type": 0,
+                            "behavior": "2052",
+                            "target_team": 0,
+                            "target_type": 0,
+                            "flags": 0,
+                            "damage": 0,
+                            "immunity": 4,
+                            "dispellable": 2,
+                            "max_level": 4,
+                            "cast_ranges": [
+                                0
+                            ],
+                            "cast_points": [
+                                0
+                            ],
+                            "channel_times": [
+                                0
+                            ],
+                            "cooldowns": [
+                                28,
+                                24,
+                                20,
+                                16
+                            ],
+                            "durations": [
+                                0
+                            ],
+                            "damages": [
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "mana_costs": [
+                                50
+                            ],
+                            "gold_costs": [],
+                            "special_values": [
+                                {
+                                    "name": "duration",
+                                    "values_float": [
+                                        3,
+                                        3.5,
+                                        4,
+                                        4.5
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "DURATION:",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "heal_bonus",
+                                    "values_float": [
+                                        45,
+                                        55,
+                                        65,
+                                        75
+                                    ],
+                                    "is_percentage": true,
+                                    "heading_loc": "RESTORATION AMPLIFICATION:",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "movement_speed",
+                                    "values_float": [
+                                        12,
+                                        16,
+                                        20,
+                                        24
+                                    ],
+                                    "is_percentage": true,
+                                    "heading_loc": "MOVEMENT SLOW:",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "slow_aoe",
+                                    "values_float": [
+                                        750
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "SLOW RADIUS:",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "bonus_damage",
+                                    "values_float": [
+                                        -40
+                                    ],
+                                    "is_percentage": true,
+                                    "heading_loc": "INCREASED MAGIC DAMAGE:",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "cooldown_scepter",
+                                    "values_float": [
+                                        10
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "COOLDOWN:",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCastRange",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityChannelTime",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityDuration",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCastPoint",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCharges",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityChargeRestoreTime",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityManaCost",
+                                    "values_float": [
+                                        50
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCooldown",
+                                    "values_float": [
+                                        28,
+                                        24,
+                                        20,
+                                        16
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                }
+                            ],
+                            "is_item": false,
+                            "ability_has_scepter": true,
+                            "ability_has_shard": false,
+                            "ability_is_granted_by_scepter": false,
+                            "ability_is_granted_by_shard": false,
+                            "item_cost": 0,
+                            "item_initial_charges": 0,
+                            "item_neutral_tier": 4294967295,
+                            "item_stock_max": 0,
+                            "item_stock_time": 0,
+                            "item_quality": 0
+                        },
+                        {
+                            "id": 5159,
+                            "name": "necrolyte_heartstopper_aura",
+                            "name_loc": "Heartstopper Aura",
+                            "desc_loc": "Necrophos stills the hearts of his opponents, causing nearby enemy units to lose a percentage of their max health over time. Passively provides regen for %regen_duration% seconds for each unit Necrophos kills.",
+                            "lore_loc": "Those who come within a short distance of Necrophos can feel pestilence and plague in the air.",
+                            "notes_loc": [
+                                "Damage won't disable items like Blink Dagger.",
+                                "Does not affect ancient creeps."
+                            ],
+                            "shard_loc": "",
+                            "scepter_loc": "Increases Heartstopper Aura damage while Ghost Shroud is active.",
+                            "type": 0,
+                            "behavior": "65538",
+                            "target_team": 2,
+                            "target_type": 0,
+                            "flags": 0,
+                            "damage": 2,
+                            "immunity": 4,
+                            "dispellable": 0,
+                            "max_level": 4,
+                            "cast_ranges": [
+                                0
+                            ],
+                            "cast_points": [
+                                0
+                            ],
+                            "channel_times": [
+                                0
+                            ],
+                            "cooldowns": [
+                                0
+                            ],
+                            "durations": [
+                                0
+                            ],
+                            "damages": [
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "mana_costs": [
+                                0
+                            ],
+                            "gold_costs": [],
+                            "special_values": [
+                                {
+                                    "name": "aura_radius",
+                                    "values_float": [
+                                        800
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "RADIUS:",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "aura_damage",
+                                    "values_float": [
+                                        0.6000000238418579,
+                                        1.2000000476837158,
+                                        1.7999999523162842,
+                                        2.4000000953674316
+                                    ],
+                                    "is_percentage": true,
+                                    "heading_loc": "HEALTH DECAY:",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "health_regen",
+                                    "values_float": [
+                                        4,
+                                        5,
+                                        6,
+                                        7
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "HEALTH REGEN PER KILL:",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "mana_regen",
+                                    "values_float": [
+                                        4,
+                                        5,
+                                        6,
+                                        7
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "MANA REGEN PER KILL:",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "hero_multiplier",
+                                    "values_float": [
+                                        6
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "HERO KILL REGEN MULTIPLIER:",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "regen_duration",
+                                    "values_float": [
+                                        8
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "REGEN DURATION:",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "scepter_multiplier",
+                                    "values_float": [
+                                        2
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "GHOST SHROUD MULTIPLIER:",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCastRange",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityChannelTime",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityDuration",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCastPoint",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCharges",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityChargeRestoreTime",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityManaCost",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCooldown",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                }
+                            ],
+                            "is_item": false,
+                            "ability_has_scepter": true,
+                            "ability_has_shard": false,
+                            "ability_is_granted_by_scepter": false,
+                            "ability_is_granted_by_shard": false,
+                            "item_cost": 0,
+                            "item_initial_charges": 0,
+                            "item_neutral_tier": 4294967295,
+                            "item_stock_max": 0,
+                            "item_stock_time": 0,
+                            "item_quality": 0
+                        },
+                        {
+                            "id": 661,
+                            "name": "necrolyte_death_seeker",
+                            "name_loc": "Death Seeker",
+                            "desc_loc": "Spawns a fast moving large Death Pulse towards the target enemy or ally, causing the target to become ethereal. Reduces enemy magic resistance. Spreads towards nearby enemies and allies after impact.",
+                            "lore_loc": "",
+                            "notes_loc": [],
+                            "shard_loc": "",
+                            "scepter_loc": "",
+                            "type": 0,
+                            "behavior": "8589934601",
+                            "target_team": 3,
+                            "target_type": 19,
+                            "flags": 0,
+                            "damage": 2,
+                            "immunity": 4,
+                            "dispellable": 2,
+                            "max_level": 1,
+                            "cast_ranges": [
+                                900
+                            ],
+                            "cast_points": [
+                                0.20000000298023224
+                            ],
+                            "channel_times": [
+                                0
+                            ],
+                            "cooldowns": [
+                                16
+                            ],
+                            "durations": [
+                                0
+                            ],
+                            "damages": [
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "mana_costs": [
+                                125
+                            ],
+                            "gold_costs": [],
+                            "special_values": [
+                                {
+                                    "name": "projectile_multiplier",
+                                    "values_float": [
+                                        125
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "ethereal_duration",
+                                    "values_float": [
+                                        2.5
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "ETHEREAL DURATION:",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "magic_resistance_reduction",
+                                    "values_float": [
+                                        25
+                                    ],
+                                    "is_percentage": true,
+                                    "heading_loc": "MAGIC RESISTANCE REDUCTION:",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCastRange",
+                                    "values_float": [
+                                        900
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityChannelTime",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityDuration",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCastPoint",
+                                    "values_float": [
+                                        0.20000000298023224
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCharges",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityChargeRestoreTime",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityManaCost",
+                                    "values_float": [
+                                        125
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "MANA COST:",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCooldown",
+                                    "values_float": [
+                                        16
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "COOLDOWN:",
+                                    "bonuses": []
+                                }
+                            ],
+                            "is_item": false,
+                            "ability_has_scepter": false,
+                            "ability_has_shard": false,
+                            "ability_is_granted_by_scepter": false,
+                            "ability_is_granted_by_shard": true,
+                            "item_cost": 0,
+                            "item_initial_charges": 0,
+                            "item_neutral_tier": 4294967295,
+                            "item_stock_max": 0,
+                            "item_stock_time": 0,
+                            "item_quality": 0
+                        },
+                        {
+                            "id": 5161,
+                            "name": "necrolyte_reapers_scythe",
+                            "name_loc": "Reaper's Scythe",
+                            "desc_loc": "Stuns the target enemy hero, then deals damage based on how much life it is missing. If Necrophos kills an enemy this way, he'll permanently gain Health and Mana Regen. Any kill under this effect is credited to Necrophos.",
+                            "lore_loc": "The amount of death and suffering in the air increases the power of Necrophos's plague magic.",
+                            "notes_loc": [
+                                "Damage is dealt at the end of the stun."
+                            ],
+                            "shard_loc": "",
+                            "scepter_loc": "",
+                            "type": 1,
+                            "behavior": "8",
+                            "target_team": 2,
+                            "target_type": 1,
+                            "flags": 0,
+                            "damage": 2,
+                            "immunity": 4,
+                            "dispellable": 3,
+                            "max_level": 3,
+                            "cast_ranges": [
+                                600
+                            ],
+                            "cast_points": [
+                                0.44999998807907104
+                            ],
+                            "channel_times": [
+                                0
+                            ],
+                            "cooldowns": [
+                                120
+                            ],
+                            "durations": [
+                                0
+                            ],
+                            "damages": [
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "mana_costs": [
+                                200,
+                                350,
+                                500
+                            ],
+                            "gold_costs": [],
+                            "special_values": [
+                                {
+                                    "name": "damage_per_health",
+                                    "values_float": [
+                                        0.699999988079071,
+                                        0.800000011920929,
+                                        0.8999999761581421
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "DAMAGE PER MISSING HP:",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "stun_duration",
+                                    "values_float": [
+                                        1.5
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "STUN DURATION:",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "hp_per_kill",
+                                    "values_float": [
+                                        2,
+                                        4,
+                                        6
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "HP REGEN:",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "mana_per_kill",
+                                    "values_float": [
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "MANA REGEN:",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCastRange",
+                                    "values_float": [
+                                        600
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityChannelTime",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityDuration",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCastPoint",
+                                    "values_float": [
+                                        0.44999998807907104
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCharges",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityChargeRestoreTime",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityManaCost",
+                                    "values_float": [
+                                        200,
+                                        350,
+                                        500
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCooldown",
+                                    "values_float": [
+                                        120
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                }
+                            ],
+                            "is_item": false,
+                            "ability_has_scepter": false,
+                            "ability_has_shard": false,
+                            "ability_is_granted_by_scepter": false,
+                            "ability_is_granted_by_shard": false,
+                            "item_cost": 0,
+                            "item_initial_charges": 0,
+                            "item_neutral_tier": 4294967295,
+                            "item_stock_max": 0,
+                            "item_stock_time": 0,
+                            "item_quality": 0
+                        }
+                    ],
+                    "talents": [
+                        {
+                            "id": 820,
+                            "name": "special_bonus_unique_necrophos_6",
+                            "name_loc": "+{s:value} Reaper's Scythe Cast Range",
+                            "desc_loc": "",
+                            "lore_loc": "",
+                            "notes_loc": [],
+                            "shard_loc": "",
+                            "scepter_loc": "",
+                            "type": 2,
+                            "behavior": "2",
+                            "target_team": 0,
+                            "target_type": 0,
+                            "flags": 0,
+                            "damage": 0,
+                            "immunity": 0,
+                            "dispellable": 0,
+                            "max_level": 4,
+                            "cast_ranges": [
+                                0
+                            ],
+                            "cast_points": [
+                                0
+                            ],
+                            "channel_times": [
+                                0
+                            ],
+                            "cooldowns": [
+                                0
+                            ],
+                            "durations": [
+                                0
+                            ],
+                            "damages": [
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "mana_costs": [
+                                0
+                            ],
+                            "gold_costs": [],
+                            "special_values": [
+                                {
+                                    "name": "value",
+                                    "values_float": [
+                                        100
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCastRange",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityChannelTime",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityDuration",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCastPoint",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCharges",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityChargeRestoreTime",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityManaCost",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCooldown",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                }
+                            ],
+                            "is_item": false,
+                            "ability_has_scepter": false,
+                            "ability_has_shard": false,
+                            "ability_is_granted_by_scepter": false,
+                            "ability_is_granted_by_shard": false,
+                            "item_cost": 0,
+                            "item_initial_charges": 0,
+                            "item_neutral_tier": 4294967295,
+                            "item_stock_max": 0,
+                            "item_stock_time": 0,
+                            "item_quality": 0
+                        },
+                        {
+                            "id": 5982,
+                            "name": "special_bonus_strength_8",
+                            "name_loc": "+{s:value} Strength",
+                            "desc_loc": "",
+                            "lore_loc": "",
+                            "notes_loc": [],
+                            "shard_loc": "",
+                            "scepter_loc": "",
+                            "type": 2,
+                            "behavior": "2",
+                            "target_team": 0,
+                            "target_type": 0,
+                            "flags": 0,
+                            "damage": 0,
+                            "immunity": 0,
+                            "dispellable": 0,
+                            "max_level": 4,
+                            "cast_ranges": [
+                                0
+                            ],
+                            "cast_points": [
+                                0
+                            ],
+                            "channel_times": [
+                                0
+                            ],
+                            "cooldowns": [
+                                0
+                            ],
+                            "durations": [
+                                0
+                            ],
+                            "damages": [
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "mana_costs": [
+                                0
+                            ],
+                            "gold_costs": [],
+                            "special_values": [
+                                {
+                                    "name": "value",
+                                    "values_float": [
+                                        8
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCastRange",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityChannelTime",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityDuration",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCastPoint",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCharges",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityChargeRestoreTime",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityManaCost",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCooldown",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                }
+                            ],
+                            "is_item": false,
+                            "ability_has_scepter": false,
+                            "ability_has_shard": false,
+                            "ability_is_granted_by_scepter": false,
+                            "ability_is_granted_by_shard": false,
+                            "item_cost": 0,
+                            "item_initial_charges": 0,
+                            "item_neutral_tier": 4294967295,
+                            "item_stock_max": 0,
+                            "item_stock_time": 0,
+                            "item_quality": 0
+                        },
+                        {
+                            "id": 7110,
+                            "name": "special_bonus_unique_necrophos_3",
+                            "name_loc": "+{s:value}% Ghost Shroud Slow",
+                            "desc_loc": "",
+                            "lore_loc": "",
+                            "notes_loc": [],
+                            "shard_loc": "",
+                            "scepter_loc": "",
+                            "type": 2,
+                            "behavior": "2",
+                            "target_team": 0,
+                            "target_type": 0,
+                            "flags": 0,
+                            "damage": 0,
+                            "immunity": 0,
+                            "dispellable": 0,
+                            "max_level": 4,
+                            "cast_ranges": [
+                                0
+                            ],
+                            "cast_points": [
+                                0
+                            ],
+                            "channel_times": [
+                                0
+                            ],
+                            "cooldowns": [
+                                0
+                            ],
+                            "durations": [
+                                0
+                            ],
+                            "damages": [
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "mana_costs": [
+                                0
+                            ],
+                            "gold_costs": [],
+                            "special_values": [
+                                {
+                                    "name": "value",
+                                    "values_float": [
+                                        24
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCastRange",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityChannelTime",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityDuration",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCastPoint",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCharges",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityChargeRestoreTime",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityManaCost",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCooldown",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                }
+                            ],
+                            "is_item": false,
+                            "ability_has_scepter": false,
+                            "ability_has_shard": false,
+                            "ability_is_granted_by_scepter": false,
+                            "ability_is_granted_by_shard": false,
+                            "item_cost": 0,
+                            "item_initial_charges": 0,
+                            "item_neutral_tier": 4294967295,
+                            "item_stock_max": 0,
+                            "item_stock_time": 0,
+                            "item_quality": 0
+                        },
+                        {
+                            "id": 7111,
+                            "name": "special_bonus_unique_necrophos_4",
+                            "name_loc": "+{s:value} Death Pulse Heal",
+                            "desc_loc": "",
+                            "lore_loc": "",
+                            "notes_loc": [],
+                            "shard_loc": "",
+                            "scepter_loc": "",
+                            "type": 2,
+                            "behavior": "2",
+                            "target_team": 0,
+                            "target_type": 0,
+                            "flags": 0,
+                            "damage": 0,
+                            "immunity": 0,
+                            "dispellable": 0,
+                            "max_level": 4,
+                            "cast_ranges": [
+                                0
+                            ],
+                            "cast_points": [
+                                0
+                            ],
+                            "channel_times": [
+                                0
+                            ],
+                            "cooldowns": [
+                                0
+                            ],
+                            "durations": [
+                                0
+                            ],
+                            "damages": [
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "mana_costs": [
+                                0
+                            ],
+                            "gold_costs": [],
+                            "special_values": [
+                                {
+                                    "name": "value",
+                                    "values_float": [
+                                        32
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCastRange",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityChannelTime",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityDuration",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCastPoint",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCharges",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityChargeRestoreTime",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityManaCost",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCooldown",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                }
+                            ],
+                            "is_item": false,
+                            "ability_has_scepter": false,
+                            "ability_has_shard": false,
+                            "ability_is_granted_by_scepter": false,
+                            "ability_is_granted_by_shard": false,
+                            "item_cost": 0,
+                            "item_initial_charges": 0,
+                            "item_neutral_tier": 4294967295,
+                            "item_stock_max": 0,
+                            "item_stock_time": 0,
+                            "item_quality": 0
+                        },
+                        {
+                            "id": 6138,
+                            "name": "special_bonus_magic_resistance_15",
+                            "name_loc": "+{s:value}% Magic Resistance",
+                            "desc_loc": "",
+                            "lore_loc": "",
+                            "notes_loc": [],
+                            "shard_loc": "",
+                            "scepter_loc": "",
+                            "type": 2,
+                            "behavior": "2",
+                            "target_team": 0,
+                            "target_type": 0,
+                            "flags": 0,
+                            "damage": 0,
+                            "immunity": 0,
+                            "dispellable": 0,
+                            "max_level": 4,
+                            "cast_ranges": [
+                                0
+                            ],
+                            "cast_points": [
+                                0
+                            ],
+                            "channel_times": [
+                                0
+                            ],
+                            "cooldowns": [
+                                0
+                            ],
+                            "durations": [
+                                0
+                            ],
+                            "damages": [
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "mana_costs": [
+                                0
+                            ],
+                            "gold_costs": [],
+                            "special_values": [
+                                {
+                                    "name": "value",
+                                    "values_float": [
+                                        15
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCastRange",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityChannelTime",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityDuration",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCastPoint",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCharges",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityChargeRestoreTime",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityManaCost",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCooldown",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                }
+                            ],
+                            "is_item": false,
+                            "ability_has_scepter": false,
+                            "ability_has_shard": false,
+                            "ability_is_granted_by_scepter": false,
+                            "ability_is_granted_by_shard": false,
+                            "item_cost": 0,
+                            "item_initial_charges": 0,
+                            "item_neutral_tier": 4294967295,
+                            "item_stock_max": 0,
+                            "item_stock_time": 0,
+                            "item_quality": 0
+                        },
+                        {
+                            "id": 350,
+                            "name": "special_bonus_unique_necrophos_5",
+                            "name_loc": "+{s:value}% Heartstopper Regen Reduction",
+                            "desc_loc": "",
+                            "lore_loc": "",
+                            "notes_loc": [],
+                            "shard_loc": "",
+                            "scepter_loc": "",
+                            "type": 2,
+                            "behavior": "2",
+                            "target_team": 0,
+                            "target_type": 0,
+                            "flags": 0,
+                            "damage": 0,
+                            "immunity": 0,
+                            "dispellable": 0,
+                            "max_level": 4,
+                            "cast_ranges": [
+                                0
+                            ],
+                            "cast_points": [
+                                0
+                            ],
+                            "channel_times": [
+                                0
+                            ],
+                            "cooldowns": [
+                                0
+                            ],
+                            "durations": [
+                                0
+                            ],
+                            "damages": [
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "mana_costs": [
+                                0
+                            ],
+                            "gold_costs": [],
+                            "special_values": [
+                                {
+                                    "name": "value",
+                                    "values_float": [
+                                        32
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCastRange",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityChannelTime",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityDuration",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCastPoint",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCharges",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityChargeRestoreTime",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityManaCost",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCooldown",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                }
+                            ],
+                            "is_item": false,
+                            "ability_has_scepter": false,
+                            "ability_has_shard": false,
+                            "ability_is_granted_by_scepter": false,
+                            "ability_is_granted_by_shard": false,
+                            "item_cost": 0,
+                            "item_initial_charges": 0,
+                            "item_neutral_tier": 4294967295,
+                            "item_stock_max": 0,
+                            "item_stock_time": 0,
+                            "item_quality": 0
+                        },
+                        {
+                            "id": 6703,
+                            "name": "special_bonus_unique_necrophos_2",
+                            "name_loc": "+{s:value}% Heartstopper Aura",
+                            "desc_loc": "",
+                            "lore_loc": "",
+                            "notes_loc": [],
+                            "shard_loc": "",
+                            "scepter_loc": "",
+                            "type": 2,
+                            "behavior": "2",
+                            "target_team": 0,
+                            "target_type": 0,
+                            "flags": 0,
+                            "damage": 0,
+                            "immunity": 0,
+                            "dispellable": 0,
+                            "max_level": 4,
+                            "cast_ranges": [
+                                0
+                            ],
+                            "cast_points": [
+                                0
+                            ],
+                            "channel_times": [
+                                0
+                            ],
+                            "cooldowns": [
+                                0
+                            ],
+                            "durations": [
+                                0
+                            ],
+                            "damages": [
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "mana_costs": [
+                                0
+                            ],
+                            "gold_costs": [],
+                            "special_values": [
+                                {
+                                    "name": "value",
+                                    "values_float": [
+                                        0.5
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCastRange",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityChannelTime",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityDuration",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCastPoint",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCharges",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityChargeRestoreTime",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityManaCost",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCooldown",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                }
+                            ],
+                            "is_item": false,
+                            "ability_has_scepter": false,
+                            "ability_has_shard": false,
+                            "ability_is_granted_by_scepter": false,
+                            "ability_is_granted_by_shard": false,
+                            "item_cost": 0,
+                            "item_initial_charges": 0,
+                            "item_neutral_tier": 4294967295,
+                            "item_stock_max": 0,
+                            "item_stock_time": 0,
+                            "item_quality": 0
+                        },
+                        {
+                            "id": 6010,
+                            "name": "special_bonus_unique_necrophos",
+                            "name_loc": "-{s:value}s Death Pulse Cooldown",
+                            "desc_loc": "",
+                            "lore_loc": "",
+                            "notes_loc": [],
+                            "shard_loc": "",
+                            "scepter_loc": "",
+                            "type": 2,
+                            "behavior": "2",
+                            "target_team": 0,
+                            "target_type": 0,
+                            "flags": 0,
+                            "damage": 0,
+                            "immunity": 0,
+                            "dispellable": 0,
+                            "max_level": 4,
+                            "cast_ranges": [
+                                0
+                            ],
+                            "cast_points": [
+                                0
+                            ],
+                            "channel_times": [
+                                0
+                            ],
+                            "cooldowns": [
+                                0
+                            ],
+                            "durations": [
+                                0
+                            ],
+                            "damages": [
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "mana_costs": [
+                                0
+                            ],
+                            "gold_costs": [],
+                            "special_values": [
+                                {
+                                    "name": "value",
+                                    "values_float": [
+                                        2.5
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCastRange",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityChannelTime",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityDuration",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCastPoint",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCharges",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityChargeRestoreTime",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityManaCost",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                },
+                                {
+                                    "name": "AbilityCooldown",
+                                    "values_float": [
+                                        0
+                                    ],
+                                    "is_percentage": false,
+                                    "heading_loc": "",
+                                    "bonuses": []
+                                }
+                            ],
+                            "is_item": false,
+                            "ability_has_scepter": false,
+                            "ability_has_shard": false,
+                            "ability_is_granted_by_scepter": false,
+                            "ability_is_granted_by_shard": false,
+                            "item_cost": 0,
+                            "item_initial_charges": 0,
+                            "item_neutral_tier": 4294967295,
+                            "item_stock_max": 0,
+                            "item_stock_time": 0,
+                            "item_quality": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        "status": 1
+    }
+}
