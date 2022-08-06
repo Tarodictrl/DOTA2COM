@@ -12,3 +12,5 @@ Directory of heroes files - dota2.com/datafeed/herodata
 Directory of DPCStandingsfile - dota2.com/webapi/IDOTA2DPC/GetDPCStandings/v0001
 
 Directory of GetLeagueTeamInfos - dota2.com/webapi/IDOTA2Teams/GetLeagueTeamInfos/v0001
+
+Directory of GetLeagueData - dota2.com/webapi/IDOTA2League/GetLeagueData/v0001
