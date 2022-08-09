@@ -1325,29 +1325,6 @@
             ]
         },
         {
-            "team_id": 8255756,
-            "team_name": "SG esports",
-            "team_abbreviation": "SG",
-            "team_logo": "1662356550778267512",
-            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1662356550778267512/15BE5F30F36E3EBA99D9B7E0E810398B35E3043C/",
-            "total_points": 42,
-            "total_earnings": 25000,
-            "league_results": [
-                {
-                    "timestamp": 1657842679,
-                    "league_id": 14299,
-                    "standing": 5,
-                    "points": 50,
-                    "earnings": 25000
-                },
-                {
-                    "timestamp": 1659090301,
-                    "audit_action": 2,
-                    "audit_data": 173971950
-                }
-            ]
-        },
-        {
             "team_id": 8598633,
             "team_name": "Pari Parni",
             "team_abbreviation": "PAR",
@@ -1417,6 +1394,34 @@
                     "timestamp": 1658729063,
                     "audit_action": 2,
                     "audit_data": 107081378
+                }
+            ]
+        },
+        {
+            "team_id": 8255756,
+            "team_name": "SG esports",
+            "team_abbreviation": "SG",
+            "team_logo": "1662356550778267512",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1662356550778267512/15BE5F30F36E3EBA99D9B7E0E810398B35E3043C/",
+            "total_points": 35,
+            "total_earnings": 25000,
+            "league_results": [
+                {
+                    "timestamp": 1657842679,
+                    "league_id": 14299,
+                    "standing": 5,
+                    "points": 50,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1659090301,
+                    "audit_action": 2,
+                    "audit_data": 173971950
+                },
+                {
+                    "timestamp": 1660057539,
+                    "audit_action": 2,
+                    "audit_data": 407321629
                 }
             ]
         },
