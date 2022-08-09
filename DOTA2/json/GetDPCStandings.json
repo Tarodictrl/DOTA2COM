@@ -2399,5 +2399,102 @@
     ],
     "major_wildcard_standings": [],
     "major_group_standings": [],
-    "major_playoff_standings": []
+    "major_playoff_standings": [
+        {
+            "team_id": 15,
+            "wins": 0,
+            "losses": 0,
+            "team_url": "https://steamusercontent-a.akamaihd.net/ugc/1768194395980560504/81579A4F0055C88DACF7F52C77767A74D503CA57/",
+            "team_name": "PSG.LGD",
+            "team_abbreviation": "PLGD"
+        },
+        {
+            "team_id": 7732977,
+            "wins": 0,
+            "losses": 0,
+            "team_url": "https://steamusercontent-a.akamaihd.net/ugc/768365068750604173/EF3216F4B02A0DA2327AC3190A369349C7BF3A24/",
+            "team_name": "BOOM Esports",
+            "team_abbreviation": "BOOM"
+        },
+        {
+            "team_id": 8605863,
+            "wins": 0,
+            "losses": 0,
+            "team_url": "https://steamusercontent-a.akamaihd.net/ugc/1816635640278661784/C77C3FA0D190002E17524596E5C62083994E2535/",
+            "team_name": "Entity",
+            "team_abbreviation": "ENT"
+        },
+        {
+            "team_id": 2586976,
+            "wins": 0,
+            "losses": 0,
+            "team_url": "https://steamusercontent-a.akamaihd.net/ugc/862855679982708969/901D0525481B6F5E3ECDC5D42176C685588B4CE1/",
+            "team_name": "OG",
+            "team_abbreviation": "OG"
+        },
+        {
+            "team_id": 8724984,
+            "wins": 0,
+            "losses": 0,
+            "team_url": "https://steamusercontent-a.akamaihd.net/ugc/1867321556649110780/6CB8A30A5D9AA184FE09A384E8CCD4949BF8A3A0/",
+            "team_name": "Outsiders",
+            "team_abbreviation": "OUT"
+        },
+        {
+            "team_id": 7119388,
+            "wins": 0,
+            "losses": 0,
+            "team_url": "https://steamusercontent-a.akamaihd.net/ugc/1773822957617535601/F40F2155B92321415E972B787C5B1B0FFF06155A/",
+            "team_name": "Team Spirit",
+            "team_abbreviation": "TS"
+        },
+        {
+            "team_id": 6209166,
+            "wins": 0,
+            "losses": 0,
+            "team_url": "https://steamusercontent-a.akamaihd.net/ugc/1629730253163462144/FEF15B2B4528E81103DD693E37FD7B6C9BE6B471/",
+            "team_name": "Team Aster",
+            "team_abbreviation": "AST"
+        },
+        {
+            "team_id": 350190,
+            "wins": 0,
+            "losses": 0,
+            "team_url": "https://steamusercontent-a.akamaihd.net/ugc/772866954983282781/BCE0124B9A9BC0185070C01920318E880D60774C/",
+            "team_name": "Fnatic",
+            "team_abbreviation": "FNA"
+        },
+        {
+            "team_id": 8254400,
+            "wins": 0,
+            "losses": 0,
+            "team_url": "https://steamusercontent-a.akamaihd.net/ugc/1664609440937553639/85EA3FC27708076F8ACC2E5B70E25EEC72B09CC6/",
+            "team_name": "beastcoast",
+            "team_abbreviation": "BC"
+        },
+        {
+            "team_id": 6209804,
+            "wins": 0,
+            "losses": 0,
+            "team_url": "https://steamusercontent-a.akamaihd.net/ugc/1859419394708226637/C2EB25BCB5A0C4430E839D705A4C5576A02D4EB7/",
+            "team_name": "Royal Never Give Up",
+            "team_abbreviation": "RNG"
+        },
+        {
+            "team_id": 39,
+            "wins": 0,
+            "losses": 0,
+            "team_url": "https://steamusercontent-a.akamaihd.net/ugc/1827909808864108708/BAA861E234E1BA39D75DF4CB814A5B76D020BED7/",
+            "team_name": "Evil Geniuses",
+            "team_abbreviation": "EG"
+        },
+        {
+            "team_id": 2163,
+            "wins": 0,
+            "losses": 0,
+            "team_url": "https://steamusercontent-a.akamaihd.net/ugc/1762564594200433864/BBC3AE3F2E89971A24F387C180F6EEBB70ACD252/",
+            "team_name": "Team Liquid",
+            "team_abbreviation": "LIQ"
+        }
+    ]
 }
