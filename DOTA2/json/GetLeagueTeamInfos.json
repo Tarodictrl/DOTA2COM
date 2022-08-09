@@ -3849,6 +3849,14 @@
                     "real_name": ""
                 },
                 {
+                    "account_id": 87382579,
+                    "time_joined": 1660070594,
+                    "admin": false,
+                    "pro_name": "",
+                    "role": 0,
+                    "real_name": ""
+                },
+                {
                     "account_id": 97658618,
                     "time_joined": 1610049748,
                     "admin": false,
@@ -3913,22 +3921,12 @@
                 145550466,
                 238239590
             ],
-            "coach_account_id": 0,
+            "coach_account_id": 87382579,
             "audit_entries": [
                 {
                     "audit_action": 5,
-                    "timestamp": 1637448582,
-                    "account_id": 145550466
-                },
-                {
-                    "audit_action": 5,
-                    "timestamp": 1637448802,
-                    "account_id": 126212866
-                },
-                {
-                    "audit_action": 5,
-                    "timestamp": 1637448795,
-                    "account_id": 238239590
+                    "timestamp": 1637448793,
+                    "account_id": 38628747
                 },
                 {
                     "audit_action": 5,
@@ -3937,8 +3935,18 @@
                 },
                 {
                     "audit_action": 5,
-                    "timestamp": 1637448793,
-                    "account_id": 38628747
+                    "timestamp": 1637448802,
+                    "account_id": 126212866
+                },
+                {
+                    "audit_action": 5,
+                    "timestamp": 1637448582,
+                    "account_id": 145550466
+                },
+                {
+                    "audit_action": 5,
+                    "timestamp": 1637448795,
+                    "account_id": 238239590
                 }
             ],
             "region": 0,
