@@ -226,7 +226,7 @@
             "team_name": "Tundra Esports",
             "team_abbreviation": "TUN",
             "team_logo": "1771573722041415896",
-            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1771573722041415896/D98163DE6281550D35494CEFDF6257F9716BD43B/",
+            "team_logo_url": "",
             "total_points": 1212,
             "total_earnings": 158000,
             "league_results": [
@@ -634,7 +634,7 @@
             "team_name": "Outsiders",
             "team_abbreviation": "OUT",
             "team_logo": "1867321556649110780",
-            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1867321556649110780/6CB8A30A5D9AA184FE09A384E8CCD4949BF8A3A0/",
+            "team_logo_url": "",
             "total_points": 659,
             "total_earnings": 97000,
             "league_results": [
@@ -799,7 +799,7 @@
             "team_name": "Natus Vincere",
             "team_abbreviation": "NAVI",
             "team_logo": "1835776613064898878",
-            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1835776613064898878/C43B5C953D856345AD19194A84440600AA1672A1/",
+            "team_logo_url": "",
             "total_points": 341,
             "total_earnings": 68000,
             "league_results": [
@@ -841,7 +841,7 @@
             "team_name": "Talon",
             "team_abbreviation": "TLN",
             "team_logo": "1818886756398782872",
-            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1818886756398782872/1DA3D79899C2200A5B0B9DF361BC278D572CE314/",
+            "team_logo_url": "",
             "total_points": 300,
             "total_earnings": 28000,
             "league_results": [
@@ -1854,7 +1854,7 @@
                     "team_id": 8291895,
                     "wins": 6,
                     "losses": 1,
-                    "team_url": "https://steamusercontent-a.akamaihd.net/ugc/1771573722041415896/D98163DE6281550D35494CEFDF6257F9716BD43B/",
+                    "team_url": "",
                     "team_name": "Tundra Esports",
                     "team_abbreviation": "TUN"
                 },
@@ -1994,7 +1994,7 @@
                     "team_id": 8724984,
                     "wins": 6,
                     "losses": 1,
-                    "team_url": "https://steamusercontent-a.akamaihd.net/ugc/1867321556649110780/6CB8A30A5D9AA184FE09A384E8CCD4949BF8A3A0/",
+                    "team_url": "",
                     "team_name": "Outsiders",
                     "team_abbreviation": "OUT"
                 },
@@ -2002,7 +2002,7 @@
                     "team_id": 36,
                     "wins": 6,
                     "losses": 1,
-                    "team_url": "https://steamusercontent-a.akamaihd.net/ugc/1835776613064898878/C43B5C953D856345AD19194A84440600AA1672A1/",
+                    "team_url": "",
                     "team_name": "Natus Vincere",
                     "team_abbreviation": "NAVI"
                 },
@@ -2282,7 +2282,7 @@
                     "team_id": 8597976,
                     "wins": 6,
                     "losses": 1,
-                    "team_url": "https://steamusercontent-a.akamaihd.net/ugc/1818886756398782872/1DA3D79899C2200A5B0B9DF361BC278D572CE314/",
+                    "team_url": "",
                     "team_name": "Talon",
                     "team_abbreviation": "TLN"
                 },
@@ -2446,7 +2446,7 @@
             "team_id": 8724984,
             "wins": 0,
             "losses": 0,
-            "team_url": "https://steamusercontent-a.akamaihd.net/ugc/1867321556649110780/6CB8A30A5D9AA184FE09A384E8CCD4949BF8A3A0/",
+            "team_url": "",
             "team_name": "Outsiders",
             "team_abbreviation": "OUT"
         },
