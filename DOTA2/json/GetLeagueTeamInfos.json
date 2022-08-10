@@ -87,23 +87,23 @@
             "audit_entries": [
                 {
                     "audit_action": 5,
-                    "timestamp": 1637229800,
-                    "account_id": 118134220
-                },
-                {
-                    "audit_action": 5,
                     "timestamp": 1637238341,
                     "account_id": 111114687
                 },
                 {
                     "audit_action": 5,
-                    "timestamp": 1637229513,
-                    "account_id": 173978074
+                    "timestamp": 1637229800,
+                    "account_id": 118134220
                 },
                 {
                     "audit_action": 5,
                     "timestamp": 1637231541,
                     "account_id": 157475523
+                },
+                {
+                    "audit_action": 5,
+                    "timestamp": 1637229513,
+                    "account_id": 173978074
                 },
                 {
                     "audit_action": 5,
@@ -1517,11 +1517,6 @@
             "audit_entries": [
                 {
                     "audit_action": 5,
-                    "timestamp": 1637507444,
-                    "account_id": 401792574
-                },
-                {
-                    "audit_action": 5,
                     "timestamp": 1637507438,
                     "account_id": 167976729
                 },
@@ -1529,6 +1524,11 @@
                     "audit_action": 5,
                     "timestamp": 1637507312,
                     "account_id": 183719386
+                },
+                {
+                    "audit_action": 5,
+                    "timestamp": 1637507444,
+                    "account_id": 401792574
                 },
                 {
                     "audit_action": 5,
@@ -2826,21 +2826,6 @@
             "coach_account_id": 132379908,
             "audit_entries": [
                 {
-                    "audit_action": 5,
-                    "timestamp": 1636671551,
-                    "account_id": 155332459
-                },
-                {
-                    "audit_action": 5,
-                    "timestamp": 1645407996,
-                    "account_id": 408729743
-                },
-                {
-                    "audit_action": 5,
-                    "timestamp": 1636671454,
-                    "account_id": 352545711
-                },
-                {
                     "audit_action": 2,
                     "timestamp": 1645407005,
                     "account_id": 352623024
@@ -2852,8 +2837,23 @@
                 },
                 {
                     "audit_action": 5,
+                    "timestamp": 1636671454,
+                    "account_id": 352545711
+                },
+                {
+                    "audit_action": 5,
                     "timestamp": 1636679003,
                     "account_id": 339235645
+                },
+                {
+                    "audit_action": 5,
+                    "timestamp": 1645407996,
+                    "account_id": 408729743
+                },
+                {
+                    "audit_action": 5,
+                    "timestamp": 1636671551,
+                    "account_id": 155332459
                 },
                 {
                     "audit_action": 5,
