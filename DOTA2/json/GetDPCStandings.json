@@ -1317,44 +1317,6 @@
             ]
         },
         {
-            "team_id": 8598633,
-            "team_name": "Pari Parni",
-            "team_abbreviation": "PAR",
-            "team_logo": "1834667908936691921",
-            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1834667908936691921/B0DE768E38B9349ED1D103BD151874541FC38802/",
-            "total_points": 40,
-            "total_earnings": 15000,
-            "league_results": [
-                {
-                    "timestamp": 1651370400,
-                    "league_id": 14187,
-                    "standing": 4,
-                    "points": 80,
-                    "earnings": 15000
-                },
-                {
-                    "timestamp": 1653065498,
-                    "audit_action": 2,
-                    "audit_data": 165564598
-                },
-                {
-                    "timestamp": 1653065862,
-                    "audit_action": 2,
-                    "audit_data": 94049589
-                },
-                {
-                    "timestamp": 1653065866,
-                    "audit_action": 2,
-                    "audit_data": 159020918
-                },
-                {
-                    "timestamp": 1653065871,
-                    "audit_action": 2,
-                    "audit_data": 132851371
-                }
-            ]
-        },
-        {
             "team_id": 8255756,
             "team_name": "SG esports",
             "team_abbreviation": "SG",
@@ -1402,6 +1364,49 @@
                     "timestamp": 1651958507,
                     "audit_action": 2,
                     "audit_data": 76904792
+                }
+            ]
+        },
+        {
+            "team_id": 8598633,
+            "team_name": "Pari Parni",
+            "team_abbreviation": "PAR",
+            "team_logo": "1834667908936691921",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1834667908936691921/B0DE768E38B9349ED1D103BD151874541FC38802/",
+            "total_points": 34,
+            "total_earnings": 15000,
+            "league_results": [
+                {
+                    "timestamp": 1651370400,
+                    "league_id": 14187,
+                    "standing": 4,
+                    "points": 80,
+                    "earnings": 15000
+                },
+                {
+                    "timestamp": 1653065498,
+                    "audit_action": 2,
+                    "audit_data": 165564598
+                },
+                {
+                    "timestamp": 1653065862,
+                    "audit_action": 2,
+                    "audit_data": 94049589
+                },
+                {
+                    "timestamp": 1653065866,
+                    "audit_action": 2,
+                    "audit_data": 159020918
+                },
+                {
+                    "timestamp": 1653065871,
+                    "audit_action": 2,
+                    "audit_data": 132851371
+                },
+                {
+                    "timestamp": 1660216254,
+                    "audit_action": 2,
+                    "audit_data": 904131336
                 }
             ]
         },
