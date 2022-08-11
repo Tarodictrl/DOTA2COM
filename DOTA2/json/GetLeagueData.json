@@ -108,6 +108,38 @@
                 },
                 {
                     "standing": 0,
+                    "team_id": 6209166,
+                    "team_name": "Team Aster",
+                    "team_tag": "Aster",
+                    "team_logo": "1629730253163462144",
+                    "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1629730253163462144/FEF15B2B4528E81103DD693E37FD7B6C9BE6B471/",
+                    "wins": 0,
+                    "losses": 0,
+                    "score": "0",
+                    "team_abbreviation": "AST",
+                    "score_tiebreak_group": "0",
+                    "score_tiebreak_below": "0",
+                    "score_tiebreak_random": "0",
+                    "is_pro": true
+                },
+                {
+                    "standing": 0,
+                    "team_id": 7119388,
+                    "team_name": "Team Spirit",
+                    "team_tag": "TSpirit",
+                    "team_logo": "1773822957617535601",
+                    "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1773822957617535601/F40F2155B92321415E972B787C5B1B0FFF06155A/",
+                    "wins": 0,
+                    "losses": 0,
+                    "score": "0",
+                    "team_abbreviation": "TS",
+                    "score_tiebreak_group": "0",
+                    "score_tiebreak_below": "0",
+                    "score_tiebreak_random": "0",
+                    "is_pro": true
+                },
+                {
+                    "standing": 0,
                     "team_id": 7391077,
                     "team_name": "Thunder Awaken",
                     "team_tag": "THUNDER",
@@ -117,6 +149,38 @@
                     "losses": 0,
                     "score": "0",
                     "team_abbreviation": "THU",
+                    "score_tiebreak_group": "0",
+                    "score_tiebreak_below": "0",
+                    "score_tiebreak_random": "0",
+                    "is_pro": true
+                },
+                {
+                    "standing": 0,
+                    "team_id": 7732977,
+                    "team_name": "BOOM Esports",
+                    "team_tag": "BOOM",
+                    "team_logo": "768365068750604173",
+                    "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/768365068750604173/EF3216F4B02A0DA2327AC3190A369349C7BF3A24/",
+                    "wins": 0,
+                    "losses": 0,
+                    "score": "0",
+                    "team_abbreviation": "BOOM",
+                    "score_tiebreak_group": "0",
+                    "score_tiebreak_below": "0",
+                    "score_tiebreak_random": "0",
+                    "is_pro": true
+                },
+                {
+                    "standing": 0,
+                    "team_id": 8254400,
+                    "team_name": "beastcoast",
+                    "team_tag": "bc",
+                    "team_logo": "1664609440937553639",
+                    "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1664609440937553639/85EA3FC27708076F8ACC2E5B70E25EEC72B09CC6/",
+                    "wins": 0,
+                    "losses": 0,
+                    "score": "0",
+                    "team_abbreviation": "BC",
                     "score_tiebreak_group": "0",
                     "score_tiebreak_below": "0",
                     "score_tiebreak_random": "0",
@@ -137,6 +201,38 @@
                     "score_tiebreak_below": "0",
                     "score_tiebreak_random": "0",
                     "is_pro": true
+                },
+                {
+                    "standing": 0,
+                    "team_id": 8291895,
+                    "team_name": "Tundra Esports",
+                    "team_tag": "Tundra",
+                    "team_logo": "1771573722041415896",
+                    "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1771573722041415896/D98163DE6281550D35494CEFDF6257F9716BD43B/",
+                    "wins": 0,
+                    "losses": 0,
+                    "score": "0",
+                    "team_abbreviation": "TUN",
+                    "score_tiebreak_group": "0",
+                    "score_tiebreak_below": "0",
+                    "score_tiebreak_random": "0",
+                    "is_pro": true
+                },
+                {
+                    "standing": 0,
+                    "team_id": 8599101,
+                    "team_name": "Gaimin Gladiators",
+                    "team_tag": "GG",
+                    "team_logo": "1850419664501191993",
+                    "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1850419664501191993/5DAAB68FB5604D29E1792A0F35E74B3FE3F3A026/",
+                    "wins": 0,
+                    "losses": 0,
+                    "score": "0",
+                    "team_abbreviation": "GG",
+                    "score_tiebreak_group": "0",
+                    "score_tiebreak_below": "0",
+                    "score_tiebreak_random": "0",
+                    "is_pro": true
                 }
             ],
             "nodes": [],
@@ -146,9 +242,24 @@
     "series_infos": [],
     "registered_players": [
         {
+            "account_id": 10366616,
+            "name": "Sneyking",
+            "team_id": 8291895
+        },
+        {
+            "account_id": 16497807,
+            "name": "tOfu",
+            "team_id": 8599101
+        },
+        {
             "account_id": 38628747,
             "name": "MoonMeander",
             "team_id": 8260983
+        },
+        {
+            "account_id": 86698277,
+            "name": "33",
+            "team_id": 8291895
         },
         {
             "account_id": 90125566,
@@ -156,9 +267,24 @@
             "team_id": 2586976
         },
         {
+            "account_id": 91730177,
+            "name": "Seleri",
+            "team_id": 8599101
+        },
+        {
             "account_id": 93618577,
             "name": "bzm",
             "team_id": 2586976
+        },
+        {
+            "account_id": 94786276,
+            "name": "Nine",
+            "team_id": 8291895
+        },
+        {
+            "account_id": 97590558,
+            "name": "Ace",
+            "team_id": 8599101
         },
         {
             "account_id": 97658618,
@@ -166,9 +292,39 @@
             "team_id": 8260983
         },
         {
+            "account_id": 100058342,
+            "name": "skiter",
+            "team_id": 8291895
+        },
+        {
+            "account_id": 100594231,
+            "name": "skem",
+            "team_id": 7732977
+        },
+        {
+            "account_id": 103735745,
+            "name": "Saksa",
+            "team_id": 8291895
+        },
+        {
+            "account_id": 107803494,
+            "name": "Ori",
+            "team_id": 6209166
+        },
+        {
             "account_id": 111114687,
             "name": "y`",
             "team_id": 15
+        },
+        {
+            "account_id": 113331514,
+            "name": "Miposhka",
+            "team_id": 7119388
+        },
+        {
+            "account_id": 116934015,
+            "name": "dyrachyo",
+            "team_id": 8599101
         },
         {
             "account_id": 117089283,
@@ -181,9 +337,19 @@
             "team_id": 15
         },
         {
+            "account_id": 119631156,
+            "name": "XstiNgerX",
+            "team_id": 8254400
+        },
+        {
             "account_id": 126212866,
             "name": "SabeRLighT-",
             "team_id": 8260983
+        },
+        {
+            "account_id": 129958758,
+            "name": "Xxs",
+            "team_id": 6209166
         },
         {
             "account_id": 145550466,
@@ -191,14 +357,44 @@
             "team_id": 8260983
         },
         {
+            "account_id": 148215639,
+            "name": "Monet",
+            "team_id": 6209166
+        },
+        {
+            "account_id": 153836240,
+            "name": "C. smile  <",
+            "team_id": 8254400
+        },
+        {
             "account_id": 155332459,
             "name": "Matthew",
             "team_id": 7391077
         },
         {
+            "account_id": 155494381,
+            "name": "TIMS",
+            "team_id": 7732977
+        },
+        {
+            "account_id": 156328257,
+            "name": "Fbz",
+            "team_id": 7732977
+        },
+        {
             "account_id": 157475523,
             "name": "XinQ",
             "team_id": 15
+        },
+        {
+            "account_id": 157989498,
+            "name": "G\u014djira",
+            "team_id": 8254400
+        },
+        {
+            "account_id": 164685175,
+            "name": "K1",
+            "team_id": 8254400
         },
         {
             "account_id": 167976729,
@@ -211,14 +407,54 @@
             "team_id": 15
         },
         {
+            "account_id": 183378746,
+            "name": "\u76ae\u7403",
+            "team_id": 6209166
+        },
+        {
             "account_id": 183719386,
             "name": "AMMAR_THE_F",
             "team_id": 2586976
         },
         {
+            "account_id": 190826739,
+            "name": "BOOM",
+            "team_id": 8599101
+        },
+        {
+            "account_id": 207829314,
+            "name": "BoBoKa",
+            "team_id": 6209166
+        },
+        {
             "account_id": 238239590,
             "name": "Bryle",
             "team_id": 8260983
+        },
+        {
+            "account_id": 256156323,
+            "name": "Mira",
+            "team_id": 7119388
+        },
+        {
+            "account_id": 292921272,
+            "name": "Wisper ",
+            "team_id": 8254400
+        },
+        {
+            "account_id": 302214028,
+            "name": "CoLLapse",
+            "team_id": 7119388
+        },
+        {
+            "account_id": 321580662,
+            "name": "YATOROGOD",
+            "team_id": 7119388
+        },
+        {
+            "account_id": 324277900,
+            "name": "Yopaj-",
+            "team_id": 7732977
         },
         {
             "account_id": 339235645,
@@ -231,6 +467,11 @@
             "team_id": 7391077
         },
         {
+            "account_id": 392565237,
+            "name": "JACKBOYS",
+            "team_id": 7732977
+        },
+        {
             "account_id": 401792574,
             "name": "Taiga",
             "team_id": 2586976
@@ -239,6 +480,11 @@
             "account_id": 408729743,
             "name": "Sacred",
             "team_id": 7391077
+        },
+        {
+            "account_id": 431770905,
+            "name": "TORONTOTOKYO",
+            "team_id": 7119388
         },
         {
             "account_id": 898754153,
