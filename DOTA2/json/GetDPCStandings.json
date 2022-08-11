@@ -549,38 +549,6 @@
             ]
         },
         {
-            "team_id": 8721219,
-            "team_name": "BetBoom Team",
-            "team_abbreviation": "BB",
-            "team_logo": "1845922937363804366",
-            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1845922937363804366/B718AFD0F76379ACDDE28F7512FC91B76C478985/",
-            "total_points": 740,
-            "total_earnings": 53500,
-            "league_results": [
-                {
-                    "timestamp": 1651529364,
-                    "league_id": 14187,
-                    "standing": 1,
-                    "points": 400,
-                    "earnings": 15000
-                },
-                {
-                    "timestamp": 1653053094,
-                    "league_id": 14173,
-                    "standing": 7,
-                    "points": 240,
-                    "earnings": 12500
-                },
-                {
-                    "timestamp": 1657817235,
-                    "league_id": 14295,
-                    "standing": 4,
-                    "points": 100,
-                    "earnings": 26000
-                }
-            ]
-        },
-        {
             "team_id": 6209804,
             "team_name": "Royal Never Give Up",
             "team_abbreviation": "RNG",
@@ -675,6 +643,43 @@
                     "standing": 1,
                     "points": 500,
                     "earnings": 30000
+                }
+            ]
+        },
+        {
+            "team_id": 8721219,
+            "team_name": "BetBoom Team",
+            "team_abbreviation": "BB",
+            "team_logo": "1845922937363804366",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1845922937363804366/B718AFD0F76379ACDDE28F7512FC91B76C478985/",
+            "total_points": 629,
+            "total_earnings": 53500,
+            "league_results": [
+                {
+                    "timestamp": 1651529364,
+                    "league_id": 14187,
+                    "standing": 1,
+                    "points": 400,
+                    "earnings": 15000
+                },
+                {
+                    "timestamp": 1653053094,
+                    "league_id": 14173,
+                    "standing": 7,
+                    "points": 240,
+                    "earnings": 12500
+                },
+                {
+                    "timestamp": 1657817235,
+                    "league_id": 14295,
+                    "standing": 4,
+                    "points": 100,
+                    "earnings": 26000
+                },
+                {
+                    "timestamp": 1660215404,
+                    "audit_action": 2,
+                    "audit_data": 235505993
                 }
             ]
         },
@@ -1091,39 +1096,6 @@
             ]
         },
         {
-            "team_id": 8261648,
-            "team_name": "PuckChamp",
-            "team_abbreviation": "PC",
-            "team_logo": "1883081308671045364",
-            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1883081308671045364/AAB8E517ADA03AFB4DC1847E2377430B3929770D/",
-            "total_points": 110,
-            "total_earnings": 28000,
-            "league_results": [
-                {
-                    "timestamp": 1642093115,
-                    "league_id": 13709,
-                    "standing": 2,
-                    "points": 180,
-                    "earnings": 28000
-                },
-                {
-                    "timestamp": 1658586367,
-                    "audit_action": 2,
-                    "audit_data": 197547532
-                },
-                {
-                    "timestamp": 1659179843,
-                    "audit_action": 2,
-                    "audit_data": 73401082
-                },
-                {
-                    "timestamp": 1659180017,
-                    "audit_action": 2,
-                    "audit_data": 150748346
-                }
-            ]
-        },
-        {
             "team_id": 1838315,
             "team_name": "Team Secret",
             "team_abbreviation": "SEC",
@@ -1193,6 +1165,44 @@
                     "standing": 4,
                     "points": 100,
                     "earnings": 26000
+                }
+            ]
+        },
+        {
+            "team_id": 8261648,
+            "team_name": "PuckChamp",
+            "team_abbreviation": "PC",
+            "team_logo": "1883081308671045364",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1883081308671045364/AAB8E517ADA03AFB4DC1847E2377430B3929770D/",
+            "total_points": 93,
+            "total_earnings": 28000,
+            "league_results": [
+                {
+                    "timestamp": 1642093115,
+                    "league_id": 13709,
+                    "standing": 2,
+                    "points": 180,
+                    "earnings": 28000
+                },
+                {
+                    "timestamp": 1658586367,
+                    "audit_action": 2,
+                    "audit_data": 197547532
+                },
+                {
+                    "timestamp": 1659179843,
+                    "audit_action": 2,
+                    "audit_data": 73401082
+                },
+                {
+                    "timestamp": 1659180017,
+                    "audit_action": 2,
+                    "audit_data": 150748346
+                },
+                {
+                    "timestamp": 1660215296,
+                    "audit_action": 2,
+                    "audit_data": 159020918
                 }
             ]
         },
