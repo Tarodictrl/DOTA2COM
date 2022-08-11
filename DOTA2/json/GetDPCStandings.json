@@ -726,50 +726,6 @@
             ]
         },
         {
-            "team_id": 8214850,
-            "team_name": "T1",
-            "team_abbreviation": "T1",
-            "team_logo": "1658977260140178019",
-            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1658977260140178019/F5E6186EC7A4E3E2568A66055529ABBE78D8DE67/",
-            "total_points": 378,
-            "total_earnings": 104000,
-            "league_results": [
-                {
-                    "timestamp": 1642602581,
-                    "league_id": 13747,
-                    "standing": 3,
-                    "points": 120,
-                    "earnings": 27000
-                },
-                {
-                    "timestamp": 1644759028,
-                    "league_id": 13939,
-                    "standing": 2,
-                    "points": 78,
-                    "earnings": 25000
-                },
-                {
-                    "timestamp": 1645412268,
-                    "audit_action": 2,
-                    "audit_data": 375507918
-                },
-                {
-                    "timestamp": 1650467838,
-                    "league_id": 14067,
-                    "standing": 3,
-                    "points": 160,
-                    "earnings": 27000
-                },
-                {
-                    "timestamp": 1657799995,
-                    "league_id": 14270,
-                    "standing": 5,
-                    "points": 50,
-                    "earnings": 25000
-                }
-            ]
-        },
-        {
             "team_id": 8261500,
             "team_name": "Xtreme\u00a0 Gaming",
             "team_abbreviation": "XG",
@@ -883,6 +839,60 @@
                     "standing": 3,
                     "points": 200,
                     "earnings": 27000
+                }
+            ]
+        },
+        {
+            "team_id": 8214850,
+            "team_name": "T1",
+            "team_abbreviation": "T1",
+            "team_logo": "1658977260140178019",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1658977260140178019/F5E6186EC7A4E3E2568A66055529ABBE78D8DE67/",
+            "total_points": 272,
+            "total_earnings": 104000,
+            "league_results": [
+                {
+                    "timestamp": 1642602581,
+                    "league_id": 13747,
+                    "standing": 3,
+                    "points": 120,
+                    "earnings": 27000
+                },
+                {
+                    "timestamp": 1644759028,
+                    "league_id": 13939,
+                    "standing": 2,
+                    "points": 78,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1645412268,
+                    "audit_action": 2,
+                    "audit_data": 375507918
+                },
+                {
+                    "timestamp": 1650467838,
+                    "league_id": 14067,
+                    "standing": 3,
+                    "points": 160,
+                    "earnings": 27000
+                },
+                {
+                    "timestamp": 1657799995,
+                    "league_id": 14270,
+                    "standing": 5,
+                    "points": 50,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1660199515,
+                    "audit_action": 2,
+                    "audit_data": 94281932
+                },
+                {
+                    "timestamp": 1660199523,
+                    "audit_action": 2,
+                    "audit_data": 152545459
                 }
             ]
         },
