@@ -92,6 +92,22 @@
                 },
                 {
                     "standing": 0,
+                    "team_id": 39,
+                    "team_name": "Evil Geniuses",
+                    "team_tag": "EG",
+                    "team_logo": "1827909808864108708",
+                    "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1827909808864108708/BAA861E234E1BA39D75DF4CB814A5B76D020BED7/",
+                    "wins": 0,
+                    "losses": 0,
+                    "score": "0",
+                    "team_abbreviation": "EG",
+                    "score_tiebreak_group": "0",
+                    "score_tiebreak_below": "0",
+                    "score_tiebreak_random": "0",
+                    "is_pro": true
+                },
+                {
+                    "standing": 0,
                     "team_id": 2586976,
                     "team_name": "OG",
                     "team_tag": "OG",
@@ -233,6 +249,22 @@
                     "score_tiebreak_below": "0",
                     "score_tiebreak_random": "0",
                     "is_pro": true
+                },
+                {
+                    "standing": 0,
+                    "team_id": 8724984,
+                    "team_name": "Outsiders",
+                    "team_tag": "Outsider",
+                    "team_logo": "1867321556649110780",
+                    "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1867321556649110780/6CB8A30A5D9AA184FE09A384E8CCD4949BF8A3A0/",
+                    "wins": 0,
+                    "losses": 0,
+                    "score": "0",
+                    "team_abbreviation": "OUT",
+                    "score_tiebreak_group": "0",
+                    "score_tiebreak_below": "0",
+                    "score_tiebreak_random": "0",
+                    "is_pro": true
                 }
             ],
             "nodes": [],
@@ -241,6 +273,11 @@
     ],
     "series_infos": [],
     "registered_players": [
+        {
+            "account_id": 9403474,
+            "name": "yamich",
+            "team_id": 8724984
+        },
         {
             "account_id": 10366616,
             "name": "Sneyking",
@@ -252,14 +289,29 @@
             "team_id": 8599101
         },
         {
+            "account_id": 25907144,
+            "name": "Cr1t-",
+            "team_id": 39
+        },
+        {
             "account_id": 38628747,
             "name": "MoonMeander",
             "team_id": 8260983
         },
         {
+            "account_id": 56351509,
+            "name": "DM",
+            "team_id": 8724984
+        },
+        {
             "account_id": 86698277,
             "name": "33",
             "team_id": 8291895
+        },
+        {
+            "account_id": 86745912,
+            "name": "\u5929\u9e3d",
+            "team_id": 39
         },
         {
             "account_id": 90125566,
@@ -275,6 +327,11 @@
             "account_id": 93618577,
             "name": "bzm",
             "team_id": 2586976
+        },
+        {
+            "account_id": 94155156,
+            "name": "Fly",
+            "team_id": 39
         },
         {
             "account_id": 94786276,
@@ -342,6 +399,11 @@
             "team_id": 8254400
         },
         {
+            "account_id": 124801257,
+            "name": "Nightfall \u51db",
+            "team_id": 39
+        },
+        {
             "account_id": 126212866,
             "name": "SabeRLighT-",
             "team_id": 8260983
@@ -350,6 +412,11 @@
             "account_id": 129958758,
             "name": "Xxs",
             "team_id": 6209166
+        },
+        {
+            "account_id": 132851371,
+            "name": "RAMZES666",
+            "team_id": 8724984
         },
         {
             "account_id": 145550466,
@@ -365,6 +432,11 @@
             "account_id": 153836240,
             "name": "C. smile  <",
             "team_id": 8254400
+        },
+        {
+            "account_id": 154715080,
+            "name": "Abed",
+            "team_id": 39
         },
         {
             "account_id": 155332459,
@@ -427,6 +499,11 @@
             "team_id": 6209166
         },
         {
+            "account_id": 217472313,
+            "name": "Xakoda",
+            "team_id": 8724984
+        },
+        {
             "account_id": 238239590,
             "name": "Bryle",
             "team_id": 8260983
@@ -485,6 +562,11 @@
             "account_id": 431770905,
             "name": "TORONTOTOKYO",
             "team_id": 7119388
+        },
+        {
+            "account_id": 480412663,
+            "name": "gpk~",
+            "team_id": 8724984
         },
         {
             "account_id": 898754153,
