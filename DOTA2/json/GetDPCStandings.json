@@ -1307,34 +1307,6 @@
             ]
         },
         {
-            "team_id": 8244493,
-            "team_name": "Team SMG",
-            "team_abbreviation": "SMG",
-            "team_logo": "1856049226625971775",
-            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1856049226625971775/C8540DF2478E5EE8890CD4128DE07176F9FE5FA2/",
-            "total_points": 43,
-            "total_earnings": 26000,
-            "league_results": [
-                {
-                    "timestamp": 1642158648,
-                    "league_id": 13747,
-                    "standing": 4,
-                    "points": 60,
-                    "earnings": 26000
-                },
-                {
-                    "timestamp": 1645434016,
-                    "audit_action": 2,
-                    "audit_data": 108717482
-                },
-                {
-                    "timestamp": 1653031906,
-                    "audit_action": 2,
-                    "audit_data": 91443418
-                }
-            ]
-        },
-        {
             "team_id": 8598633,
             "team_name": "Pari Parni",
             "team_abbreviation": "PAR",
@@ -1498,6 +1470,44 @@
                     "timestamp": 1653282750,
                     "audit_action": 2,
                     "audit_data": 88153289
+                }
+            ]
+        },
+        {
+            "team_id": 8244493,
+            "team_name": "Team SMG",
+            "team_abbreviation": "SMG",
+            "team_logo": "1856049226625971775",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1856049226625971775/C8540DF2478E5EE8890CD4128DE07176F9FE5FA2/",
+            "total_points": 30,
+            "total_earnings": 26000,
+            "league_results": [
+                {
+                    "timestamp": 1642158648,
+                    "league_id": 13747,
+                    "standing": 4,
+                    "points": 60,
+                    "earnings": 26000
+                },
+                {
+                    "timestamp": 1645434016,
+                    "audit_action": 2,
+                    "audit_data": 108717482
+                },
+                {
+                    "timestamp": 1653031906,
+                    "audit_action": 2,
+                    "audit_data": 91443418
+                },
+                {
+                    "timestamp": 1660204992,
+                    "audit_action": 2,
+                    "audit_data": 6922000
+                },
+                {
+                    "timestamp": 1660205001,
+                    "audit_action": 2,
+                    "audit_data": 135495981
                 }
             ]
         },
