@@ -135,7 +135,7 @@
                 {
                     "timestamp": 1660327099,
                     "league_id": 14417,
-                    "standing": 8,
+                    "standing": 7,
                     "points": 360,
                     "earnings": 12500
                 }
@@ -478,6 +478,62 @@
             ]
         },
         {
+            "team_id": 8724984,
+            "team_name": "Outsiders",
+            "team_abbreviation": "OUT",
+            "team_logo": "1867321556649110780",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1867321556649110780/6CB8A30A5D9AA184FE09A384E8CCD4949BF8A3A0/",
+            "total_points": 1019,
+            "total_earnings": 109500,
+            "league_results": [
+                {
+                    "timestamp": 1642708623,
+                    "league_id": 13709,
+                    "standing": 3,
+                    "points": 120,
+                    "earnings": 27000
+                },
+                {
+                    "timestamp": 1645384061,
+                    "league_id": 13926,
+                    "standing": 2,
+                    "points": 78,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1646905810,
+                    "audit_action": 2,
+                    "audit_data": 187758589
+                },
+                {
+                    "timestamp": 1651529364,
+                    "league_id": 14187,
+                    "standing": 5,
+                    "points": 20,
+                    "earnings": 15000
+                },
+                {
+                    "timestamp": 1652699830,
+                    "audit_action": 2,
+                    "audit_data": 331855530
+                },
+                {
+                    "timestamp": 1657899258,
+                    "league_id": 14295,
+                    "standing": 1,
+                    "points": 500,
+                    "earnings": 30000
+                },
+                {
+                    "timestamp": 1660339788,
+                    "league_id": 14417,
+                    "standing": 7,
+                    "points": 360,
+                    "earnings": 12500
+                }
+            ]
+        },
+        {
             "team_id": 7119388,
             "team_name": "Team Spirit",
             "team_abbreviation": "TS",
@@ -598,55 +654,6 @@
                 {
                     "timestamp": 1657454680,
                     "league_id": 14248,
-                    "standing": 1,
-                    "points": 500,
-                    "earnings": 30000
-                }
-            ]
-        },
-        {
-            "team_id": 8724984,
-            "team_name": "Outsiders",
-            "team_abbreviation": "OUT",
-            "team_logo": "1867321556649110780",
-            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1867321556649110780/6CB8A30A5D9AA184FE09A384E8CCD4949BF8A3A0/",
-            "total_points": 659,
-            "total_earnings": 97000,
-            "league_results": [
-                {
-                    "timestamp": 1642708623,
-                    "league_id": 13709,
-                    "standing": 3,
-                    "points": 120,
-                    "earnings": 27000
-                },
-                {
-                    "timestamp": 1645384061,
-                    "league_id": 13926,
-                    "standing": 2,
-                    "points": 78,
-                    "earnings": 25000
-                },
-                {
-                    "timestamp": 1646905810,
-                    "audit_action": 2,
-                    "audit_data": 187758589
-                },
-                {
-                    "timestamp": 1651529364,
-                    "league_id": 14187,
-                    "standing": 5,
-                    "points": 20,
-                    "earnings": 15000
-                },
-                {
-                    "timestamp": 1652699830,
-                    "audit_action": 2,
-                    "audit_data": 331855530
-                },
-                {
-                    "timestamp": 1657899258,
-                    "league_id": 14295,
                     "standing": 1,
                     "points": 500,
                     "earnings": 30000
@@ -2477,14 +2484,6 @@
             "team_abbreviation": "OG"
         },
         {
-            "team_id": 8724984,
-            "wins": 0,
-            "losses": 0,
-            "team_url": "https://steamusercontent-a.akamaihd.net/ugc/1867321556649110780/6CB8A30A5D9AA184FE09A384E8CCD4949BF8A3A0/",
-            "team_name": "Outsiders",
-            "team_abbreviation": "OUT"
-        },
-        {
             "team_id": 7119388,
             "wins": 0,
             "losses": 0,
@@ -2515,6 +2514,14 @@
             "team_url": "https://steamusercontent-a.akamaihd.net/ugc/768365068750604173/EF3216F4B02A0DA2327AC3190A369349C7BF3A24/",
             "team_name": "BOOM Esports",
             "team_abbreviation": "BOOM"
+        },
+        {
+            "team_id": 8724984,
+            "wins": 0,
+            "losses": 0,
+            "team_url": "https://steamusercontent-a.akamaihd.net/ugc/1867321556649110780/6CB8A30A5D9AA184FE09A384E8CCD4949BF8A3A0/",
+            "team_name": "Outsiders",
+            "team_abbreviation": "OUT"
         },
         {
             "team_id": 350190,
