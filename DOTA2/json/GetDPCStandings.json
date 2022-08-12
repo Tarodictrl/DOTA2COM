@@ -91,6 +91,57 @@
             ]
         },
         {
+            "team_id": 7732977,
+            "team_name": "BOOM Esports",
+            "team_abbreviation": "BOOM",
+            "team_logo": "768365068750604173",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/768365068750604173/EF3216F4B02A0DA2327AC3190A369349C7BF3A24/",
+            "total_points": 1482,
+            "total_earnings": 150500,
+            "league_results": [
+                {
+                    "timestamp": 1642585288,
+                    "league_id": 13747,
+                    "standing": 1,
+                    "points": 300,
+                    "earnings": 30000
+                },
+                {
+                    "timestamp": 1644759028,
+                    "league_id": 13939,
+                    "standing": 1,
+                    "points": 150,
+                    "earnings": 50000
+                },
+                {
+                    "timestamp": 1645524116,
+                    "audit_action": 2,
+                    "audit_data": 337575662
+                },
+                {
+                    "timestamp": 1650545587,
+                    "league_id": 14067,
+                    "standing": 2,
+                    "points": 240,
+                    "earnings": 28000
+                },
+                {
+                    "timestamp": 1657369400,
+                    "league_id": 14270,
+                    "standing": 1,
+                    "points": 500,
+                    "earnings": 30000
+                },
+                {
+                    "timestamp": 1660327099,
+                    "league_id": 14417,
+                    "standing": 8,
+                    "points": 360,
+                    "earnings": 12500
+                }
+            ]
+        },
+        {
             "team_id": 8260983,
             "team_name": "TSM FTX",
             "team_abbreviation": "TSM",
@@ -301,50 +352,6 @@
                     "standing": 4,
                     "points": 460,
                     "earnings": 50000
-                }
-            ]
-        },
-        {
-            "team_id": 7732977,
-            "team_name": "BOOM Esports",
-            "team_abbreviation": "BOOM",
-            "team_logo": "768365068750604173",
-            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/768365068750604173/EF3216F4B02A0DA2327AC3190A369349C7BF3A24/",
-            "total_points": 1122,
-            "total_earnings": 138000,
-            "league_results": [
-                {
-                    "timestamp": 1642585288,
-                    "league_id": 13747,
-                    "standing": 1,
-                    "points": 300,
-                    "earnings": 30000
-                },
-                {
-                    "timestamp": 1644759028,
-                    "league_id": 13939,
-                    "standing": 1,
-                    "points": 150,
-                    "earnings": 50000
-                },
-                {
-                    "timestamp": 1645524116,
-                    "audit_action": 2,
-                    "audit_data": 337575662
-                },
-                {
-                    "timestamp": 1650545587,
-                    "league_id": 14067,
-                    "standing": 2,
-                    "points": 240,
-                    "earnings": 28000
-                },
-                {
-                    "timestamp": 1657369400,
-                    "league_id": 14270,
-                    "standing": 1,
-                    "points": 500,
-                    "earnings": 30000
                 }
             ]
         },
@@ -2454,14 +2461,6 @@
             "team_abbreviation": "PLGD"
         },
         {
-            "team_id": 7732977,
-            "wins": 0,
-            "losses": 0,
-            "team_url": "https://steamusercontent-a.akamaihd.net/ugc/768365068750604173/EF3216F4B02A0DA2327AC3190A369349C7BF3A24/",
-            "team_name": "BOOM Esports",
-            "team_abbreviation": "BOOM"
-        },
-        {
             "team_id": 8605863,
             "wins": 0,
             "losses": 0,
@@ -2508,6 +2507,14 @@
             "team_url": "https://steamusercontent-a.akamaihd.net/ugc/1664609440937553639/85EA3FC27708076F8ACC2E5B70E25EEC72B09CC6/",
             "team_name": "beastcoast",
             "team_abbreviation": "BC"
+        },
+        {
+            "team_id": 7732977,
+            "wins": 0,
+            "losses": 0,
+            "team_url": "https://steamusercontent-a.akamaihd.net/ugc/768365068750604173/EF3216F4B02A0DA2327AC3190A369349C7BF3A24/",
+            "team_name": "BOOM Esports",
+            "team_abbreviation": "BOOM"
         },
         {
             "team_id": 350190,
