@@ -1,6 +1,59 @@
 {
     "results": [
         {
+            "team_id": 8254400,
+            "team_name": "beastcoast",
+            "team_abbreviation": "BC",
+            "team_logo": "1664609440937553639",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1664609440937553639/85EA3FC27708076F8ACC2E5B70E25EEC72B09CC6/",
+            "total_points": 1810,
+            "total_earnings": 183000,
+            "league_results": [
+                {
+                    "timestamp": 1642813003,
+                    "league_id": 13712,
+                    "standing": 3,
+                    "points": 120,
+                    "earnings": 27000
+                },
+                {
+                    "timestamp": 1644804762,
+                    "league_id": 13954,
+                    "standing": 1,
+                    "points": 250,
+                    "earnings": 50000
+                },
+                {
+                    "timestamp": 1650675121,
+                    "league_id": 14071,
+                    "standing": 2,
+                    "points": 240,
+                    "earnings": 28000
+                },
+                {
+                    "timestamp": 1653078819,
+                    "league_id": 14173,
+                    "standing": 5,
+                    "points": 385,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1657927862,
+                    "league_id": 14299,
+                    "standing": 2,
+                    "points": 300,
+                    "earnings": 28000
+                },
+                {
+                    "timestamp": 1660415836,
+                    "league_id": 14417,
+                    "standing": 5,
+                    "points": 515,
+                    "earnings": 25000
+                }
+            ]
+        },
+        {
             "team_id": 7391077,
             "team_name": "Thunder Awaken",
             "team_abbreviation": "THU",
@@ -223,52 +276,6 @@
                     "standing": 3,
                     "points": 200,
                     "earnings": 27000
-                }
-            ]
-        },
-        {
-            "team_id": 8254400,
-            "team_name": "beastcoast",
-            "team_abbreviation": "BC",
-            "team_logo": "1664609440937553639",
-            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1664609440937553639/85EA3FC27708076F8ACC2E5B70E25EEC72B09CC6/",
-            "total_points": 1295,
-            "total_earnings": 158000,
-            "league_results": [
-                {
-                    "timestamp": 1642813003,
-                    "league_id": 13712,
-                    "standing": 3,
-                    "points": 120,
-                    "earnings": 27000
-                },
-                {
-                    "timestamp": 1644804762,
-                    "league_id": 13954,
-                    "standing": 1,
-                    "points": 250,
-                    "earnings": 50000
-                },
-                {
-                    "timestamp": 1650675121,
-                    "league_id": 14071,
-                    "standing": 2,
-                    "points": 240,
-                    "earnings": 28000
-                },
-                {
-                    "timestamp": 1653078819,
-                    "league_id": 14173,
-                    "standing": 5,
-                    "points": 385,
-                    "earnings": 25000
-                },
-                {
-                    "timestamp": 1657927862,
-                    "league_id": 14299,
-                    "standing": 2,
-                    "points": 300,
-                    "earnings": 28000
                 }
             ]
         },
@@ -763,7 +770,7 @@
                 {
                     "timestamp": 1660353181,
                     "league_id": 14417,
-                    "standing": 6,
+                    "standing": 5,
                     "points": 309,
                     "earnings": 25000
                 }
@@ -2504,20 +2511,20 @@
             "team_abbreviation": "AST"
         },
         {
-            "team_id": 8254400,
-            "wins": 0,
-            "losses": 0,
-            "team_url": "https://steamusercontent-a.akamaihd.net/ugc/1664609440937553639/85EA3FC27708076F8ACC2E5B70E25EEC72B09CC6/",
-            "team_name": "beastcoast",
-            "team_abbreviation": "BC"
-        },
-        {
             "team_id": 8605863,
             "wins": 0,
             "losses": 0,
             "team_url": "https://steamusercontent-a.akamaihd.net/ugc/1816635640278661784/C77C3FA0D190002E17524596E5C62083994E2535/",
             "team_name": "Entity",
             "team_abbreviation": "ENT"
+        },
+        {
+            "team_id": 8254400,
+            "wins": 0,
+            "losses": 0,
+            "team_url": "https://steamusercontent-a.akamaihd.net/ugc/1664609440937553639/85EA3FC27708076F8ACC2E5B70E25EEC72B09CC6/",
+            "team_name": "beastcoast",
+            "team_abbreviation": "BC"
         },
         {
             "team_id": 7732977,
