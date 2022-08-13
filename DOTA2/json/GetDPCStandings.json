@@ -1302,24 +1302,6 @@
             ]
         },
         {
-            "team_id": 7453020,
-            "team_name": "Aster.Aries",
-            "team_abbreviation": "ARI",
-            "team_logo": "1021697620249691876",
-            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1021697620249691876/0C6C8F47D723EF0B110292609BFDB64EB7B9553C/",
-            "total_points": 50,
-            "total_earnings": 25000,
-            "league_results": [
-                {
-                    "timestamp": 1657623485,
-                    "league_id": 14248,
-                    "standing": 5,
-                    "points": 50,
-                    "earnings": 25000
-                }
-            ]
-        },
-        {
             "team_id": 8376696,
             "team_name": "One Move",
             "team_abbreviation": "MOV",
@@ -1334,6 +1316,29 @@
                     "standing": 5,
                     "points": 50,
                     "earnings": 25000
+                }
+            ]
+        },
+        {
+            "team_id": 7453020,
+            "team_name": "Aster.Aries",
+            "team_abbreviation": "ARI",
+            "team_logo": "1021697620249691876",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1021697620249691876/0C6C8F47D723EF0B110292609BFDB64EB7B9553C/",
+            "total_points": 42,
+            "total_earnings": 25000,
+            "league_results": [
+                {
+                    "timestamp": 1657623485,
+                    "league_id": 14248,
+                    "standing": 5,
+                    "points": 50,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1660395508,
+                    "audit_action": 2,
+                    "audit_data": 162926943
                 }
             ]
         },
