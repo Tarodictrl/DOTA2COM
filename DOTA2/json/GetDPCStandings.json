@@ -100,6 +100,52 @@
             ]
         },
         {
+            "team_id": 6209166,
+            "team_name": "Team Aster",
+            "team_abbreviation": "AST",
+            "team_logo": "1629730253163462144",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1629730253163462144/FEF15B2B4528E81103DD693E37FD7B6C9BE6B471/",
+            "total_points": 1690,
+            "total_earnings": 156000,
+            "league_results": [
+                {
+                    "timestamp": 1642936998,
+                    "league_id": 13716,
+                    "standing": 2,
+                    "points": 180,
+                    "earnings": 28000
+                },
+                {
+                    "timestamp": 1650804372,
+                    "league_id": 14041,
+                    "standing": 8,
+                    "points": 240,
+                    "earnings": 0
+                },
+                {
+                    "timestamp": 1652020833,
+                    "league_id": 14196,
+                    "standing": 2,
+                    "points": 300,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1657873543,
+                    "league_id": 14248,
+                    "standing": 2,
+                    "points": 300,
+                    "earnings": 28000
+                },
+                {
+                    "timestamp": 1660498496,
+                    "league_id": 14417,
+                    "standing": 3,
+                    "points": 670,
+                    "earnings": 75000
+                }
+            ]
+        },
+        {
             "team_id": 7391077,
             "team_name": "Thunder Awaken",
             "team_abbreviation": "THU",
@@ -449,45 +495,6 @@
                     "standing": 3,
                     "points": 200,
                     "earnings": 27000
-                }
-            ]
-        },
-        {
-            "team_id": 6209166,
-            "team_name": "Team Aster",
-            "team_abbreviation": "AST",
-            "team_logo": "1629730253163462144",
-            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1629730253163462144/FEF15B2B4528E81103DD693E37FD7B6C9BE6B471/",
-            "total_points": 1020,
-            "total_earnings": 81000,
-            "league_results": [
-                {
-                    "timestamp": 1642936998,
-                    "league_id": 13716,
-                    "standing": 2,
-                    "points": 180,
-                    "earnings": 28000
-                },
-                {
-                    "timestamp": 1650804372,
-                    "league_id": 14041,
-                    "standing": 8,
-                    "points": 240,
-                    "earnings": 0
-                },
-                {
-                    "timestamp": 1652020833,
-                    "league_id": 14196,
-                    "standing": 2,
-                    "points": 300,
-                    "earnings": 25000
-                },
-                {
-                    "timestamp": 1657873543,
-                    "league_id": 14248,
-                    "standing": 2,
-                    "points": 300,
-                    "earnings": 28000
                 }
             ]
         },
