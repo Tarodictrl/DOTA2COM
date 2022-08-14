@@ -54,6 +54,52 @@
             ]
         },
         {
+            "team_id": 2586976,
+            "team_name": "OG",
+            "team_abbreviation": "OG",
+            "team_logo": "862855679982708969",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/862855679982708969/901D0525481B6F5E3ECDC5D42176C685588B4CE1/",
+            "total_points": 1694,
+            "total_earnings": 333000,
+            "league_results": [
+                {
+                    "timestamp": 1642607615,
+                    "league_id": 13738,
+                    "standing": 4,
+                    "points": 60,
+                    "earnings": 26000
+                },
+                {
+                    "timestamp": 1650390773,
+                    "league_id": 14052,
+                    "standing": 1,
+                    "points": 400,
+                    "earnings": 30000
+                },
+                {
+                    "timestamp": 1653245279,
+                    "league_id": 14173,
+                    "standing": 1,
+                    "points": 680,
+                    "earnings": 200000
+                },
+                {
+                    "timestamp": 1657723297,
+                    "league_id": 14279,
+                    "standing": 3,
+                    "points": 200,
+                    "earnings": 27000
+                },
+                {
+                    "timestamp": 1660440462,
+                    "league_id": 14417,
+                    "standing": 4,
+                    "points": 354,
+                    "earnings": 50000
+                }
+            ]
+        },
+        {
             "team_id": 7391077,
             "team_name": "Thunder Awaken",
             "team_abbreviation": "THU",
@@ -237,45 +283,6 @@
                     "standing": 4,
                     "points": 100,
                     "earnings": 26000
-                }
-            ]
-        },
-        {
-            "team_id": 2586976,
-            "team_name": "OG",
-            "team_abbreviation": "OG",
-            "team_logo": "862855679982708969",
-            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/862855679982708969/901D0525481B6F5E3ECDC5D42176C685588B4CE1/",
-            "total_points": 1340,
-            "total_earnings": 283000,
-            "league_results": [
-                {
-                    "timestamp": 1642607615,
-                    "league_id": 13738,
-                    "standing": 4,
-                    "points": 60,
-                    "earnings": 26000
-                },
-                {
-                    "timestamp": 1650390773,
-                    "league_id": 14052,
-                    "standing": 1,
-                    "points": 400,
-                    "earnings": 30000
-                },
-                {
-                    "timestamp": 1653245279,
-                    "league_id": 14173,
-                    "standing": 1,
-                    "points": 680,
-                    "earnings": 200000
-                },
-                {
-                    "timestamp": 1657723297,
-                    "league_id": 14279,
-                    "standing": 3,
-                    "points": 200,
-                    "earnings": 27000
                 }
             ]
         },
@@ -2487,14 +2494,6 @@
             "team_abbreviation": "PLGD"
         },
         {
-            "team_id": 2586976,
-            "wins": 0,
-            "losses": 0,
-            "team_url": "https://steamusercontent-a.akamaihd.net/ugc/862855679982708969/901D0525481B6F5E3ECDC5D42176C685588B4CE1/",
-            "team_name": "OG",
-            "team_abbreviation": "OG"
-        },
-        {
             "team_id": 7119388,
             "wins": 0,
             "losses": 0,
@@ -2509,6 +2508,14 @@
             "team_url": "https://steamusercontent-a.akamaihd.net/ugc/1629730253163462144/FEF15B2B4528E81103DD693E37FD7B6C9BE6B471/",
             "team_name": "Team Aster",
             "team_abbreviation": "AST"
+        },
+        {
+            "team_id": 2586976,
+            "wins": 0,
+            "losses": 0,
+            "team_url": "https://steamusercontent-a.akamaihd.net/ugc/862855679982708969/901D0525481B6F5E3ECDC5D42176C685588B4CE1/",
+            "team_name": "OG",
+            "team_abbreviation": "OG"
         },
         {
             "team_id": 8605863,
