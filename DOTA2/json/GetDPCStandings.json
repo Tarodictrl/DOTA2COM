@@ -1170,43 +1170,6 @@
             ]
         },
         {
-            "team_id": 1838315,
-            "team_name": "Team Secret",
-            "team_abbreviation": "SEC",
-            "team_logo": "1848171366536285637",
-            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1848171366536285637/EB2AE7561FEE7D076D5EC2F30354217F91307658/",
-            "total_points": 109,
-            "total_earnings": 75000,
-            "league_results": [
-                {
-                    "timestamp": 1642534635,
-                    "league_id": 13738,
-                    "standing": 5,
-                    "points": 30,
-                    "earnings": 25000
-                },
-                {
-                    "timestamp": 1650124402,
-                    "league_id": 14052,
-                    "standing": 5,
-                    "points": 40,
-                    "earnings": 25000
-                },
-                {
-                    "timestamp": 1653310769,
-                    "audit_action": 2,
-                    "audit_data": 111620041
-                },
-                {
-                    "timestamp": 1657639073,
-                    "league_id": 14279,
-                    "standing": 5,
-                    "points": 50,
-                    "earnings": 25000
-                }
-            ]
-        },
-        {
             "team_id": 8668460,
             "team_name": "RSG",
             "team_abbreviation": "RSG",
@@ -1259,6 +1222,53 @@
                     "timestamp": 1660215296,
                     "audit_action": 2,
                     "audit_data": 159020918
+                }
+            ]
+        },
+        {
+            "team_id": 1838315,
+            "team_name": "Team Secret",
+            "team_abbreviation": "SEC",
+            "team_logo": "1848171366536285637",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1848171366536285637/EB2AE7561FEE7D076D5EC2F30354217F91307658/",
+            "total_points": 78,
+            "total_earnings": 75000,
+            "league_results": [
+                {
+                    "timestamp": 1642534635,
+                    "league_id": 13738,
+                    "standing": 5,
+                    "points": 30,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1650124402,
+                    "league_id": 14052,
+                    "standing": 5,
+                    "points": 40,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1653310769,
+                    "audit_action": 2,
+                    "audit_data": 111620041
+                },
+                {
+                    "timestamp": 1657639073,
+                    "league_id": 14279,
+                    "standing": 5,
+                    "points": 50,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1660554998,
+                    "audit_action": 2,
+                    "audit_data": 84772440
+                },
+                {
+                    "timestamp": 1660555003,
+                    "audit_action": 2,
+                    "audit_data": 89117038
                 }
             ]
         },
