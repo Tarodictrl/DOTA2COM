@@ -7,7 +7,7 @@
             "team_logo": "1768194395980560504",
             "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1768194395980560504/81579A4F0055C88DACF7F52C77767A74D503CA57/",
             "total_points": 2240,
-            "total_earnings": 461000,
+            "total_earnings": 286000,
             "league_results": [
                 {
                     "timestamp": 1642948562,
@@ -28,7 +28,7 @@
                     "league_id": 14041,
                     "standing": 1,
                     "points": 400,
-                    "earnings": 205000
+                    "earnings": 30000
                 },
                 {
                     "timestamp": 1652020833,
@@ -205,7 +205,7 @@
             "team_logo": "1629730253163462144",
             "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1629730253163462144/FEF15B2B4528E81103DD693E37FD7B6C9BE6B471/",
             "total_points": 1610,
-            "total_earnings": 156000,
+            "total_earnings": 183000,
             "league_results": [
                 {
                     "timestamp": 1642936998,
@@ -217,9 +217,9 @@
                 {
                     "timestamp": 1650804372,
                     "league_id": 14041,
-                    "standing": 8,
+                    "standing": 3,
                     "points": 160,
-                    "earnings": 0
+                    "earnings": 27000
                 },
                 {
                     "timestamp": 1652020833,
@@ -653,7 +653,7 @@
             "team_logo": "1859419394708226637",
             "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1859419394708226637/C2EB25BCB5A0C4430E839D705A4C5576A02D4EB7/",
             "total_points": 738,
-            "total_earnings": 82000,
+            "total_earnings": 108000,
             "league_results": [
                 {
                     "timestamp": 1642936998,
@@ -672,9 +672,9 @@
                 {
                     "timestamp": 1650790886,
                     "league_id": 14041,
-                    "standing": 8,
+                    "standing": 4,
                     "points": 80,
-                    "earnings": 0
+                    "earnings": 26000
                 },
                 {
                     "timestamp": 1652268060,
@@ -811,14 +811,14 @@
             "team_logo": "1833524088514545233",
             "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1833524088514545233/6F322E215508B25533628B8700F797C2D9658650/",
             "total_points": 440,
-            "total_earnings": 27000,
+            "total_earnings": 55000,
             "league_results": [
                 {
                     "timestamp": 1650790886,
                     "league_id": 14041,
-                    "standing": 8,
+                    "standing": 2,
                     "points": 240,
-                    "earnings": 0
+                    "earnings": 28000
                 },
                 {
                     "timestamp": 1657272011,
@@ -1409,7 +1409,7 @@
             "team_logo": "1841426000752906741",
             "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1841426000752906741/F21E67FA088B7176CA4C230B4039D2253B95570A/",
             "total_points": 42,
-            "total_earnings": 25000,
+            "total_earnings": 50000,
             "league_results": [
                 {
                     "timestamp": 1642924662,
@@ -1421,9 +1421,9 @@
                 {
                     "timestamp": 1650717571,
                     "league_id": 14041,
-                    "standing": 8,
+                    "standing": 5,
                     "points": 40,
-                    "earnings": 0
+                    "earnings": 25000
                 },
                 {
                     "timestamp": 1651830040,
