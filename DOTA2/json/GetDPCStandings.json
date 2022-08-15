@@ -733,6 +733,31 @@
             ]
         },
         {
+            "team_id": 8605863,
+            "team_name": "Entity",
+            "team_abbreviation": "ENT",
+            "team_logo": "1816635640278661784",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1816635640278661784/C77C3FA0D190002E17524596E5C62083994E2535/",
+            "total_points": 615,
+            "total_earnings": 51000,
+            "league_results": [
+                {
+                    "timestamp": 1657389053,
+                    "league_id": 14279,
+                    "standing": 4,
+                    "points": 100,
+                    "earnings": 26000
+                },
+                {
+                    "timestamp": 1660353181,
+                    "league_id": 14417,
+                    "standing": 5,
+                    "points": 515,
+                    "earnings": 25000
+                }
+            ]
+        },
+        {
             "team_id": 7390454,
             "team_name": "Soniqs",
             "team_abbreviation": "SQ",
@@ -776,31 +801,6 @@
                     "standing": 2,
                     "points": 300,
                     "earnings": 28000
-                }
-            ]
-        },
-        {
-            "team_id": 8605863,
-            "team_name": "Entity",
-            "team_abbreviation": "ENT",
-            "team_logo": "1816635640278661784",
-            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1816635640278661784/C77C3FA0D190002E17524596E5C62083994E2535/",
-            "total_points": 409,
-            "total_earnings": 51000,
-            "league_results": [
-                {
-                    "timestamp": 1657389053,
-                    "league_id": 14279,
-                    "standing": 4,
-                    "points": 100,
-                    "earnings": 26000
-                },
-                {
-                    "timestamp": 1660353181,
-                    "league_id": 14417,
-                    "standing": 5,
-                    "points": 309,
-                    "earnings": 25000
                 }
             ]
         },
