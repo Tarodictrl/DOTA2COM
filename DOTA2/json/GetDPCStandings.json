@@ -54,6 +54,52 @@
             ]
         },
         {
+            "team_id": 2586976,
+            "team_name": "OG",
+            "team_abbreviation": "OG",
+            "team_logo": "862855679982708969",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/862855679982708969/901D0525481B6F5E3ECDC5D42176C685588B4CE1/",
+            "total_points": 1930,
+            "total_earnings": 333000,
+            "league_results": [
+                {
+                    "timestamp": 1642607615,
+                    "league_id": 13738,
+                    "standing": 4,
+                    "points": 60,
+                    "earnings": 26000
+                },
+                {
+                    "timestamp": 1650390773,
+                    "league_id": 14052,
+                    "standing": 1,
+                    "points": 400,
+                    "earnings": 30000
+                },
+                {
+                    "timestamp": 1653245279,
+                    "league_id": 14173,
+                    "standing": 1,
+                    "points": 680,
+                    "earnings": 200000
+                },
+                {
+                    "timestamp": 1657723297,
+                    "league_id": 14279,
+                    "standing": 3,
+                    "points": 200,
+                    "earnings": 27000
+                },
+                {
+                    "timestamp": 1660440462,
+                    "league_id": 14417,
+                    "standing": 4,
+                    "points": 590,
+                    "earnings": 50000
+                }
+            ]
+        },
+        {
             "team_id": 7119388,
             "team_name": "Team Spirit",
             "team_abbreviation": "TS",
@@ -149,52 +195,6 @@
                     "standing": 5,
                     "points": 515,
                     "earnings": 25000
-                }
-            ]
-        },
-        {
-            "team_id": 2586976,
-            "team_name": "OG",
-            "team_abbreviation": "OG",
-            "team_logo": "862855679982708969",
-            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/862855679982708969/901D0525481B6F5E3ECDC5D42176C685588B4CE1/",
-            "total_points": 1694,
-            "total_earnings": 333000,
-            "league_results": [
-                {
-                    "timestamp": 1642607615,
-                    "league_id": 13738,
-                    "standing": 4,
-                    "points": 60,
-                    "earnings": 26000
-                },
-                {
-                    "timestamp": 1650390773,
-                    "league_id": 14052,
-                    "standing": 1,
-                    "points": 400,
-                    "earnings": 30000
-                },
-                {
-                    "timestamp": 1653245279,
-                    "league_id": 14173,
-                    "standing": 1,
-                    "points": 680,
-                    "earnings": 200000
-                },
-                {
-                    "timestamp": 1657723297,
-                    "league_id": 14279,
-                    "standing": 3,
-                    "points": 200,
-                    "earnings": 27000
-                },
-                {
-                    "timestamp": 1660440462,
-                    "league_id": 14417,
-                    "standing": 4,
-                    "points": 354,
-                    "earnings": 50000
                 }
             ]
         },
