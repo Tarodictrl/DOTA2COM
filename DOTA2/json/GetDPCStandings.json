@@ -1129,29 +1129,6 @@
             ]
         },
         {
-            "team_id": 8131728,
-            "team_name": "Hokori",
-            "team_abbreviation": "HOK",
-            "team_logo": "1704034371947308886",
-            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1704034371947308886/699822F5C75F7B674A0FFED975AAEC17A32B96A2/",
-            "total_points": 136,
-            "total_earnings": 27000,
-            "league_results": [
-                {
-                    "timestamp": 1650234913,
-                    "league_id": 14071,
-                    "standing": 3,
-                    "points": 160,
-                    "earnings": 27000
-                },
-                {
-                    "timestamp": 1652231252,
-                    "audit_action": 2,
-                    "audit_data": 105045291
-                }
-            ]
-        },
-        {
             "team_id": 8255888,
             "team_name": "Mind Games",
             "team_abbreviation": "MG",
@@ -1189,6 +1166,39 @@
                     "standing": 4,
                     "points": 100,
                     "earnings": 26000
+                }
+            ]
+        },
+        {
+            "team_id": 8131728,
+            "team_name": "Hokori",
+            "team_abbreviation": "HOK",
+            "team_logo": "1704034371947308886",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1704034371947308886/699822F5C75F7B674A0FFED975AAEC17A32B96A2/",
+            "total_points": 97,
+            "total_earnings": 27000,
+            "league_results": [
+                {
+                    "timestamp": 1650234913,
+                    "league_id": 14071,
+                    "standing": 3,
+                    "points": 160,
+                    "earnings": 27000
+                },
+                {
+                    "timestamp": 1652231252,
+                    "audit_action": 2,
+                    "audit_data": 105045291
+                },
+                {
+                    "timestamp": 1660583412,
+                    "audit_action": 2,
+                    "audit_data": 1031547092
+                },
+                {
+                    "timestamp": 1660583424,
+                    "audit_action": 2,
+                    "audit_data": 177203952
                 }
             ]
         },
