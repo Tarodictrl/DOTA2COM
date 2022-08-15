@@ -1403,6 +1403,46 @@
             ]
         },
         {
+            "team_id": 726228,
+            "team_name": "Vici Gaming",
+            "team_abbreviation": "VG",
+            "team_logo": "1841426000752906741",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1841426000752906741/F21E67FA088B7176CA4C230B4039D2253B95570A/",
+            "total_points": 42,
+            "total_earnings": 25000,
+            "league_results": [
+                {
+                    "timestamp": 1642924662,
+                    "league_id": 13716,
+                    "standing": 5,
+                    "points": 30,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1650717571,
+                    "league_id": 14041,
+                    "standing": 8,
+                    "points": 40,
+                    "earnings": 0
+                },
+                {
+                    "timestamp": 1651830040,
+                    "audit_action": 2,
+                    "audit_data": 223344914
+                },
+                {
+                    "timestamp": 1658729063,
+                    "audit_action": 2,
+                    "audit_data": 107081378
+                },
+                {
+                    "timestamp": 1660121750,
+                    "audit_action": 2,
+                    "audit_data": 114645455
+                }
+            ]
+        },
+        {
             "team_id": 8255756,
             "team_name": "SG esports",
             "team_abbreviation": "SG",
@@ -1493,46 +1533,6 @@
                     "timestamp": 1660216254,
                     "audit_action": 2,
                     "audit_data": 904131336
-                }
-            ]
-        },
-        {
-            "team_id": 726228,
-            "team_name": "Vici Gaming",
-            "team_abbreviation": "VG",
-            "team_logo": "1841426000752906741",
-            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1841426000752906741/F21E67FA088B7176CA4C230B4039D2253B95570A/",
-            "total_points": 32,
-            "total_earnings": 25000,
-            "league_results": [
-                {
-                    "timestamp": 1642924662,
-                    "league_id": 13716,
-                    "standing": 5,
-                    "points": 30,
-                    "earnings": 25000
-                },
-                {
-                    "timestamp": 1650717571,
-                    "league_id": 14041,
-                    "standing": 8,
-                    "points": 24,
-                    "earnings": 0
-                },
-                {
-                    "timestamp": 1651830040,
-                    "audit_action": 2,
-                    "audit_data": 223344914
-                },
-                {
-                    "timestamp": 1658729063,
-                    "audit_action": 2,
-                    "audit_data": 107081378
-                },
-                {
-                    "timestamp": 1660121750,
-                    "audit_action": 2,
-                    "audit_data": 114645455
                 }
             ]
         },
