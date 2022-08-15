@@ -204,7 +204,7 @@
             "team_abbreviation": "AST",
             "team_logo": "1629730253163462144",
             "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1629730253163462144/FEF15B2B4528E81103DD693E37FD7B6C9BE6B471/",
-            "total_points": 1690,
+            "total_points": 1610,
             "total_earnings": 156000,
             "league_results": [
                 {
@@ -218,7 +218,7 @@
                     "timestamp": 1650804372,
                     "league_id": 14041,
                     "standing": 8,
-                    "points": 240,
+                    "points": 160,
                     "earnings": 0
                 },
                 {
@@ -810,14 +810,14 @@
             "team_abbreviation": "XG",
             "team_logo": "1833524088514545233",
             "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1833524088514545233/6F322E215508B25533628B8700F797C2D9658650/",
-            "total_points": 360,
+            "total_points": 440,
             "total_earnings": 27000,
             "league_results": [
                 {
                     "timestamp": 1650790886,
                     "league_id": 14041,
                     "standing": 8,
-                    "points": 160,
+                    "points": 240,
                     "earnings": 0
                 },
                 {
