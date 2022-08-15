@@ -116,12 +116,23 @@
             "member_stats": [
                 {
                     "account_id": 111114687,
-                    "wins_with_team": 338,
-                    "losses_with_team": 143,
+                    "wins_with_team": 339,
+                    "losses_with_team": 146,
                     "top_heroes": [
                         {
                             "hero_id": 37,
                             "picks": 13,
+                            "wins": 0,
+                            "bans": 0,
+                            "avg_kills": 0,
+                            "avg_deaths": 0,
+                            "avg_assists": 0,
+                            "avg_gpm": 0,
+                            "avg_xpm": 0
+                        },
+                        {
+                            "hero_id": 50,
+                            "picks": 9,
                             "wins": 0,
                             "bans": 0,
                             "avg_kills": 0,
@@ -140,31 +151,20 @@
                             "avg_assists": 0,
                             "avg_gpm": 0,
                             "avg_xpm": 0
-                        },
-                        {
-                            "hero_id": 50,
-                            "picks": 8,
-                            "wins": 0,
-                            "bans": 0,
-                            "avg_kills": 0,
-                            "avg_deaths": 0,
-                            "avg_assists": 0,
-                            "avg_gpm": 0,
-                            "avg_xpm": 0
                         }
                     ],
-                    "avg_kills": 2.559999942779541,
-                    "avg_deaths": 5.773333549499512,
-                    "avg_assists": 14.4399995803833
+                    "avg_kills": 2.49367094039917,
+                    "avg_deaths": 5.797468185424805,
+                    "avg_assists": 14.41772174835205
                 },
                 {
                     "account_id": 118134220,
-                    "wins_with_team": 338,
-                    "losses_with_team": 141,
+                    "wins_with_team": 339,
+                    "losses_with_team": 144,
                     "top_heroes": [
                         {
                             "hero_id": 15,
-                            "picks": 13,
+                            "picks": 15,
                             "wins": 0,
                             "bans": 0,
                             "avg_kills": 0,
@@ -196,18 +196,29 @@
                             "avg_xpm": 0
                         }
                     ],
-                    "avg_kills": 5.693333148956299,
-                    "avg_deaths": 3.1066665649414062,
-                    "avg_assists": 11.493332862854004
+                    "avg_kills": 5.734177112579346,
+                    "avg_deaths": 3.240506410598755,
+                    "avg_assists": 11.39240550994873
                 },
                 {
                     "account_id": 157475523,
-                    "wins_with_team": 338,
-                    "losses_with_team": 144,
+                    "wins_with_team": 339,
+                    "losses_with_team": 147,
                     "top_heroes": [
                         {
                             "hero_id": 19,
                             "picks": 11,
+                            "wins": 0,
+                            "bans": 0,
+                            "avg_kills": 0,
+                            "avg_deaths": 0,
+                            "avg_assists": 0,
+                            "avg_gpm": 0,
+                            "avg_xpm": 0
+                        },
+                        {
+                            "hero_id": 107,
+                            "picks": 9,
                             "wins": 0,
                             "bans": 0,
                             "avg_kills": 0,
@@ -226,27 +237,16 @@
                             "avg_assists": 0,
                             "avg_gpm": 0,
                             "avg_xpm": 0
-                        },
-                        {
-                            "hero_id": 107,
-                            "picks": 8,
-                            "wins": 0,
-                            "bans": 0,
-                            "avg_kills": 0,
-                            "avg_deaths": 0,
-                            "avg_assists": 0,
-                            "avg_gpm": 0,
-                            "avg_xpm": 0
                         }
                     ],
-                    "avg_kills": 3.373333215713501,
-                    "avg_deaths": 5.146666526794434,
-                    "avg_assists": 13.866666793823242
+                    "avg_kills": 3.379746913909912,
+                    "avg_deaths": 5.177215099334717,
+                    "avg_assists": 13.860759735107422
                 },
                 {
                     "account_id": 173978074,
-                    "wins_with_team": 311,
-                    "losses_with_team": 129,
+                    "wins_with_team": 312,
+                    "losses_with_team": 132,
                     "top_heroes": [
                         {
                             "hero_id": 120,
@@ -261,7 +261,7 @@
                         },
                         {
                             "hero_id": 13,
-                            "picks": 9,
+                            "picks": 10,
                             "wins": 0,
                             "bans": 0,
                             "avg_kills": 0,
@@ -282,14 +282,14 @@
                             "avg_xpm": 0
                         }
                     ],
-                    "avg_kills": 6.960000038146973,
-                    "avg_deaths": 3.0266666412353516,
-                    "avg_assists": 10.973333358764648
+                    "avg_kills": 6.7848100662231445,
+                    "avg_deaths": 3.063291072845459,
+                    "avg_assists": 10.97468376159668
                 },
                 {
                     "account_id": 898754153,
-                    "wins_with_team": 350,
-                    "losses_with_team": 146,
+                    "wins_with_team": 351,
+                    "losses_with_team": 149,
                     "top_heroes": [
                         {
                             "hero_id": 41,
@@ -325,9 +325,9 @@
                             "avg_xpm": 0
                         }
                     ],
-                    "avg_kills": 7.28000020980835,
-                    "avg_deaths": 2.6666667461395264,
-                    "avg_assists": 8.933333396911621
+                    "avg_kills": 7.240506172180176,
+                    "avg_deaths": 2.7215189933776855,
+                    "avg_assists": 8.759493827819824
                 }
             ],
             "team_stats": {
@@ -345,14 +345,14 @@
                     },
                     {
                         "hero_id": 3,
-                        "picks": 3,
+                        "picks": 4,
                         "wins": 1,
                         "bans": 0,
-                        "avg_kills": 0.6666666865348816,
-                        "avg_deaths": 6.333333492279053,
-                        "avg_assists": 7.333333492279053,
-                        "avg_gpm": 220.6666717529297,
-                        "avg_xpm": 323.6666564941406
+                        "avg_kills": 0.5,
+                        "avg_deaths": 6,
+                        "avg_assists": 5.75,
+                        "avg_gpm": 210.5,
+                        "avg_xpm": 305.75
                     },
                     {
                         "hero_id": 4,
@@ -378,14 +378,14 @@
                     },
                     {
                         "hero_id": 7,
-                        "picks": 6,
+                        "picks": 7,
                         "wins": 5,
                         "bans": 0,
-                        "avg_kills": 2.8333332538604736,
-                        "avg_deaths": 5.333333492279053,
-                        "avg_assists": 16,
-                        "avg_gpm": 356.1666564941406,
-                        "avg_xpm": 527.3333129882812
+                        "avg_kills": 2.4285714626312256,
+                        "avg_deaths": 4.857142925262451,
+                        "avg_assists": 14.142857551574707,
+                        "avg_gpm": 337.5714416503906,
+                        "avg_xpm": 491.1428527832031
                     },
                     {
                         "hero_id": 8,
@@ -433,36 +433,36 @@
                     },
                     {
                         "hero_id": 13,
-                        "picks": 9,
-                        "wins": 7,
+                        "picks": 10,
+                        "wins": 8,
                         "bans": 0,
-                        "avg_kills": 8.333333015441895,
-                        "avg_deaths": 2.222222328186035,
-                        "avg_assists": 12.777777671813965,
-                        "avg_gpm": 582.5555419921875,
-                        "avg_xpm": 722.7777709960938
+                        "avg_kills": 8.100000381469727,
+                        "avg_deaths": 2.200000047683716,
+                        "avg_assists": 12.600000381469727,
+                        "avg_gpm": 582.2999877929688,
+                        "avg_xpm": 725.5999755859375
                     },
                     {
                         "hero_id": 14,
-                        "picks": 3,
-                        "wins": 2,
+                        "picks": 4,
+                        "wins": 3,
                         "bans": 0,
-                        "avg_kills": 8.666666984558105,
-                        "avg_deaths": 4.666666507720947,
-                        "avg_assists": 10.666666984558105,
-                        "avg_gpm": 564.6666870117188,
-                        "avg_xpm": 715.6666870117188
+                        "avg_kills": 9.25,
+                        "avg_deaths": 3.75,
+                        "avg_assists": 9.75,
+                        "avg_gpm": 599.5,
+                        "avg_xpm": 731.75
                     },
                     {
                         "hero_id": 15,
-                        "picks": 14,
+                        "picks": 16,
                         "wins": 13,
                         "bans": 0,
-                        "avg_kills": 6.5,
-                        "avg_deaths": 3.2142856121063232,
-                        "avg_assists": 9.928571701049805,
-                        "avg_gpm": 520.3571166992188,
-                        "avg_xpm": 613.2857055664062
+                        "avg_kills": 6.75,
+                        "avg_deaths": 3.6875,
+                        "avg_assists": 10.375,
+                        "avg_gpm": 518.375,
+                        "avg_xpm": 611.4375
                     },
                     {
                         "hero_id": 16,
@@ -521,14 +521,14 @@
                     },
                     {
                         "hero_id": 23,
-                        "picks": 4,
+                        "picks": 5,
                         "wins": 4,
                         "bans": 0,
-                        "avg_kills": 7.5,
-                        "avg_deaths": 2,
-                        "avg_assists": 14,
-                        "avg_gpm": 626.75,
-                        "avg_xpm": 743.5
+                        "avg_kills": 6.599999904632568,
+                        "avg_deaths": 2.5999999046325684,
+                        "avg_assists": 13.399999618530273,
+                        "avg_gpm": 609.4000244140625,
+                        "avg_xpm": 718
                     },
                     {
                         "hero_id": 25,
@@ -686,14 +686,14 @@
                     },
                     {
                         "hero_id": 43,
-                        "picks": 14,
+                        "picks": 15,
                         "wins": 11,
                         "bans": 0,
-                        "avg_kills": 5.285714149475098,
-                        "avg_deaths": 3.7857143878936768,
-                        "avg_assists": 13,
-                        "avg_gpm": 481.0714416503906,
-                        "avg_xpm": 624.3571166992188
+                        "avg_kills": 5.066666603088379,
+                        "avg_deaths": 3.5999999046325684,
+                        "avg_assists": 12.266666412353516,
+                        "avg_gpm": 477.6000061035156,
+                        "avg_xpm": 616.3333129882812
                     },
                     {
                         "hero_id": 44,
@@ -730,14 +730,14 @@
                     },
                     {
                         "hero_id": 47,
-                        "picks": 2,
-                        "wins": 2,
+                        "picks": 3,
+                        "wins": 3,
                         "bans": 0,
-                        "avg_kills": 10.5,
-                        "avg_deaths": 3.5,
-                        "avg_assists": 10,
-                        "avg_gpm": 495.5,
-                        "avg_xpm": 569.5
+                        "avg_kills": 9.666666984558105,
+                        "avg_deaths": 4,
+                        "avg_assists": 9.666666984558105,
+                        "avg_gpm": 509.3333435058594,
+                        "avg_xpm": 574.3333129882812
                     },
                     {
                         "hero_id": 48,
@@ -763,14 +763,14 @@
                     },
                     {
                         "hero_id": 50,
-                        "picks": 8,
+                        "picks": 9,
                         "wins": 8,
                         "bans": 0,
-                        "avg_kills": 2.625,
-                        "avg_deaths": 4.875,
-                        "avg_assists": 18.375,
-                        "avg_gpm": 303.875,
-                        "avg_xpm": 453.5
+                        "avg_kills": 2.777777671813965,
+                        "avg_deaths": 5.333333492279053,
+                        "avg_assists": 18.44444465637207,
+                        "avg_gpm": 306,
+                        "avg_xpm": 455
                     },
                     {
                         "hero_id": 51,
@@ -873,14 +873,14 @@
                     },
                     {
                         "hero_id": 66,
-                        "picks": 6,
-                        "wins": 6,
+                        "picks": 7,
+                        "wins": 7,
                         "bans": 0,
-                        "avg_kills": 1.6666666269302368,
-                        "avg_deaths": 4.166666507720947,
+                        "avg_kills": 1.4285714626312256,
+                        "avg_deaths": 4,
                         "avg_assists": 17,
-                        "avg_gpm": 372.3333435058594,
-                        "avg_xpm": 446.5
+                        "avg_gpm": 368.1428527832031,
+                        "avg_xpm": 438.4285583496094
                     },
                     {
                         "hero_id": 67,
@@ -983,14 +983,14 @@
                     },
                     {
                         "hero_id": 81,
-                        "picks": 3,
+                        "picks": 4,
                         "wins": 2,
                         "bans": 0,
-                        "avg_kills": 6,
-                        "avg_deaths": 2,
-                        "avg_assists": 6.333333492279053,
-                        "avg_gpm": 609,
-                        "avg_xpm": 687.6666870117188
+                        "avg_kills": 5.5,
+                        "avg_deaths": 2.75,
+                        "avg_assists": 6.25,
+                        "avg_gpm": 605.75,
+                        "avg_xpm": 682
                     },
                     {
                         "hero_id": 83,
@@ -1016,14 +1016,14 @@
                     },
                     {
                         "hero_id": 86,
-                        "picks": 1,
-                        "wins": 1,
+                        "picks": 2,
+                        "wins": 2,
                         "bans": 0,
-                        "avg_kills": 1,
-                        "avg_deaths": 6,
-                        "avg_assists": 24,
-                        "avg_gpm": 323,
-                        "avg_xpm": 480
+                        "avg_kills": 0.5,
+                        "avg_deaths": 5.5,
+                        "avg_assists": 22.5,
+                        "avg_gpm": 322.5,
+                        "avg_xpm": 466.5
                     },
                     {
                         "hero_id": 88,
@@ -1038,36 +1038,36 @@
                     },
                     {
                         "hero_id": 89,
-                        "picks": 2,
+                        "picks": 4,
                         "wins": 2,
                         "bans": 0,
-                        "avg_kills": 4,
-                        "avg_deaths": 0,
-                        "avg_assists": 8.5,
-                        "avg_gpm": 688,
-                        "avg_xpm": 693
+                        "avg_kills": 4.75,
+                        "avg_deaths": 2.25,
+                        "avg_assists": 6.5,
+                        "avg_gpm": 761.5,
+                        "avg_xpm": 660
                     },
                     {
                         "hero_id": 90,
-                        "picks": 4,
+                        "picks": 5,
                         "wins": 3,
                         "bans": 0,
-                        "avg_kills": 5.75,
-                        "avg_deaths": 2.25,
-                        "avg_assists": 10.25,
-                        "avg_gpm": 482.75,
-                        "avg_xpm": 603
+                        "avg_kills": 5.199999809265137,
+                        "avg_deaths": 3.200000047683716,
+                        "avg_assists": 12.199999809265137,
+                        "avg_gpm": 499.20001220703125,
+                        "avg_xpm": 605.7999877929688
                     },
                     {
                         "hero_id": 91,
-                        "picks": 4,
+                        "picks": 5,
                         "wins": 2,
                         "bans": 0,
-                        "avg_kills": 1.5,
-                        "avg_deaths": 5.25,
-                        "avg_assists": 15.5,
-                        "avg_gpm": 245,
-                        "avg_xpm": 386.25
+                        "avg_kills": 1.399999976158142,
+                        "avg_deaths": 5.800000190734863,
+                        "avg_assists": 16.200000762939453,
+                        "avg_gpm": 246.39999389648438,
+                        "avg_xpm": 393
                     },
                     {
                         "hero_id": 92,
@@ -1093,14 +1093,14 @@
                     },
                     {
                         "hero_id": 98,
-                        "picks": 2,
+                        "picks": 3,
                         "wins": 2,
                         "bans": 0,
-                        "avg_kills": 11.5,
-                        "avg_deaths": 2.5,
-                        "avg_assists": 14,
-                        "avg_gpm": 555,
-                        "avg_xpm": 768
+                        "avg_kills": 8,
+                        "avg_deaths": 3,
+                        "avg_assists": 10,
+                        "avg_gpm": 504.3333435058594,
+                        "avg_xpm": 652.6666870117188
                     },
                     {
                         "hero_id": 99,
@@ -1115,14 +1115,14 @@
                     },
                     {
                         "hero_id": 100,
-                        "picks": 3,
+                        "picks": 4,
                         "wins": 3,
                         "bans": 0,
-                        "avg_kills": 1.6666666269302368,
-                        "avg_deaths": 8,
-                        "avg_assists": 18,
-                        "avg_gpm": 281,
-                        "avg_xpm": 435.3333435058594
+                        "avg_kills": 3.25,
+                        "avg_deaths": 8.5,
+                        "avg_assists": 17.75,
+                        "avg_gpm": 292.5,
+                        "avg_xpm": 459.25
                     },
                     {
                         "hero_id": 102,
@@ -1159,14 +1159,14 @@
                     },
                     {
                         "hero_id": 107,
-                        "picks": 8,
+                        "picks": 9,
                         "wins": 8,
                         "bans": 0,
-                        "avg_kills": 4.375,
-                        "avg_deaths": 5.125,
-                        "avg_assists": 17.5,
-                        "avg_gpm": 306.875,
-                        "avg_xpm": 498.375
+                        "avg_kills": 4.55555534362793,
+                        "avg_deaths": 5.222222328186035,
+                        "avg_assists": 17.11111068725586,
+                        "avg_gpm": 304.3333435058594,
+                        "avg_xpm": 503.3333435058594
                     },
                     {
                         "hero_id": 108,
@@ -1312,12 +1312,12 @@
                         "avg_xpm": 480.875
                     }
                 ],
-                "farming": 0.5161834359169006,
-                "fighting": 0.32329893112182617,
+                "farming": 0.5278570055961609,
+                "fighting": 0.3270123600959778,
                 "versatility": 0.9777777791023254,
-                "avg_kills": 25.866666793823242,
-                "avg_deaths": 19.719999313354492,
-                "avg_duration": 2047.626708984375
+                "avg_kills": 25.632911682128906,
+                "avg_deaths": 20,
+                "avg_duration": 2083.417724609375
             },
             "dpc_results": [
                 {
@@ -1410,6 +1410,13 @@
                     "points": 0,
                     "earnings": 0,
                     "timestamp": 1658695343
+                },
+                {
+                    "league_id": 14417,
+                    "standing": 2,
+                    "points": 740,
+                    "earnings": 100000,
+                    "timestamp": 1660523732
                 },
                 {
                     "league_id": 65001,
@@ -5399,8 +5406,8 @@
             "member_stats": [
                 {
                     "account_id": 113331514,
-                    "wins_with_team": 228,
-                    "losses_with_team": 118,
+                    "wins_with_team": 231,
+                    "losses_with_team": 119,
                     "top_heroes": [
                         {
                             "hero_id": 112,
@@ -5425,7 +5432,7 @@
                             "avg_xpm": 0
                         },
                         {
-                            "hero_id": 110,
+                            "hero_id": 3,
                             "picks": 8,
                             "wins": 0,
                             "bans": 0,
@@ -5436,14 +5443,14 @@
                             "avg_xpm": 0
                         }
                     ],
-                    "avg_kills": 2.3176469802856445,
-                    "avg_deaths": 6.364706039428711,
-                    "avg_assists": 13.388235092163086
+                    "avg_kills": 2.2921347618103027,
+                    "avg_deaths": 6.32584285736084,
+                    "avg_assists": 13.49438190460205
                 },
                 {
                     "account_id": 256156323,
-                    "wins_with_team": 212,
-                    "losses_with_team": 106,
+                    "wins_with_team": 215,
+                    "losses_with_team": 107,
                     "top_heroes": [
                         {
                             "hero_id": 128,
@@ -5458,7 +5465,7 @@
                         },
                         {
                             "hero_id": 19,
-                            "picks": 10,
+                            "picks": 11,
                             "wins": 0,
                             "bans": 0,
                             "avg_kills": 0,
@@ -5479,18 +5486,29 @@
                             "avg_xpm": 0
                         }
                     ],
-                    "avg_kills": 3.0705883502960205,
-                    "avg_deaths": 6.5411763191223145,
-                    "avg_assists": 14.082352638244629
+                    "avg_kills": 3.1235954761505127,
+                    "avg_deaths": 6.606741428375244,
+                    "avg_assists": 14.168539047241211
                 },
                 {
                     "account_id": 302214028,
-                    "wins_with_team": 228,
-                    "losses_with_team": 118,
+                    "wins_with_team": 231,
+                    "losses_with_team": 119,
                     "top_heroes": [
                         {
                             "hero_id": 129,
                             "picks": 10,
+                            "wins": 0,
+                            "bans": 0,
+                            "avg_kills": 0,
+                            "avg_deaths": 0,
+                            "avg_assists": 0,
+                            "avg_gpm": 0,
+                            "avg_xpm": 0
+                        },
+                        {
+                            "hero_id": 38,
+                            "picks": 9,
                             "wins": 0,
                             "bans": 0,
                             "avg_kills": 0,
@@ -5509,27 +5527,16 @@
                             "avg_assists": 0,
                             "avg_gpm": 0,
                             "avg_xpm": 0
-                        },
-                        {
-                            "hero_id": 38,
-                            "picks": 8,
-                            "wins": 0,
-                            "bans": 0,
-                            "avg_kills": 0,
-                            "avg_deaths": 0,
-                            "avg_assists": 0,
-                            "avg_gpm": 0,
-                            "avg_xpm": 0
                         }
                     ],
-                    "avg_kills": 6.423529624938965,
-                    "avg_deaths": 4.729411602020264,
-                    "avg_assists": 10.576470375061035
+                    "avg_kills": 6.33707857131958,
+                    "avg_deaths": 4.696629047393799,
+                    "avg_assists": 10.662920951843262
                 },
                 {
                     "account_id": 321580662,
-                    "wins_with_team": 228,
-                    "losses_with_team": 118,
+                    "wins_with_team": 231,
+                    "losses_with_team": 119,
                     "top_heroes": [
                         {
                             "hero_id": 46,
@@ -5544,7 +5551,7 @@
                         },
                         {
                             "hero_id": 114,
-                            "picks": 8,
+                            "picks": 9,
                             "wins": 0,
                             "bans": 0,
                             "avg_kills": 0,
@@ -5565,14 +5572,14 @@
                             "avg_xpm": 0
                         }
                     ],
-                    "avg_kills": 6.905882358551025,
-                    "avg_deaths": 3.141176462173462,
-                    "avg_assists": 8.44705867767334
+                    "avg_kills": 6.842696666717529,
+                    "avg_deaths": 3.1123595237731934,
+                    "avg_assists": 8.595505714416504
                 },
                 {
                     "account_id": 431770905,
-                    "wins_with_team": 228,
-                    "losses_with_team": 118,
+                    "wins_with_team": 231,
+                    "losses_with_team": 119,
                     "top_heroes": [
                         {
                             "hero_id": 17,
@@ -5608,9 +5615,9 @@
                             "avg_xpm": 0
                         }
                     ],
-                    "avg_kills": 6.4588236808776855,
-                    "avg_deaths": 3.411764621734619,
-                    "avg_assists": 10.717646598815918
+                    "avg_kills": 6.561797618865967,
+                    "avg_deaths": 3.3483145236968994,
+                    "avg_assists": 10.741573333740234
                 }
             ],
             "team_stats": {
@@ -5628,25 +5635,25 @@
                     },
                     {
                         "hero_id": 2,
-                        "picks": 3,
-                        "wins": 1,
+                        "picks": 4,
+                        "wins": 2,
                         "bans": 0,
-                        "avg_kills": 8.333333015441895,
-                        "avg_deaths": 9,
+                        "avg_kills": 7.75,
+                        "avg_deaths": 8.5,
                         "avg_assists": 14,
-                        "avg_gpm": 478,
-                        "avg_xpm": 561.3333129882812
+                        "avg_gpm": 483.5,
+                        "avg_xpm": 584.5
                     },
                     {
                         "hero_id": 3,
-                        "picks": 7,
-                        "wins": 3,
+                        "picks": 8,
+                        "wins": 4,
                         "bans": 0,
-                        "avg_kills": 2.7142856121063232,
-                        "avg_deaths": 8.571428298950195,
-                        "avg_assists": 13,
-                        "avg_gpm": 250.42857360839844,
-                        "avg_xpm": 352.28570556640625
+                        "avg_kills": 2.75,
+                        "avg_deaths": 8.5,
+                        "avg_assists": 14.75,
+                        "avg_gpm": 255.625,
+                        "avg_xpm": 356.875
                     },
                     {
                         "hero_id": 4,
@@ -5705,14 +5712,14 @@
                     },
                     {
                         "hero_id": 12,
-                        "picks": 4,
+                        "picks": 5,
                         "wins": 3,
                         "bans": 0,
-                        "avg_kills": 9.25,
-                        "avg_deaths": 2,
-                        "avg_assists": 6.75,
-                        "avg_gpm": 757.25,
-                        "avg_xpm": 771
+                        "avg_kills": 7.400000095367432,
+                        "avg_deaths": 2.200000047683716,
+                        "avg_assists": 6,
+                        "avg_gpm": 727.2000122070312,
+                        "avg_xpm": 751.4000244140625
                     },
                     {
                         "hero_id": 13,
@@ -5771,25 +5778,25 @@
                     },
                     {
                         "hero_id": 18,
-                        "picks": 4,
-                        "wins": 3,
+                        "picks": 5,
+                        "wins": 4,
                         "bans": 0,
-                        "avg_kills": 6.5,
-                        "avg_deaths": 2.25,
-                        "avg_assists": 7.75,
-                        "avg_gpm": 692.25,
-                        "avg_xpm": 855.25
+                        "avg_kills": 5.599999904632568,
+                        "avg_deaths": 1.7999999523162842,
+                        "avg_assists": 7.599999904632568,
+                        "avg_gpm": 682,
+                        "avg_xpm": 851.2000122070312
                     },
                     {
                         "hero_id": 19,
-                        "picks": 21,
-                        "wins": 17,
+                        "picks": 23,
+                        "wins": 18,
                         "bans": 0,
-                        "avg_kills": 4.761904716491699,
-                        "avg_deaths": 5.666666507720947,
-                        "avg_assists": 13.333333015441895,
-                        "avg_gpm": 456.047607421875,
-                        "avg_xpm": 589.1428833007812
+                        "avg_kills": 4.73913049697876,
+                        "avg_deaths": 5.695652008056641,
+                        "avg_assists": 12.739130020141602,
+                        "avg_gpm": 445.3043518066406,
+                        "avg_xpm": 574.3043212890625
                     },
                     {
                         "hero_id": 21,
@@ -5804,14 +5811,14 @@
                     },
                     {
                         "hero_id": 22,
-                        "picks": 10,
-                        "wins": 4,
+                        "picks": 11,
+                        "wins": 5,
                         "bans": 0,
-                        "avg_kills": 5.199999809265137,
-                        "avg_deaths": 3.9000000953674316,
-                        "avg_assists": 12.5,
-                        "avg_gpm": 436.3999938964844,
-                        "avg_xpm": 513.0999755859375
+                        "avg_kills": 5,
+                        "avg_deaths": 3.7272727489471436,
+                        "avg_assists": 12.181818008422852,
+                        "avg_gpm": 425.0909118652344,
+                        "avg_xpm": 504.3636474609375
                     },
                     {
                         "hero_id": 23,
@@ -5870,14 +5877,14 @@
                     },
                     {
                         "hero_id": 33,
-                        "picks": 3,
+                        "picks": 4,
                         "wins": 2,
                         "bans": 0,
-                        "avg_kills": 4.666666507720947,
-                        "avg_deaths": 4,
-                        "avg_assists": 8,
-                        "avg_gpm": 445.6666564941406,
-                        "avg_xpm": 434.3333435058594
+                        "avg_kills": 4,
+                        "avg_deaths": 3.5,
+                        "avg_assists": 7.75,
+                        "avg_gpm": 439.75,
+                        "avg_xpm": 423.5
                     },
                     {
                         "hero_id": 35,
@@ -5903,25 +5910,25 @@
                     },
                     {
                         "hero_id": 38,
-                        "picks": 8,
-                        "wins": 6,
+                        "picks": 9,
+                        "wins": 7,
                         "bans": 0,
-                        "avg_kills": 5,
-                        "avg_deaths": 4,
-                        "avg_assists": 14.5,
-                        "avg_gpm": 515.75,
-                        "avg_xpm": 583.875
+                        "avg_kills": 4.666666507720947,
+                        "avg_deaths": 3.777777671813965,
+                        "avg_assists": 14,
+                        "avg_gpm": 522,
+                        "avg_xpm": 585
                     },
                     {
                         "hero_id": 39,
-                        "picks": 3,
-                        "wins": 2,
+                        "picks": 5,
+                        "wins": 4,
                         "bans": 0,
-                        "avg_kills": 11.333333015441895,
-                        "avg_deaths": 1.3333333730697632,
-                        "avg_assists": 10,
-                        "avg_gpm": 569.3333129882812,
-                        "avg_xpm": 688
+                        "avg_kills": 11.199999809265137,
+                        "avg_deaths": 1.7999999523162842,
+                        "avg_assists": 13.199999809265137,
+                        "avg_gpm": 620.2000122070312,
+                        "avg_xpm": 701
                     },
                     {
                         "hero_id": 41,
@@ -5980,14 +5987,14 @@
                     },
                     {
                         "hero_id": 47,
-                        "picks": 10,
-                        "wins": 5,
+                        "picks": 11,
+                        "wins": 6,
                         "bans": 0,
-                        "avg_kills": 6,
-                        "avg_deaths": 5.400000095367432,
-                        "avg_assists": 8.800000190734863,
-                        "avg_gpm": 451.29998779296875,
-                        "avg_xpm": 497.6000061035156
+                        "avg_kills": 6.181818008422852,
+                        "avg_deaths": 5.363636493682861,
+                        "avg_assists": 9.727272987365723,
+                        "avg_gpm": 457.3636474609375,
+                        "avg_xpm": 503.9090881347656
                     },
                     {
                         "hero_id": 48,
@@ -6013,14 +6020,14 @@
                     },
                     {
                         "hero_id": 50,
-                        "picks": 7,
+                        "picks": 8,
                         "wins": 4,
                         "bans": 0,
-                        "avg_kills": 2.142857074737549,
-                        "avg_deaths": 5.857142925262451,
-                        "avg_assists": 15.285714149475098,
-                        "avg_gpm": 291.28570556640625,
-                        "avg_xpm": 398.4285583496094
+                        "avg_kills": 1.875,
+                        "avg_deaths": 5.75,
+                        "avg_assists": 14.25,
+                        "avg_gpm": 282.75,
+                        "avg_xpm": 382.375
                     },
                     {
                         "hero_id": 51,
@@ -6123,14 +6130,14 @@
                     },
                     {
                         "hero_id": 66,
-                        "picks": 5,
-                        "wins": 3,
+                        "picks": 6,
+                        "wins": 4,
                         "bans": 0,
-                        "avg_kills": 0.6000000238418579,
-                        "avg_deaths": 3.200000047683716,
-                        "avg_assists": 9.600000381469727,
-                        "avg_gpm": 263.79998779296875,
-                        "avg_xpm": 323.3999938964844
+                        "avg_kills": 0.8333333134651184,
+                        "avg_deaths": 4,
+                        "avg_assists": 11.666666984558105,
+                        "avg_gpm": 276.5,
+                        "avg_xpm": 345.1666564941406
                     },
                     {
                         "hero_id": 67,
@@ -6200,14 +6207,14 @@
                     },
                     {
                         "hero_id": 79,
-                        "picks": 4,
-                        "wins": 2,
+                        "picks": 5,
+                        "wins": 3,
                         "bans": 0,
                         "avg_kills": 2,
-                        "avg_deaths": 7.75,
-                        "avg_assists": 11.25,
-                        "avg_gpm": 298.25,
-                        "avg_xpm": 431
+                        "avg_deaths": 6.400000095367432,
+                        "avg_assists": 10.399999618530273,
+                        "avg_gpm": 287.79998779296875,
+                        "avg_xpm": 419.3999938964844
                     },
                     {
                         "hero_id": 81,
@@ -6233,14 +6240,14 @@
                     },
                     {
                         "hero_id": 86,
-                        "picks": 17,
-                        "wins": 14,
+                        "picks": 18,
+                        "wins": 15,
                         "bans": 0,
-                        "avg_kills": 2.2352941036224365,
-                        "avg_deaths": 5.294117450714111,
-                        "avg_assists": 15,
-                        "avg_gpm": 333.8823547363281,
-                        "avg_xpm": 445.941162109375
+                        "avg_kills": 2.1111111640930176,
+                        "avg_deaths": 5.44444465637207,
+                        "avg_assists": 15.38888931274414,
+                        "avg_gpm": 330,
+                        "avg_xpm": 443.6666564941406
                     },
                     {
                         "hero_id": 87,
@@ -6354,25 +6361,25 @@
                     },
                     {
                         "hero_id": 99,
-                        "picks": 2,
-                        "wins": 2,
+                        "picks": 3,
+                        "wins": 3,
                         "bans": 0,
-                        "avg_kills": 6.5,
-                        "avg_deaths": 2.5,
-                        "avg_assists": 13,
-                        "avg_gpm": 754.5,
-                        "avg_xpm": 806.5
+                        "avg_kills": 6.666666507720947,
+                        "avg_deaths": 2.6666667461395264,
+                        "avg_assists": 14.666666984558105,
+                        "avg_gpm": 729,
+                        "avg_xpm": 809.3333129882812
                     },
                     {
                         "hero_id": 100,
-                        "picks": 1,
+                        "picks": 2,
                         "wins": 1,
                         "bans": 0,
-                        "avg_kills": 4,
-                        "avg_deaths": 4,
-                        "avg_assists": 21,
-                        "avg_gpm": 295,
-                        "avg_xpm": 510
+                        "avg_kills": 6,
+                        "avg_deaths": 3.5,
+                        "avg_assists": 12,
+                        "avg_gpm": 385,
+                        "avg_xpm": 530
                     },
                     {
                         "hero_id": 101,
@@ -6464,14 +6471,14 @@
                     },
                     {
                         "hero_id": 114,
-                        "picks": 9,
-                        "wins": 4,
+                        "picks": 10,
+                        "wins": 5,
                         "bans": 0,
-                        "avg_kills": 7,
-                        "avg_deaths": 4.111111164093018,
-                        "avg_assists": 10.222222328186035,
-                        "avg_gpm": 604.111083984375,
-                        "avg_xpm": 698.2222290039062
+                        "avg_kills": 7.599999904632568,
+                        "avg_deaths": 4.099999904632568,
+                        "avg_assists": 11.100000381469727,
+                        "avg_gpm": 630.2999877929688,
+                        "avg_xpm": 699.5999755859375
                     },
                     {
                         "hero_id": 119,
@@ -6563,22 +6570,22 @@
                     },
                     {
                         "hero_id": 136,
-                        "picks": 9,
-                        "wins": 3,
+                        "picks": 10,
+                        "wins": 4,
                         "bans": 0,
-                        "avg_kills": 2.444444417953491,
-                        "avg_deaths": 10.222222328186035,
-                        "avg_assists": 14.44444465637207,
-                        "avg_gpm": 249.22222900390625,
-                        "avg_xpm": 412.4444580078125
+                        "avg_kills": 3.200000047683716,
+                        "avg_deaths": 10.199999809265137,
+                        "avg_assists": 15.600000381469727,
+                        "avg_gpm": 257,
+                        "avg_xpm": 421.5
                     }
                 ],
-                "farming": 0.5366230010986328,
-                "fighting": 0.30897197127342224,
+                "farming": 0.5376956462860107,
+                "fighting": 0.316837877035141,
                 "versatility": 0.9333333373069763,
-                "avg_kills": 25.176469802856445,
-                "avg_deaths": 24.188236236572266,
-                "avg_duration": 2387.435302734375
+                "avg_kills": 25.157302856445312,
+                "avg_deaths": 24.089887619018555,
+                "avg_duration": 2403.9326171875
             },
             "dpc_results": [
                 {
@@ -6636,6 +6643,13 @@
                     "points": 0,
                     "earnings": 0,
                     "timestamp": 1658695343
+                },
+                {
+                    "league_id": 14417,
+                    "standing": 1,
+                    "points": 820,
+                    "earnings": 200000,
+                    "timestamp": 1660523732
                 }
             ],
             "color_primary": "",
