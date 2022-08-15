@@ -1097,24 +1097,6 @@
             ]
         },
         {
-            "team_id": 8255888,
-            "team_name": "Mind Games",
-            "team_abbreviation": "MG",
-            "team_logo": "1859433396454987999",
-            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1859433396454987999/56051FD0BAC135685E59AC459ED30FB9BCB94E63/",
-            "total_points": 160,
-            "total_earnings": 15000,
-            "league_results": [
-                {
-                    "timestamp": 1651529364,
-                    "league_id": 14187,
-                    "standing": 3,
-                    "points": 160,
-                    "earnings": 15000
-                }
-            ]
-        },
-        {
             "team_id": 8376426,
             "team_name": "Wildcard Gaming",
             "team_abbreviation": "WC",
@@ -1166,6 +1148,29 @@
                     "timestamp": 1652231252,
                     "audit_action": 2,
                     "audit_data": 105045291
+                }
+            ]
+        },
+        {
+            "team_id": 8255888,
+            "team_name": "Mind Games",
+            "team_abbreviation": "MG",
+            "team_logo": "1859433396454987999",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1859433396454987999/56051FD0BAC135685E59AC459ED30FB9BCB94E63/",
+            "total_points": 136,
+            "total_earnings": 15000,
+            "league_results": [
+                {
+                    "timestamp": 1651529364,
+                    "league_id": 14187,
+                    "standing": 3,
+                    "points": 160,
+                    "earnings": 15000
+                },
+                {
+                    "timestamp": 1660559856,
+                    "audit_action": 2,
+                    "audit_data": 363871826
                 }
             ]
         },
