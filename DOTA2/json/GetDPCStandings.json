@@ -1,6 +1,105 @@
 {
     "results": [
         {
+            "team_id": 15,
+            "team_name": "PSG.LGD",
+            "team_abbreviation": "PLGD",
+            "team_logo": "1768194395980560504",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1768194395980560504/81579A4F0055C88DACF7F52C77767A74D503CA57/",
+            "total_points": 2240,
+            "total_earnings": 461000,
+            "league_results": [
+                {
+                    "timestamp": 1642948562,
+                    "league_id": 13716,
+                    "standing": 1,
+                    "points": 300,
+                    "earnings": 30000
+                },
+                {
+                    "timestamp": 1645363196,
+                    "league_id": 13937,
+                    "standing": 1,
+                    "points": 250,
+                    "earnings": 50000
+                },
+                {
+                    "timestamp": 1650804372,
+                    "league_id": 14041,
+                    "standing": 1,
+                    "points": 400,
+                    "earnings": 205000
+                },
+                {
+                    "timestamp": 1652020833,
+                    "league_id": 14196,
+                    "standing": 1,
+                    "points": 450,
+                    "earnings": 50000
+                },
+                {
+                    "timestamp": 1657873543,
+                    "league_id": 14248,
+                    "standing": 4,
+                    "points": 100,
+                    "earnings": 26000
+                },
+                {
+                    "timestamp": 1660523732,
+                    "league_id": 14417,
+                    "standing": 2,
+                    "points": 740,
+                    "earnings": 100000
+                }
+            ]
+        },
+        {
+            "team_id": 7119388,
+            "team_name": "Team Spirit",
+            "team_abbreviation": "TS",
+            "team_logo": "1773822957617535601",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1773822957617535601/F40F2155B92321415E972B787C5B1B0FFF06155A/",
+            "total_points": 1810,
+            "total_earnings": 322000,
+            "league_results": [
+                {
+                    "timestamp": 1642708623,
+                    "league_id": 13709,
+                    "standing": 1,
+                    "points": 300,
+                    "earnings": 30000
+                },
+                {
+                    "timestamp": 1645384061,
+                    "league_id": 13926,
+                    "standing": 1,
+                    "points": 250,
+                    "earnings": 50000
+                },
+                {
+                    "timestamp": 1651529364,
+                    "league_id": 14187,
+                    "standing": 2,
+                    "points": 240,
+                    "earnings": 15000
+                },
+                {
+                    "timestamp": 1657817235,
+                    "league_id": 14295,
+                    "standing": 3,
+                    "points": 200,
+                    "earnings": 27000
+                },
+                {
+                    "timestamp": 1660523732,
+                    "league_id": 14417,
+                    "standing": 1,
+                    "points": 820,
+                    "earnings": 200000
+                }
+            ]
+        },
+        {
             "team_id": 8254400,
             "team_name": "beastcoast",
             "team_abbreviation": "BC",
@@ -186,52 +285,6 @@
                     "standing": 1,
                     "points": 500,
                     "earnings": 30000
-                }
-            ]
-        },
-        {
-            "team_id": 15,
-            "team_name": "PSG.LGD",
-            "team_abbreviation": "PLGD",
-            "team_logo": "1768194395980560504",
-            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1768194395980560504/81579A4F0055C88DACF7F52C77767A74D503CA57/",
-            "total_points": 1500,
-            "total_earnings": 361000,
-            "league_results": [
-                {
-                    "timestamp": 1642948562,
-                    "league_id": 13716,
-                    "standing": 1,
-                    "points": 300,
-                    "earnings": 30000
-                },
-                {
-                    "timestamp": 1645363196,
-                    "league_id": 13937,
-                    "standing": 1,
-                    "points": 250,
-                    "earnings": 50000
-                },
-                {
-                    "timestamp": 1650804372,
-                    "league_id": 14041,
-                    "standing": 1,
-                    "points": 400,
-                    "earnings": 205000
-                },
-                {
-                    "timestamp": 1652020833,
-                    "league_id": 14196,
-                    "standing": 1,
-                    "points": 450,
-                    "earnings": 50000
-                },
-                {
-                    "timestamp": 1657873543,
-                    "league_id": 14248,
-                    "standing": 4,
-                    "points": 100,
-                    "earnings": 26000
                 }
             ]
         },
@@ -551,45 +604,6 @@
                     "standing": 7,
                     "points": 360,
                     "earnings": 12500
-                }
-            ]
-        },
-        {
-            "team_id": 7119388,
-            "team_name": "Team Spirit",
-            "team_abbreviation": "TS",
-            "team_logo": "1773822957617535601",
-            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1773822957617535601/F40F2155B92321415E972B787C5B1B0FFF06155A/",
-            "total_points": 990,
-            "total_earnings": 122000,
-            "league_results": [
-                {
-                    "timestamp": 1642708623,
-                    "league_id": 13709,
-                    "standing": 1,
-                    "points": 300,
-                    "earnings": 30000
-                },
-                {
-                    "timestamp": 1645384061,
-                    "league_id": 13926,
-                    "standing": 1,
-                    "points": 250,
-                    "earnings": 50000
-                },
-                {
-                    "timestamp": 1651529364,
-                    "league_id": 14187,
-                    "standing": 2,
-                    "points": 240,
-                    "earnings": 15000
-                },
-                {
-                    "timestamp": 1657817235,
-                    "league_id": 14295,
-                    "standing": 3,
-                    "points": 200,
-                    "earnings": 27000
                 }
             ]
         },
@@ -2493,20 +2507,20 @@
     "major_group_standings": [],
     "major_playoff_standings": [
         {
-            "team_id": 15,
-            "wins": 0,
-            "losses": 0,
-            "team_url": "https://steamusercontent-a.akamaihd.net/ugc/1768194395980560504/81579A4F0055C88DACF7F52C77767A74D503CA57/",
-            "team_name": "PSG.LGD",
-            "team_abbreviation": "PLGD"
-        },
-        {
             "team_id": 7119388,
             "wins": 0,
             "losses": 0,
             "team_url": "https://steamusercontent-a.akamaihd.net/ugc/1773822957617535601/F40F2155B92321415E972B787C5B1B0FFF06155A/",
             "team_name": "Team Spirit",
             "team_abbreviation": "TS"
+        },
+        {
+            "team_id": 15,
+            "wins": 0,
+            "losses": 0,
+            "team_url": "https://steamusercontent-a.akamaihd.net/ugc/1768194395980560504/81579A4F0055C88DACF7F52C77767A74D503CA57/",
+            "team_name": "PSG.LGD",
+            "team_abbreviation": "PLGD"
         },
         {
             "team_id": 6209166,
