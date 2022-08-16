@@ -1494,49 +1494,6 @@
             ]
         },
         {
-            "team_id": 8598633,
-            "team_name": "Pari Parni",
-            "team_abbreviation": "PAR",
-            "team_logo": "1733342720754418476",
-            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1733342720754418476/EFDC36E034F6E5713AAE0469C3225DD0751A81CE/",
-            "total_points": 34,
-            "total_earnings": 15000,
-            "league_results": [
-                {
-                    "timestamp": 1651370400,
-                    "league_id": 14187,
-                    "standing": 4,
-                    "points": 80,
-                    "earnings": 15000
-                },
-                {
-                    "timestamp": 1653065498,
-                    "audit_action": 2,
-                    "audit_data": 165564598
-                },
-                {
-                    "timestamp": 1653065862,
-                    "audit_action": 2,
-                    "audit_data": 94049589
-                },
-                {
-                    "timestamp": 1653065866,
-                    "audit_action": 2,
-                    "audit_data": 159020918
-                },
-                {
-                    "timestamp": 1653065871,
-                    "audit_action": 2,
-                    "audit_data": 132851371
-                },
-                {
-                    "timestamp": 1660216254,
-                    "audit_action": 2,
-                    "audit_data": 904131336
-                }
-            ]
-        },
-        {
             "team_id": 8375259,
             "team_name": "Coritiba Esports",
             "team_abbreviation": "Cori",
@@ -1609,6 +1566,54 @@
                     "timestamp": 1660205001,
                     "audit_action": 2,
                     "audit_data": 135495981
+                }
+            ]
+        },
+        {
+            "team_id": 8598633,
+            "team_name": "Pari Parni",
+            "team_abbreviation": "PAR",
+            "team_logo": "1733342720754418476",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1733342720754418476/EFDC36E034F6E5713AAE0469C3225DD0751A81CE/",
+            "total_points": 28,
+            "total_earnings": 15000,
+            "league_results": [
+                {
+                    "timestamp": 1651370400,
+                    "league_id": 14187,
+                    "standing": 4,
+                    "points": 80,
+                    "earnings": 15000
+                },
+                {
+                    "timestamp": 1653065498,
+                    "audit_action": 2,
+                    "audit_data": 165564598
+                },
+                {
+                    "timestamp": 1653065862,
+                    "audit_action": 2,
+                    "audit_data": 94049589
+                },
+                {
+                    "timestamp": 1653065866,
+                    "audit_action": 2,
+                    "audit_data": 159020918
+                },
+                {
+                    "timestamp": 1653065871,
+                    "audit_action": 2,
+                    "audit_data": 132851371
+                },
+                {
+                    "timestamp": 1660216254,
+                    "audit_action": 2,
+                    "audit_data": 904131336
+                },
+                {
+                    "timestamp": 1660673515,
+                    "audit_action": 2,
+                    "audit_data": 162959893
                 }
             ]
         },
