@@ -1387,7 +1387,7 @@
                     "league_id": 14041,
                     "standing": 1,
                     "points": 400,
-                    "earnings": 205000,
+                    "earnings": 30000,
                     "timestamp": 1650804372
                 },
                 {
@@ -6645,9 +6645,9 @@
                 },
                 {
                     "league_id": 14041,
-                    "standing": 8,
+                    "standing": 3,
                     "points": 160,
-                    "earnings": 0,
+                    "earnings": 27000,
                     "timestamp": 1650804372
                 },
                 {
@@ -11789,13 +11789,13 @@
             "audit_entries": [
                 {
                     "audit_action": 5,
-                    "timestamp": 1637448582,
-                    "account_id": 145550466
+                    "timestamp": 1637448802,
+                    "account_id": 126212866
                 },
                 {
                     "audit_action": 5,
-                    "timestamp": 1637448802,
-                    "account_id": 126212866
+                    "timestamp": 1637448582,
+                    "account_id": 145550466
                 },
                 {
                     "audit_action": 5,
