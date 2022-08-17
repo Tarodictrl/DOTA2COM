@@ -1,1 +1,1703 @@
-null
+{
+    "results": [
+        {
+            "team_id": 15,
+            "team_name": "PSG.LGD",
+            "team_abbreviation": "PLGD",
+            "team_logo": "1768194395980560504",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1768194395980560504/81579A4F0055C88DACF7F52C77767A74D503CA57/",
+            "total_points": 2240,
+            "total_earnings": 286000,
+            "league_results": [
+                {
+                    "timestamp": 1642948562,
+                    "league_id": 13716,
+                    "standing": 1,
+                    "points": 300,
+                    "earnings": 30000
+                },
+                {
+                    "timestamp": 1645363196,
+                    "league_id": 13937,
+                    "standing": 1,
+                    "points": 250,
+                    "earnings": 50000
+                },
+                {
+                    "timestamp": 1650804372,
+                    "league_id": 14041,
+                    "standing": 1,
+                    "points": 400,
+                    "earnings": 30000
+                },
+                {
+                    "timestamp": 1652020833,
+                    "league_id": 14196,
+                    "standing": 1,
+                    "points": 450,
+                    "earnings": 50000
+                },
+                {
+                    "timestamp": 1657873543,
+                    "league_id": 14248,
+                    "standing": 4,
+                    "points": 100,
+                    "earnings": 26000
+                },
+                {
+                    "timestamp": 1660523732,
+                    "league_id": 14417,
+                    "standing": 2,
+                    "points": 740,
+                    "earnings": 100000
+                }
+            ]
+        },
+        {
+            "team_id": 2586976,
+            "team_name": "OG",
+            "team_abbreviation": "OG",
+            "team_logo": "862855679982708969",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/862855679982708969/901D0525481B6F5E3ECDC5D42176C685588B4CE1/",
+            "total_points": 1930,
+            "total_earnings": 333000,
+            "league_results": [
+                {
+                    "timestamp": 1642607615,
+                    "league_id": 13738,
+                    "standing": 4,
+                    "points": 60,
+                    "earnings": 26000
+                },
+                {
+                    "timestamp": 1650390773,
+                    "league_id": 14052,
+                    "standing": 1,
+                    "points": 400,
+                    "earnings": 30000
+                },
+                {
+                    "timestamp": 1653245279,
+                    "league_id": 14173,
+                    "standing": 1,
+                    "points": 680,
+                    "earnings": 200000
+                },
+                {
+                    "timestamp": 1657723297,
+                    "league_id": 14279,
+                    "standing": 3,
+                    "points": 200,
+                    "earnings": 27000
+                },
+                {
+                    "timestamp": 1660440462,
+                    "league_id": 14417,
+                    "standing": 4,
+                    "points": 590,
+                    "earnings": 50000
+                }
+            ]
+        },
+        {
+            "team_id": 7119388,
+            "team_name": "Team Spirit",
+            "team_abbreviation": "TS",
+            "team_logo": "1773822957617535601",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1773822957617535601/F40F2155B92321415E972B787C5B1B0FFF06155A/",
+            "total_points": 1810,
+            "total_earnings": 322000,
+            "league_results": [
+                {
+                    "timestamp": 1642708623,
+                    "league_id": 13709,
+                    "standing": 1,
+                    "points": 300,
+                    "earnings": 30000
+                },
+                {
+                    "timestamp": 1645384061,
+                    "league_id": 13926,
+                    "standing": 1,
+                    "points": 250,
+                    "earnings": 50000
+                },
+                {
+                    "timestamp": 1651529364,
+                    "league_id": 14187,
+                    "standing": 2,
+                    "points": 240,
+                    "earnings": 15000
+                },
+                {
+                    "timestamp": 1657817235,
+                    "league_id": 14295,
+                    "standing": 3,
+                    "points": 200,
+                    "earnings": 27000
+                },
+                {
+                    "timestamp": 1660523732,
+                    "league_id": 14417,
+                    "standing": 1,
+                    "points": 820,
+                    "earnings": 200000
+                }
+            ]
+        },
+        {
+            "team_id": 8254400,
+            "team_name": "beastcoast",
+            "team_abbreviation": "BC",
+            "team_logo": "1664609440937553639",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1664609440937553639/85EA3FC27708076F8ACC2E5B70E25EEC72B09CC6/",
+            "total_points": 1810,
+            "total_earnings": 183000,
+            "league_results": [
+                {
+                    "timestamp": 1642813003,
+                    "league_id": 13712,
+                    "standing": 3,
+                    "points": 120,
+                    "earnings": 27000
+                },
+                {
+                    "timestamp": 1644804762,
+                    "league_id": 13954,
+                    "standing": 1,
+                    "points": 250,
+                    "earnings": 50000
+                },
+                {
+                    "timestamp": 1650675121,
+                    "league_id": 14071,
+                    "standing": 2,
+                    "points": 240,
+                    "earnings": 28000
+                },
+                {
+                    "timestamp": 1653078819,
+                    "league_id": 14173,
+                    "standing": 5,
+                    "points": 385,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1657927862,
+                    "league_id": 14299,
+                    "standing": 2,
+                    "points": 300,
+                    "earnings": 28000
+                },
+                {
+                    "timestamp": 1660415836,
+                    "league_id": 14417,
+                    "standing": 5,
+                    "points": 515,
+                    "earnings": 25000
+                }
+            ]
+        },
+        {
+            "team_id": 6209166,
+            "team_name": "Team Aster",
+            "team_abbreviation": "AST",
+            "team_logo": "1629730253163462144",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1629730253163462144/FEF15B2B4528E81103DD693E37FD7B6C9BE6B471/",
+            "total_points": 1610,
+            "total_earnings": 183000,
+            "league_results": [
+                {
+                    "timestamp": 1642936998,
+                    "league_id": 13716,
+                    "standing": 2,
+                    "points": 180,
+                    "earnings": 28000
+                },
+                {
+                    "timestamp": 1650804372,
+                    "league_id": 14041,
+                    "standing": 3,
+                    "points": 160,
+                    "earnings": 27000
+                },
+                {
+                    "timestamp": 1652020833,
+                    "league_id": 14196,
+                    "standing": 2,
+                    "points": 300,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1657873543,
+                    "league_id": 14248,
+                    "standing": 2,
+                    "points": 300,
+                    "earnings": 28000
+                },
+                {
+                    "timestamp": 1660498496,
+                    "league_id": 14417,
+                    "standing": 3,
+                    "points": 670,
+                    "earnings": 75000
+                }
+            ]
+        },
+        {
+            "team_id": 7391077,
+            "team_name": "Thunder Awaken",
+            "team_abbreviation": "THU",
+            "team_logo": "1822272203087516431",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1822272203087516431/689E3FD183048E98ED3F7B54BFE60AB30EA15681/",
+            "total_points": 1540,
+            "total_earnings": 115000,
+            "league_results": [
+                {
+                    "timestamp": 1642813003,
+                    "league_id": 13712,
+                    "standing": 1,
+                    "points": 300,
+                    "earnings": 30000
+                },
+                {
+                    "timestamp": 1645407005,
+                    "audit_action": 2,
+                    "audit_data": 352623024
+                },
+                {
+                    "timestamp": 1650675121,
+                    "league_id": 14071,
+                    "standing": 1,
+                    "points": 400,
+                    "earnings": 30000
+                },
+                {
+                    "timestamp": 1653134460,
+                    "league_id": 14173,
+                    "standing": 5,
+                    "points": 385,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1657927862,
+                    "league_id": 14299,
+                    "standing": 1,
+                    "points": 500,
+                    "earnings": 30000
+                }
+            ]
+        },
+        {
+            "team_id": 7732977,
+            "team_name": "BOOM Esports",
+            "team_abbreviation": "BOOM",
+            "team_logo": "768365068750604173",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/768365068750604173/EF3216F4B02A0DA2327AC3190A369349C7BF3A24/",
+            "total_points": 1482,
+            "total_earnings": 150500,
+            "league_results": [
+                {
+                    "timestamp": 1642585288,
+                    "league_id": 13747,
+                    "standing": 1,
+                    "points": 300,
+                    "earnings": 30000
+                },
+                {
+                    "timestamp": 1644759028,
+                    "league_id": 13939,
+                    "standing": 1,
+                    "points": 150,
+                    "earnings": 50000
+                },
+                {
+                    "timestamp": 1645524116,
+                    "audit_action": 2,
+                    "audit_data": 337575662
+                },
+                {
+                    "timestamp": 1650545587,
+                    "league_id": 14067,
+                    "standing": 2,
+                    "points": 240,
+                    "earnings": 28000
+                },
+                {
+                    "timestamp": 1657369400,
+                    "league_id": 14270,
+                    "standing": 1,
+                    "points": 500,
+                    "earnings": 30000
+                },
+                {
+                    "timestamp": 1660327099,
+                    "league_id": 14417,
+                    "standing": 7,
+                    "points": 360,
+                    "earnings": 12500
+                }
+            ]
+        },
+        {
+            "team_id": 8260983,
+            "team_name": "TSM FTX",
+            "team_abbreviation": "TSM",
+            "team_logo": "1818894999742669446",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1818894999742669446/27884CB5B0E947F143B18055137ED4BDF5F96640/",
+            "total_points": 1380,
+            "total_earnings": 282000,
+            "league_results": [
+                {
+                    "timestamp": 1642630755,
+                    "league_id": 13741,
+                    "standing": 2,
+                    "points": 180,
+                    "earnings": 28000
+                },
+                {
+                    "timestamp": 1645420505,
+                    "league_id": 13961,
+                    "standing": 1,
+                    "points": 250,
+                    "earnings": 100000
+                },
+                {
+                    "timestamp": 1650492142,
+                    "league_id": 14051,
+                    "standing": 2,
+                    "points": 240,
+                    "earnings": 28000
+                },
+                {
+                    "timestamp": 1653245279,
+                    "league_id": 14173,
+                    "standing": 2,
+                    "points": 610,
+                    "earnings": 100000
+                },
+                {
+                    "timestamp": 1657747758,
+                    "league_id": 14281,
+                    "standing": 4,
+                    "points": 100,
+                    "earnings": 26000
+                }
+            ]
+        },
+        {
+            "team_id": 8291895,
+            "team_name": "Tundra Esports",
+            "team_abbreviation": "TUN",
+            "team_logo": "1771573722041415896",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1771573722041415896/D98163DE6281550D35494CEFDF6257F9716BD43B/",
+            "total_points": 1212,
+            "total_earnings": 158000,
+            "league_results": [
+                {
+                    "timestamp": 1642607615,
+                    "league_id": 13738,
+                    "standing": 3,
+                    "points": 120,
+                    "earnings": 27000
+                },
+                {
+                    "timestamp": 1645124694,
+                    "audit_action": 2,
+                    "audit_data": 86799300
+                },
+                {
+                    "timestamp": 1650381735,
+                    "league_id": 14052,
+                    "standing": 4,
+                    "points": 80,
+                    "earnings": 26000
+                },
+                {
+                    "timestamp": 1653220207,
+                    "league_id": 14173,
+                    "standing": 3,
+                    "points": 530,
+                    "earnings": 75000
+                },
+                {
+                    "timestamp": 1657647734,
+                    "league_id": 14279,
+                    "standing": 1,
+                    "points": 500,
+                    "earnings": 30000
+                }
+            ]
+        },
+        {
+            "team_id": 8599101,
+            "team_name": "Gaimin Gladiators",
+            "team_abbreviation": "GG",
+            "team_logo": "1850419664501191993",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1850419664501191993/5DAAB68FB5604D29E1792A0F35E74B3FE3F3A026/",
+            "total_points": 1130,
+            "total_earnings": 206000,
+            "league_results": [
+                {
+                    "timestamp": 1642534635,
+                    "league_id": 13738,
+                    "standing": 2,
+                    "points": 180,
+                    "earnings": 28000
+                },
+                {
+                    "timestamp": 1644781558,
+                    "league_id": 13960,
+                    "standing": 1,
+                    "points": 250,
+                    "earnings": 100000
+                },
+                {
+                    "timestamp": 1650470338,
+                    "league_id": 14052,
+                    "standing": 2,
+                    "points": 240,
+                    "earnings": 28000
+                },
+                {
+                    "timestamp": 1653161824,
+                    "league_id": 14173,
+                    "standing": 4,
+                    "points": 460,
+                    "earnings": 50000
+                }
+            ]
+        },
+        {
+            "team_id": 39,
+            "team_name": "Evil Geniuses",
+            "team_abbreviation": "EG",
+            "team_logo": "1827909808864108708",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1827909808864108708/BAA861E234E1BA39D75DF4CB814A5B76D020BED7/",
+            "total_points": 1052,
+            "total_earnings": 87000,
+            "league_results": [
+                {
+                    "timestamp": 1642641592,
+                    "league_id": 13741,
+                    "standing": 3,
+                    "points": 120,
+                    "earnings": 27000
+                },
+                {
+                    "timestamp": 1645420505,
+                    "league_id": 13961,
+                    "standing": 2,
+                    "points": 130,
+                    "earnings": 0
+                },
+                {
+                    "timestamp": 1650500086,
+                    "league_id": 14051,
+                    "standing": 1,
+                    "points": 400,
+                    "earnings": 30000
+                },
+                {
+                    "timestamp": 1653220444,
+                    "audit_action": 2,
+                    "audit_data": 26771994
+                },
+                {
+                    "timestamp": 1657756875,
+                    "league_id": 14281,
+                    "standing": 1,
+                    "points": 500,
+                    "earnings": 30000
+                }
+            ]
+        },
+        {
+            "team_id": 350190,
+            "team_name": "Fnatic",
+            "team_abbreviation": "FNA",
+            "team_logo": "772866954983282781",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/772866954983282781/BCE0124B9A9BC0185070C01920318E880D60774C/",
+            "total_points": 1020,
+            "total_earnings": 97500,
+            "league_results": [
+                {
+                    "timestamp": 1642602581,
+                    "league_id": 13747,
+                    "standing": 2,
+                    "points": 180,
+                    "earnings": 28000
+                },
+                {
+                    "timestamp": 1650467838,
+                    "league_id": 14067,
+                    "standing": 1,
+                    "points": 400,
+                    "earnings": 30000
+                },
+                {
+                    "timestamp": 1653069197,
+                    "league_id": 14173,
+                    "standing": 7,
+                    "points": 240,
+                    "earnings": 12500
+                },
+                {
+                    "timestamp": 1657799995,
+                    "league_id": 14270,
+                    "standing": 3,
+                    "points": 200,
+                    "earnings": 27000
+                }
+            ]
+        },
+        {
+            "team_id": 8724984,
+            "team_name": "Outsiders",
+            "team_abbreviation": "OUT",
+            "team_logo": "1867321556649110780",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1867321556649110780/6CB8A30A5D9AA184FE09A384E8CCD4949BF8A3A0/",
+            "total_points": 1019,
+            "total_earnings": 109500,
+            "league_results": [
+                {
+                    "timestamp": 1642708623,
+                    "league_id": 13709,
+                    "standing": 3,
+                    "points": 120,
+                    "earnings": 27000
+                },
+                {
+                    "timestamp": 1645384061,
+                    "league_id": 13926,
+                    "standing": 2,
+                    "points": 78,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1646905810,
+                    "audit_action": 2,
+                    "audit_data": 187758589
+                },
+                {
+                    "timestamp": 1651529364,
+                    "league_id": 14187,
+                    "standing": 5,
+                    "points": 20,
+                    "earnings": 15000
+                },
+                {
+                    "timestamp": 1652699830,
+                    "audit_action": 2,
+                    "audit_data": 331855530
+                },
+                {
+                    "timestamp": 1657899258,
+                    "league_id": 14295,
+                    "standing": 1,
+                    "points": 500,
+                    "earnings": 30000
+                },
+                {
+                    "timestamp": 1660339788,
+                    "league_id": 14417,
+                    "standing": 7,
+                    "points": 360,
+                    "earnings": 12500
+                }
+            ]
+        },
+        {
+            "team_id": 2163,
+            "team_name": "Team Liquid",
+            "team_abbreviation": "LIQ",
+            "team_logo": "1762564594200433864",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1762564594200433864/BBC3AE3F2E89971A24F387C180F6EEBB70ACD252/",
+            "total_points": 890,
+            "total_earnings": 85000,
+            "league_results": [
+                {
+                    "timestamp": 1642525951,
+                    "league_id": 13738,
+                    "standing": 1,
+                    "points": 300,
+                    "earnings": 30000
+                },
+                {
+                    "timestamp": 1644781558,
+                    "league_id": 13960,
+                    "standing": 2,
+                    "points": 130,
+                    "earnings": 0
+                },
+                {
+                    "timestamp": 1650470338,
+                    "league_id": 14052,
+                    "standing": 3,
+                    "points": 160,
+                    "earnings": 27000
+                },
+                {
+                    "timestamp": 1657723297,
+                    "league_id": 14279,
+                    "standing": 2,
+                    "points": 300,
+                    "earnings": 28000
+                }
+            ]
+        },
+        {
+            "team_id": 6209804,
+            "team_name": "Royal Never Give Up",
+            "team_abbreviation": "RNG",
+            "team_logo": "1859419394708226637",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1859419394708226637/C2EB25BCB5A0C4430E839D705A4C5576A02D4EB7/",
+            "total_points": 738,
+            "total_earnings": 108000,
+            "league_results": [
+                {
+                    "timestamp": 1642936998,
+                    "league_id": 13716,
+                    "standing": 3,
+                    "points": 120,
+                    "earnings": 27000
+                },
+                {
+                    "timestamp": 1645363196,
+                    "league_id": 13937,
+                    "standing": 2,
+                    "points": 130,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1650790886,
+                    "league_id": 14041,
+                    "standing": 4,
+                    "points": 80,
+                    "earnings": 26000
+                },
+                {
+                    "timestamp": 1652268060,
+                    "audit_action": 2,
+                    "audit_data": 136177710
+                },
+                {
+                    "timestamp": 1652268070,
+                    "audit_action": 2,
+                    "audit_data": 119535307
+                },
+                {
+                    "timestamp": 1657454680,
+                    "league_id": 14248,
+                    "standing": 1,
+                    "points": 500,
+                    "earnings": 30000
+                }
+            ]
+        },
+        {
+            "team_id": 8721219,
+            "team_name": "BetBoom Team",
+            "team_abbreviation": "BB",
+            "team_logo": "1845922937363804366",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1845922937363804366/B718AFD0F76379ACDDE28F7512FC91B76C478985/",
+            "total_points": 629,
+            "total_earnings": 53500,
+            "league_results": [
+                {
+                    "timestamp": 1651529364,
+                    "league_id": 14187,
+                    "standing": 1,
+                    "points": 400,
+                    "earnings": 15000
+                },
+                {
+                    "timestamp": 1653053094,
+                    "league_id": 14173,
+                    "standing": 7,
+                    "points": 240,
+                    "earnings": 12500
+                },
+                {
+                    "timestamp": 1657817235,
+                    "league_id": 14295,
+                    "standing": 4,
+                    "points": 100,
+                    "earnings": 26000
+                },
+                {
+                    "timestamp": 1660215404,
+                    "audit_action": 2,
+                    "audit_data": 235505993
+                }
+            ]
+        },
+        {
+            "team_id": 8605863,
+            "team_name": "Entity",
+            "team_abbreviation": "ENT",
+            "team_logo": "1816635640278661784",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1816635640278661784/C77C3FA0D190002E17524596E5C62083994E2535/",
+            "total_points": 615,
+            "total_earnings": 51000,
+            "league_results": [
+                {
+                    "timestamp": 1657389053,
+                    "league_id": 14279,
+                    "standing": 4,
+                    "points": 100,
+                    "earnings": 26000
+                },
+                {
+                    "timestamp": 1660353181,
+                    "league_id": 14417,
+                    "standing": 5,
+                    "points": 515,
+                    "earnings": 25000
+                }
+            ]
+        },
+        {
+            "team_id": 7390454,
+            "team_name": "Soniqs",
+            "team_abbreviation": "SQ",
+            "team_logo": "1884212415048457859",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1884212415048457859/69CEB7F262EC4D67616798C7E1D06FED7197CC04/",
+            "total_points": 582,
+            "total_earnings": 85000,
+            "league_results": [
+                {
+                    "timestamp": 1642641592,
+                    "league_id": 13741,
+                    "standing": 1,
+                    "points": 300,
+                    "earnings": 30000
+                },
+                {
+                    "timestamp": 1650492142,
+                    "league_id": 14051,
+                    "standing": 3,
+                    "points": 160,
+                    "earnings": 27000
+                },
+                {
+                    "timestamp": 1652014311,
+                    "audit_action": 2,
+                    "audit_data": 193884241
+                },
+                {
+                    "timestamp": 1652014323,
+                    "audit_action": 2,
+                    "audit_data": 98172857
+                },
+                {
+                    "timestamp": 1653163007,
+                    "audit_action": 2,
+                    "audit_data": 169025618
+                },
+                {
+                    "timestamp": 1657756875,
+                    "league_id": 14281,
+                    "standing": 2,
+                    "points": 300,
+                    "earnings": 28000
+                }
+            ]
+        },
+        {
+            "team_id": 8261500,
+            "team_name": "Xtreme\u00a0 Gaming",
+            "team_abbreviation": "XG",
+            "team_logo": "1833524088514545233",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1833524088514545233/6F322E215508B25533628B8700F797C2D9658650/",
+            "total_points": 440,
+            "total_earnings": 55000,
+            "league_results": [
+                {
+                    "timestamp": 1650790886,
+                    "league_id": 14041,
+                    "standing": 2,
+                    "points": 240,
+                    "earnings": 28000
+                },
+                {
+                    "timestamp": 1657272011,
+                    "league_id": 14248,
+                    "standing": 3,
+                    "points": 200,
+                    "earnings": 27000
+                }
+            ]
+        },
+        {
+            "team_id": 36,
+            "team_name": "Natus Vincere",
+            "team_abbreviation": "NAVI",
+            "team_logo": "1835776613064898878",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1835776613064898878/C43B5C953D856345AD19194A84440600AA1672A1/",
+            "total_points": 341,
+            "total_earnings": 68000,
+            "league_results": [
+                {
+                    "timestamp": 1642358902,
+                    "league_id": 13709,
+                    "standing": 5,
+                    "points": 30,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1645462388,
+                    "audit_action": 2,
+                    "audit_data": 89550641
+                },
+                {
+                    "timestamp": 1650910418,
+                    "audit_action": 2,
+                    "audit_data": 123051238
+                },
+                {
+                    "timestamp": 1651529364,
+                    "league_id": 14187,
+                    "standing": 6,
+                    "points": 20,
+                    "earnings": 15000
+                },
+                {
+                    "timestamp": 1657890820,
+                    "league_id": 14295,
+                    "standing": 2,
+                    "points": 300,
+                    "earnings": 28000
+                }
+            ]
+        },
+        {
+            "team_id": 8597976,
+            "team_name": "Talon",
+            "team_abbreviation": "TLN",
+            "team_logo": "1818886756398782872",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1818886756398782872/1DA3D79899C2200A5B0B9DF361BC278D572CE314/",
+            "total_points": 300,
+            "total_earnings": 28000,
+            "league_results": [
+                {
+                    "timestamp": 1657718840,
+                    "league_id": 14270,
+                    "standing": 2,
+                    "points": 300,
+                    "earnings": 28000
+                }
+            ]
+        },
+        {
+            "team_id": 8728920,
+            "team_name": "nouns",
+            "team_abbreviation": "",
+            "team_logo": "1861686187975269057",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1861686187975269057/6E221E0B04CCB4AEF93A3FDA4DC7873A1BBAFAE2/",
+            "total_points": 300,
+            "total_earnings": 78000,
+            "league_results": [
+                {
+                    "timestamp": 1642543512,
+                    "league_id": 13741,
+                    "standing": 4,
+                    "points": 60,
+                    "earnings": 26000
+                },
+                {
+                    "timestamp": 1650157095,
+                    "league_id": 14051,
+                    "standing": 5,
+                    "points": 40,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1657664404,
+                    "league_id": 14281,
+                    "standing": 3,
+                    "points": 200,
+                    "earnings": 27000
+                }
+            ]
+        },
+        {
+            "team_id": 8214850,
+            "team_name": "T1",
+            "team_abbreviation": "T1",
+            "team_logo": "1658977260140178019",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1658977260140178019/F5E6186EC7A4E3E2568A66055529ABBE78D8DE67/",
+            "total_points": 272,
+            "total_earnings": 104000,
+            "league_results": [
+                {
+                    "timestamp": 1642602581,
+                    "league_id": 13747,
+                    "standing": 3,
+                    "points": 120,
+                    "earnings": 27000
+                },
+                {
+                    "timestamp": 1644759028,
+                    "league_id": 13939,
+                    "standing": 2,
+                    "points": 78,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1645412268,
+                    "audit_action": 2,
+                    "audit_data": 375507918
+                },
+                {
+                    "timestamp": 1650467838,
+                    "league_id": 14067,
+                    "standing": 3,
+                    "points": 160,
+                    "earnings": 27000
+                },
+                {
+                    "timestamp": 1657799995,
+                    "league_id": 14270,
+                    "standing": 5,
+                    "points": 50,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1660199515,
+                    "audit_action": 2,
+                    "audit_data": 94281932
+                },
+                {
+                    "timestamp": 1660199523,
+                    "audit_action": 2,
+                    "audit_data": 152545459
+                }
+            ]
+        },
+        {
+            "team_id": 2672298,
+            "team_name": "Infamous U.esports.",
+            "team_abbreviation": "INF",
+            "team_logo": "1709664202571049088",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1709664202571049088/76D5156E3CF7847989185216EEBF36157381CAF9/",
+            "total_points": 238,
+            "total_earnings": 105000,
+            "league_results": [
+                {
+                    "timestamp": 1642731965,
+                    "league_id": 13712,
+                    "standing": 2,
+                    "points": 180,
+                    "earnings": 28000
+                },
+                {
+                    "timestamp": 1644804762,
+                    "league_id": 13954,
+                    "standing": 2,
+                    "points": 130,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1645294124,
+                    "audit_action": 2,
+                    "audit_data": 248180032
+                },
+                {
+                    "timestamp": 1645294130,
+                    "audit_action": 2,
+                    "audit_data": 408729743
+                },
+                {
+                    "timestamp": 1650586744,
+                    "league_id": 14071,
+                    "standing": 5,
+                    "points": 40,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1651807181,
+                    "audit_action": 2,
+                    "audit_data": 101779337
+                },
+                {
+                    "timestamp": 1651807188,
+                    "audit_action": 2,
+                    "audit_data": 191290281
+                },
+                {
+                    "timestamp": 1657918112,
+                    "league_id": 14299,
+                    "standing": 3,
+                    "points": 200,
+                    "earnings": 27000
+                },
+                {
+                    "timestamp": 1658905976,
+                    "audit_action": 2,
+                    "audit_data": 1171243748
+                },
+                {
+                    "timestamp": 1659149004,
+                    "audit_action": 2,
+                    "audit_data": 352623024
+                },
+                {
+                    "timestamp": 1659333519,
+                    "audit_action": 2,
+                    "audit_data": 180775030
+                }
+            ]
+        },
+        {
+            "team_id": 7119077,
+            "team_name": "Tempest",
+            "team_abbreviation": "TEM",
+            "team_logo": "1841421550681119843",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1841421550681119843/7448EC422B30C3169B453D383E12EE985C49309D/",
+            "total_points": 167,
+            "total_earnings": 77000,
+            "league_results": [
+                {
+                    "timestamp": 1642800780,
+                    "league_id": 13712,
+                    "standing": 5,
+                    "points": 30,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1650234913,
+                    "league_id": 14071,
+                    "standing": 4,
+                    "points": 80,
+                    "earnings": 26000
+                },
+                {
+                    "timestamp": 1651880262,
+                    "audit_action": 2,
+                    "audit_data": 59463394
+                },
+                {
+                    "timestamp": 1653100560,
+                    "audit_action": 2,
+                    "audit_data": 349310876
+                },
+                {
+                    "timestamp": 1653100564,
+                    "audit_action": 2,
+                    "audit_data": 407321629
+                },
+                {
+                    "timestamp": 1657489549,
+                    "league_id": 14299,
+                    "standing": 4,
+                    "points": 100,
+                    "earnings": 26000
+                }
+            ]
+        },
+        {
+            "team_id": 8376426,
+            "team_name": "Wildcard Gaming",
+            "team_abbreviation": "WC",
+            "team_logo": "1863924178741181080",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1863924178741181080/3E172D356AD59BE567F01A61913B9AE11F906D96/",
+            "total_points": 160,
+            "total_earnings": 76000,
+            "league_results": [
+                {
+                    "timestamp": 1642543512,
+                    "league_id": 13741,
+                    "standing": 5,
+                    "points": 30,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1649886593,
+                    "league_id": 14051,
+                    "standing": 4,
+                    "points": 80,
+                    "earnings": 26000
+                },
+                {
+                    "timestamp": 1657747758,
+                    "league_id": 14281,
+                    "standing": 5,
+                    "points": 50,
+                    "earnings": 25000
+                }
+            ]
+        },
+        {
+            "team_id": 8255888,
+            "team_name": "Mind Games",
+            "team_abbreviation": "MG",
+            "team_logo": "1859433396454987999",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1859433396454987999/56051FD0BAC135685E59AC459ED30FB9BCB94E63/",
+            "total_points": 136,
+            "total_earnings": 15000,
+            "league_results": [
+                {
+                    "timestamp": 1651529364,
+                    "league_id": 14187,
+                    "standing": 3,
+                    "points": 160,
+                    "earnings": 15000
+                },
+                {
+                    "timestamp": 1660559856,
+                    "audit_action": 2,
+                    "audit_data": 363871826
+                }
+            ]
+        },
+        {
+            "team_id": 8668460,
+            "team_name": "RSG",
+            "team_abbreviation": "RSG",
+            "team_logo": "1811016238428331924",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1811016238428331924/73BA5454BD96A7201E498B403D0B90EE015C6155/",
+            "total_points": 100,
+            "total_earnings": 26000,
+            "league_results": [
+                {
+                    "timestamp": 1657718840,
+                    "league_id": 14270,
+                    "standing": 4,
+                    "points": 100,
+                    "earnings": 26000
+                }
+            ]
+        },
+        {
+            "team_id": 8131728,
+            "team_name": "Hokori",
+            "team_abbreviation": "HOK",
+            "team_logo": "1704034371947308886",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1704034371947308886/699822F5C75F7B674A0FFED975AAEC17A32B96A2/",
+            "total_points": 97,
+            "total_earnings": 27000,
+            "league_results": [
+                {
+                    "timestamp": 1650234913,
+                    "league_id": 14071,
+                    "standing": 3,
+                    "points": 160,
+                    "earnings": 27000
+                },
+                {
+                    "timestamp": 1652231252,
+                    "audit_action": 2,
+                    "audit_data": 105045291
+                },
+                {
+                    "timestamp": 1660583412,
+                    "audit_action": 2,
+                    "audit_data": 1031547092
+                },
+                {
+                    "timestamp": 1660583424,
+                    "audit_action": 2,
+                    "audit_data": 177203952
+                }
+            ]
+        },
+        {
+            "team_id": 8261648,
+            "team_name": "PuckChamp",
+            "team_abbreviation": "PC",
+            "team_logo": "1883081308671045364",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1883081308671045364/AAB8E517ADA03AFB4DC1847E2377430B3929770D/",
+            "total_points": 93,
+            "total_earnings": 28000,
+            "league_results": [
+                {
+                    "timestamp": 1642093115,
+                    "league_id": 13709,
+                    "standing": 2,
+                    "points": 180,
+                    "earnings": 28000
+                },
+                {
+                    "timestamp": 1658586367,
+                    "audit_action": 2,
+                    "audit_data": 197547532
+                },
+                {
+                    "timestamp": 1659179843,
+                    "audit_action": 2,
+                    "audit_data": 73401082
+                },
+                {
+                    "timestamp": 1659180017,
+                    "audit_action": 2,
+                    "audit_data": 150748346
+                },
+                {
+                    "timestamp": 1660215296,
+                    "audit_action": 2,
+                    "audit_data": 159020918
+                }
+            ]
+        },
+        {
+            "team_id": 1838315,
+            "team_name": "Team Secret",
+            "team_abbreviation": "SEC",
+            "team_logo": "1848171366536285637",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1848171366536285637/EB2AE7561FEE7D076D5EC2F30354217F91307658/",
+            "total_points": 78,
+            "total_earnings": 75000,
+            "league_results": [
+                {
+                    "timestamp": 1642534635,
+                    "league_id": 13738,
+                    "standing": 5,
+                    "points": 30,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1650124402,
+                    "league_id": 14052,
+                    "standing": 5,
+                    "points": 40,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1653310769,
+                    "audit_action": 2,
+                    "audit_data": 111620041
+                },
+                {
+                    "timestamp": 1657639073,
+                    "league_id": 14279,
+                    "standing": 5,
+                    "points": 50,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1660554998,
+                    "audit_action": 2,
+                    "audit_data": 84772440
+                },
+                {
+                    "timestamp": 1660555003,
+                    "audit_action": 2,
+                    "audit_data": 89117038
+                }
+            ]
+        },
+        {
+            "team_id": 8525778,
+            "team_name": "Polaris Esports",
+            "team_abbreviation": "PLR",
+            "team_logo": "1831290045925630948",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1831290045925630948/400C4E5FD779D964D9BEC5E44D414073ADC03790/",
+            "total_points": 57,
+            "total_earnings": 26000,
+            "league_results": [
+                {
+                    "timestamp": 1650098960,
+                    "league_id": 14067,
+                    "standing": 4,
+                    "points": 80,
+                    "earnings": 26000
+                },
+                {
+                    "timestamp": 1653042235,
+                    "audit_action": 2,
+                    "audit_data": 146711951
+                },
+                {
+                    "timestamp": 1653042238,
+                    "audit_action": 2,
+                    "audit_data": 100616105
+                }
+            ]
+        },
+        {
+            "team_id": 4,
+            "team_name": "EHOME",
+            "team_abbreviation": "EH",
+            "team_logo": "81469728907777994",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/81469728907777994/2B59BBA64F11BE944E22DDD06FDD739FAC3B04FC/",
+            "total_points": 51,
+            "total_earnings": 26000,
+            "league_results": [
+                {
+                    "timestamp": 1642493415,
+                    "league_id": 13716,
+                    "standing": 4,
+                    "points": 60,
+                    "earnings": 26000
+                },
+                {
+                    "timestamp": 1646097556,
+                    "audit_action": 2,
+                    "audit_data": 179313961
+                }
+            ]
+        },
+        {
+            "team_id": 7422789,
+            "team_name": "HellRaisers",
+            "team_abbreviation": "HR",
+            "team_logo": "1831286133097023803",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1831286133097023803/90F55813EB2ACD140D381894135B7872E2B9E3F7/",
+            "total_points": 51,
+            "total_earnings": 26000,
+            "league_results": [
+                {
+                    "timestamp": 1642701155,
+                    "league_id": 13709,
+                    "standing": 4,
+                    "points": 60,
+                    "earnings": 26000
+                },
+                {
+                    "timestamp": 1653249961,
+                    "audit_action": 2,
+                    "audit_data": 103850210
+                }
+            ]
+        },
+        {
+            "team_id": 8376696,
+            "team_name": "One Move",
+            "team_abbreviation": "MOV",
+            "team_logo": "1857183850310080331",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1857183850310080331/2016A60B73B29A620CFA81A830603361CBB388AD/",
+            "total_points": 50,
+            "total_earnings": 25000,
+            "league_results": [
+                {
+                    "timestamp": 1657890820,
+                    "league_id": 14295,
+                    "standing": 5,
+                    "points": 50,
+                    "earnings": 25000
+                }
+            ]
+        },
+        {
+            "team_id": 7453020,
+            "team_name": "Aster.Aries",
+            "team_abbreviation": "ARI",
+            "team_logo": "1021697620249691876",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1021697620249691876/0C6C8F47D723EF0B110292609BFDB64EB7B9553C/",
+            "total_points": 42,
+            "total_earnings": 25000,
+            "league_results": [
+                {
+                    "timestamp": 1657623485,
+                    "league_id": 14248,
+                    "standing": 5,
+                    "points": 50,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1660395508,
+                    "audit_action": 2,
+                    "audit_data": 162926943
+                }
+            ]
+        },
+        {
+            "team_id": 726228,
+            "team_name": "Vici Gaming",
+            "team_abbreviation": "VG",
+            "team_logo": "1841426000752906741",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1841426000752906741/F21E67FA088B7176CA4C230B4039D2253B95570A/",
+            "total_points": 42,
+            "total_earnings": 50000,
+            "league_results": [
+                {
+                    "timestamp": 1642924662,
+                    "league_id": 13716,
+                    "standing": 5,
+                    "points": 30,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1650717571,
+                    "league_id": 14041,
+                    "standing": 5,
+                    "points": 40,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1651830040,
+                    "audit_action": 2,
+                    "audit_data": 223344914
+                },
+                {
+                    "timestamp": 1658729063,
+                    "audit_action": 2,
+                    "audit_data": 107081378
+                },
+                {
+                    "timestamp": 1660121750,
+                    "audit_action": 2,
+                    "audit_data": 114645455
+                }
+            ]
+        },
+        {
+            "team_id": 8255756,
+            "team_name": "SG esports",
+            "team_abbreviation": "SG",
+            "team_logo": "1662356550778267512",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1662356550778267512/15BE5F30F36E3EBA99D9B7E0E810398B35E3043C/",
+            "total_points": 35,
+            "total_earnings": 25000,
+            "league_results": [
+                {
+                    "timestamp": 1657842679,
+                    "league_id": 14299,
+                    "standing": 5,
+                    "points": 50,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1659090301,
+                    "audit_action": 2,
+                    "audit_data": 173971950
+                },
+                {
+                    "timestamp": 1660057539,
+                    "audit_action": 2,
+                    "audit_data": 407321629
+                }
+            ]
+        },
+        {
+            "team_id": 8572181,
+            "team_name": "Nigma Galaxy SEA",
+            "team_abbreviation": "NGS",
+            "team_logo": "1869552972538783349",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1869552972538783349/6F21C74FA42DE4B8BCD187C8C8A00AEFA316E0D5/",
+            "total_points": 34,
+            "total_earnings": 25000,
+            "league_results": [
+                {
+                    "timestamp": 1650448850,
+                    "league_id": 14067,
+                    "standing": 5,
+                    "points": 40,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1651958507,
+                    "audit_action": 2,
+                    "audit_data": 76904792
+                }
+            ]
+        },
+        {
+            "team_id": 8375259,
+            "team_name": "Coritiba Esports",
+            "team_abbreviation": "Cori",
+            "team_logo": "1878577295467090179",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1878577295467090179/17AEBB7C2F90BD7848D12804776EDD24053BDB68/",
+            "total_points": 30,
+            "total_earnings": 26000,
+            "league_results": [
+                {
+                    "timestamp": 1642731965,
+                    "league_id": 13712,
+                    "standing": 4,
+                    "points": 60,
+                    "earnings": 26000
+                },
+                {
+                    "timestamp": 1644191014,
+                    "audit_action": 2,
+                    "audit_data": 125845797
+                },
+                {
+                    "timestamp": 1645473726,
+                    "audit_action": 2,
+                    "audit_data": 126174633
+                },
+                {
+                    "timestamp": 1651927028,
+                    "audit_action": 2,
+                    "audit_data": 203851397
+                },
+                {
+                    "timestamp": 1653282750,
+                    "audit_action": 2,
+                    "audit_data": 88153289
+                }
+            ]
+        },
+        {
+            "team_id": 8244493,
+            "team_name": "Team SMG",
+            "team_abbreviation": "SMG",
+            "team_logo": "1856049226625971775",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1856049226625971775/C8540DF2478E5EE8890CD4128DE07176F9FE5FA2/",
+            "total_points": 30,
+            "total_earnings": 26000,
+            "league_results": [
+                {
+                    "timestamp": 1642158648,
+                    "league_id": 13747,
+                    "standing": 4,
+                    "points": 60,
+                    "earnings": 26000
+                },
+                {
+                    "timestamp": 1645434016,
+                    "audit_action": 2,
+                    "audit_data": 108717482
+                },
+                {
+                    "timestamp": 1653031906,
+                    "audit_action": 2,
+                    "audit_data": 91443418
+                },
+                {
+                    "timestamp": 1660204992,
+                    "audit_action": 2,
+                    "audit_data": 6922000
+                },
+                {
+                    "timestamp": 1660205001,
+                    "audit_action": 2,
+                    "audit_data": 135495981
+                }
+            ]
+        },
+        {
+            "team_id": 8598633,
+            "team_name": "Pari Parni",
+            "team_abbreviation": "PAR",
+            "team_logo": "1733342720754418476",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1733342720754418476/EFDC36E034F6E5713AAE0469C3225DD0751A81CE/",
+            "total_points": 28,
+            "total_earnings": 15000,
+            "league_results": [
+                {
+                    "timestamp": 1651370400,
+                    "league_id": 14187,
+                    "standing": 4,
+                    "points": 80,
+                    "earnings": 15000
+                },
+                {
+                    "timestamp": 1653065498,
+                    "audit_action": 2,
+                    "audit_data": 165564598
+                },
+                {
+                    "timestamp": 1653065862,
+                    "audit_action": 2,
+                    "audit_data": 94049589
+                },
+                {
+                    "timestamp": 1653065866,
+                    "audit_action": 2,
+                    "audit_data": 159020918
+                },
+                {
+                    "timestamp": 1653065871,
+                    "audit_action": 2,
+                    "audit_data": 132851371
+                },
+                {
+                    "timestamp": 1660216254,
+                    "audit_action": 2,
+                    "audit_data": 904131336
+                },
+                {
+                    "timestamp": 1660673515,
+                    "audit_action": 2,
+                    "audit_data": 162959893
+                }
+            ]
+        },
+        {
+            "team_id": 8360138,
+            "team_name": "Neon Esports",
+            "team_abbreviation": "NEON",
+            "team_logo": "1824530839140291637",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1824530839140291637/B33D494DF247FC383DB1E0847BB81BE0DA6DB9C3/",
+            "total_points": 5,
+            "total_earnings": 25000,
+            "league_results": [
+                {
+                    "timestamp": 1642689490,
+                    "league_id": 13747,
+                    "standing": 5,
+                    "points": 30,
+                    "earnings": 25000
+                },
+                {
+                    "timestamp": 1644312342,
+                    "audit_action": 2,
+                    "audit_data": 343084576
+                },
+                {
+                    "timestamp": 1645359044,
+                    "audit_action": 2,
+                    "audit_data": 248388120
+                },
+                {
+                    "timestamp": 1645507853,
+                    "audit_action": 2,
+                    "audit_data": 389022189
+                },
+                {
+                    "timestamp": 1652240082,
+                    "audit_action": 2,
+                    "audit_data": 353424606
+                },
+                {
+                    "timestamp": 1653137036,
+                    "audit_action": 2,
+                    "audit_data": 219755398
+                },
+                {
+                    "timestamp": 1653246287,
+                    "audit_action": 2,
+                    "audit_data": 112531417
+                },
+                {
+                    "timestamp": 1658578309,
+                    "audit_action": 2,
+                    "audit_data": 1078118200
+                },
+                {
+                    "timestamp": 1660634975,
+                    "audit_action": 2,
+                    "audit_data": 88553213
+                }
+            ]
+        },
+        {
+            "team_id": 7819028,
+            "team_name": "4 Zoomers",
+            "team_abbreviation": "4ZS",
+            "team_logo": "1602673819877727289",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1602673819877727289/A7BCAD59945257F51E702AEB9CD376A2D186C8B1/",
+            "total_points": 0,
+            "total_earnings": 0,
+            "league_results": []
+        },
+        {
+            "team_id": 1883502,
+            "team_name": "Virtus.pro",
+            "team_abbreviation": "VP",
+            "team_logo": "1858302130119541964",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1858302130119541964/087EF97925087F92561983C34475ACBB68A60AE4/",
+            "total_points": 0,
+            "total_earnings": 0,
+            "league_results": []
+        }
+    ],
+    "standings": [],
+    "major_wildcard_standings": [],
+    "major_group_standings": [],
+    "major_playoff_standings": []
+}
