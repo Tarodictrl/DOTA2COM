@@ -1288,34 +1288,6 @@
             ]
         },
         {
-            "team_id": 8525778,
-            "team_name": "Polaris Esports",
-            "team_abbreviation": "PLR",
-            "team_logo": "1831290045925630948",
-            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1831290045925630948/400C4E5FD779D964D9BEC5E44D414073ADC03790/",
-            "total_points": 57,
-            "total_earnings": 26000,
-            "league_results": [
-                {
-                    "timestamp": 1650098960,
-                    "league_id": 14067,
-                    "standing": 4,
-                    "points": 80,
-                    "earnings": 26000
-                },
-                {
-                    "timestamp": 1653042235,
-                    "audit_action": 2,
-                    "audit_data": 146711951
-                },
-                {
-                    "timestamp": 1653042238,
-                    "audit_action": 2,
-                    "audit_data": 100616105
-                }
-            ]
-        },
-        {
             "team_id": 4,
             "team_name": "EHOME",
             "team_abbreviation": "EH",
@@ -1439,6 +1411,44 @@
                     "timestamp": 1660121750,
                     "audit_action": 2,
                     "audit_data": 114645455
+                }
+            ]
+        },
+        {
+            "team_id": 8525778,
+            "team_name": "Polaris Esports",
+            "team_abbreviation": "PLR",
+            "team_logo": "1831290045925630948",
+            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1831290045925630948/400C4E5FD779D964D9BEC5E44D414073ADC03790/",
+            "total_points": 40,
+            "total_earnings": 26000,
+            "league_results": [
+                {
+                    "timestamp": 1650098960,
+                    "league_id": 14067,
+                    "standing": 4,
+                    "points": 80,
+                    "earnings": 26000
+                },
+                {
+                    "timestamp": 1653042235,
+                    "audit_action": 2,
+                    "audit_data": 146711951
+                },
+                {
+                    "timestamp": 1653042238,
+                    "audit_action": 2,
+                    "audit_data": 100616105
+                },
+                {
+                    "timestamp": 1661128307,
+                    "audit_action": 2,
+                    "audit_data": 353479702
+                },
+                {
+                    "timestamp": 1661128312,
+                    "audit_action": 2,
+                    "audit_data": 113152484
                 }
             ]
         },
