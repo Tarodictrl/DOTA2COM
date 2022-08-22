@@ -58,7 +58,7 @@
             "team_name": "OG",
             "team_abbreviation": "OG",
             "team_logo": "862855679982708969",
-            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/862855679982708969/901D0525481B6F5E3ECDC5D42176C685588B4CE1/",
+            "team_logo_url": "",
             "total_points": 1930,
             "total_earnings": 333000,
             "league_results": [
@@ -203,7 +203,7 @@
             "team_name": "Team Aster",
             "team_abbreviation": "AST",
             "team_logo": "1629730253163462144",
-            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1629730253163462144/FEF15B2B4528E81103DD693E37FD7B6C9BE6B471/",
+            "team_logo_url": "",
             "total_points": 1610,
             "total_earnings": 183000,
             "league_results": [
@@ -293,7 +293,7 @@
             "team_name": "BOOM Esports",
             "team_abbreviation": "BOOM",
             "team_logo": "768365068750604173",
-            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/768365068750604173/EF3216F4B02A0DA2327AC3190A369349C7BF3A24/",
+            "team_logo_url": "",
             "total_points": 1482,
             "total_earnings": 150500,
             "league_results": [
@@ -737,7 +737,7 @@
             "team_name": "Entity",
             "team_abbreviation": "ENT",
             "team_logo": "1816635640278661784",
-            "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1816635640278661784/C77C3FA0D190002E17524596E5C62083994E2535/",
+            "team_logo_url": "",
             "total_points": 615,
             "total_earnings": 51000,
             "league_results": [
@@ -2016,7 +2016,7 @@
                     "team_id": 2586976,
                     "wins": 5,
                     "losses": 2,
-                    "team_url": "https://steamusercontent-a.akamaihd.net/ugc/862855679982708969/901D0525481B6F5E3ECDC5D42176C685588B4CE1/",
+                    "team_url": "",
                     "team_name": "OG",
                     "team_abbreviation": "OG"
                 },
@@ -2024,7 +2024,7 @@
                     "team_id": 8605863,
                     "wins": 4,
                     "losses": 3,
-                    "team_url": "https://steamusercontent-a.akamaihd.net/ugc/1816635640278661784/C77C3FA0D190002E17524596E5C62083994E2535/",
+                    "team_url": "",
                     "team_name": "Entity",
                     "team_abbreviation": "ENT"
                 },
@@ -2288,7 +2288,7 @@
                     "team_id": 6209166,
                     "wins": 4,
                     "losses": 3,
-                    "team_url": "https://steamusercontent-a.akamaihd.net/ugc/1629730253163462144/FEF15B2B4528E81103DD693E37FD7B6C9BE6B471/",
+                    "team_url": "",
                     "team_name": "Team Aster",
                     "team_abbreviation": "AST"
                 },
@@ -2398,7 +2398,7 @@
                     "team_id": 8574561,
                     "wins": 2,
                     "losses": 5,
-                    "team_url": "https://steamusercontent-a.akamaihd.net/ugc/1742350376840285855/69B4782E6BA78B8147632D057EB949D4CB1F420B/",
+                    "team_url": "",
                     "team_name": "NUU gaming",
                     "team_abbreviation": ""
                 },
@@ -2420,7 +2420,7 @@
                     "team_id": 7732977,
                     "wins": 6,
                     "losses": 1,
-                    "team_url": "https://steamusercontent-a.akamaihd.net/ugc/768365068750604173/EF3216F4B02A0DA2327AC3190A369349C7BF3A24/",
+                    "team_url": "",
                     "team_name": "BOOM Esports",
                     "team_abbreviation": "BOOM"
                 },
@@ -2576,7 +2576,7 @@
             "team_id": 6209166,
             "wins": 0,
             "losses": 0,
-            "team_url": "https://steamusercontent-a.akamaihd.net/ugc/1629730253163462144/FEF15B2B4528E81103DD693E37FD7B6C9BE6B471/",
+            "team_url": "",
             "team_name": "Team Aster",
             "team_abbreviation": "AST"
         },
@@ -2584,7 +2584,7 @@
             "team_id": 2586976,
             "wins": 0,
             "losses": 0,
-            "team_url": "https://steamusercontent-a.akamaihd.net/ugc/862855679982708969/901D0525481B6F5E3ECDC5D42176C685588B4CE1/",
+            "team_url": "",
             "team_name": "OG",
             "team_abbreviation": "OG"
         },
@@ -2592,7 +2592,7 @@
             "team_id": 8605863,
             "wins": 0,
             "losses": 0,
-            "team_url": "https://steamusercontent-a.akamaihd.net/ugc/1816635640278661784/C77C3FA0D190002E17524596E5C62083994E2535/",
+            "team_url": "",
             "team_name": "Entity",
             "team_abbreviation": "ENT"
         },
@@ -2608,7 +2608,7 @@
             "team_id": 7732977,
             "wins": 0,
             "losses": 0,
-            "team_url": "https://steamusercontent-a.akamaihd.net/ugc/768365068750604173/EF3216F4B02A0DA2327AC3190A369349C7BF3A24/",
+            "team_url": "",
             "team_name": "BOOM Esports",
             "team_abbreviation": "BOOM"
         },
