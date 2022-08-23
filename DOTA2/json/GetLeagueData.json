@@ -274,29 +274,14 @@
     "series_infos": [],
     "registered_players": [
         {
-            "account_id": 111114687,
-            "name": "y`",
-            "team_id": 15
+            "account_id": 10366616,
+            "name": "Sneyking",
+            "team_id": 8291895
         },
         {
-            "account_id": 118134220,
-            "name": "Faith_bian",
-            "team_id": 15
-        },
-        {
-            "account_id": 157475523,
-            "name": "XinQ",
-            "team_id": 15
-        },
-        {
-            "account_id": 173978074,
-            "name": "NothingToSay",
-            "team_id": 15
-        },
-        {
-            "account_id": 898754153,
-            "name": "\u8427\u745f",
-            "team_id": 15
+            "account_id": 16497807,
+            "name": "tOfu",
+            "team_id": 8599101
         },
         {
             "account_id": 25907144,
@@ -304,49 +289,19 @@
             "team_id": 39
         },
         {
+            "account_id": 38628747,
+            "name": "MoonMeander",
+            "team_id": 8260983
+        },
+        {
+            "account_id": 86698277,
+            "name": "33",
+            "team_id": 8291895
+        },
+        {
             "account_id": 86745912,
             "name": "\u5929\u9e3d",
             "team_id": 39
-        },
-        {
-            "account_id": 94155156,
-            "name": "Fly",
-            "team_id": 39
-        },
-        {
-            "account_id": 124801257,
-            "name": "Nightfall \u51db",
-            "team_id": 39
-        },
-        {
-            "account_id": 154715080,
-            "name": "Abed",
-            "team_id": 39
-        },
-        {
-            "account_id": 100471531,
-            "name": "J",
-            "team_id": 350190
-        },
-        {
-            "account_id": 102099826,
-            "name": "DJ",
-            "team_id": 350190
-        },
-        {
-            "account_id": 132309493,
-            "name": "Raven",
-            "team_id": 350190
-        },
-        {
-            "account_id": 148526973,
-            "name": "Jaunuel",
-            "team_id": 350190
-        },
-        {
-            "account_id": 164532005,
-            "name": "Armel",
-            "team_id": 350190
         },
         {
             "account_id": 90125566,
@@ -354,24 +309,59 @@
             "team_id": 2586976
         },
         {
+            "account_id": 91730177,
+            "name": "Seleri",
+            "team_id": 8599101
+        },
+        {
             "account_id": 93618577,
             "name": "bzm",
             "team_id": 2586976
         },
         {
-            "account_id": 167976729,
-            "name": "Yuragi",
-            "team_id": 2586976
+            "account_id": 94155156,
+            "name": "Fly",
+            "team_id": 39
         },
         {
-            "account_id": 183719386,
-            "name": "AMMAR_THE_F",
-            "team_id": 2586976
+            "account_id": 94786276,
+            "name": "Nine",
+            "team_id": 8291895
         },
         {
-            "account_id": 401792574,
-            "name": "Taiga",
-            "team_id": 2586976
+            "account_id": 97590558,
+            "name": "Ace",
+            "team_id": 8599101
+        },
+        {
+            "account_id": 97658618,
+            "name": "Timado",
+            "team_id": 8260983
+        },
+        {
+            "account_id": 100058342,
+            "name": "skiter",
+            "team_id": 8291895
+        },
+        {
+            "account_id": 100471531,
+            "name": "J",
+            "team_id": 350190
+        },
+        {
+            "account_id": 100594231,
+            "name": "skem",
+            "team_id": 7732977
+        },
+        {
+            "account_id": 102099826,
+            "name": "DJ",
+            "team_id": 350190
+        },
+        {
+            "account_id": 103735745,
+            "name": "Saksa",
+            "team_id": 8291895
         },
         {
             "account_id": 107803494,
@@ -379,24 +369,9 @@
             "team_id": 6209166
         },
         {
-            "account_id": 129958758,
-            "name": "Xxs",
-            "team_id": 6209166
-        },
-        {
-            "account_id": 148215639,
-            "name": "Monet",
-            "team_id": 6209166
-        },
-        {
-            "account_id": 183378746,
-            "name": "\u76ae\u7403",
-            "team_id": 6209166
-        },
-        {
-            "account_id": 207829314,
-            "name": "BoBoKa",
-            "team_id": 6209166
+            "account_id": 111114687,
+            "name": "y`",
+            "team_id": 15
         },
         {
             "account_id": 113331514,
@@ -404,24 +379,9 @@
             "team_id": 7119388
         },
         {
-            "account_id": 256156323,
-            "name": "Mira",
-            "team_id": 7119388
-        },
-        {
-            "account_id": 302214028,
-            "name": "CoLLapse",
-            "team_id": 7119388
-        },
-        {
-            "account_id": 321580662,
-            "name": "YATOROGOD",
-            "team_id": 7119388
-        },
-        {
-            "account_id": 431770905,
-            "name": "TORONTOTOKYO",
-            "team_id": 7119388
+            "account_id": 116934015,
+            "name": "dyrachyo",
+            "team_id": 8599101
         },
         {
             "account_id": 117089283,
@@ -429,29 +389,64 @@
             "team_id": 7391077
         },
         {
+            "account_id": 118134220,
+            "name": "Faith_bian",
+            "team_id": 15
+        },
+        {
+            "account_id": 119631156,
+            "name": "XstiNgerX",
+            "team_id": 8254400
+        },
+        {
+            "account_id": 124801257,
+            "name": "Nightfall \u51db",
+            "team_id": 39
+        },
+        {
+            "account_id": 126212866,
+            "name": "SabeRLighT-",
+            "team_id": 8260983
+        },
+        {
+            "account_id": 129958758,
+            "name": "Xxs",
+            "team_id": 6209166
+        },
+        {
+            "account_id": 132309493,
+            "name": "Raven",
+            "team_id": 350190
+        },
+        {
+            "account_id": 145550466,
+            "name": "DuBu",
+            "team_id": 8260983
+        },
+        {
+            "account_id": 148215639,
+            "name": "Monet",
+            "team_id": 6209166
+        },
+        {
+            "account_id": 148526973,
+            "name": "Jaunuel",
+            "team_id": 350190
+        },
+        {
+            "account_id": 153836240,
+            "name": "C. smile  <",
+            "team_id": 8254400
+        },
+        {
+            "account_id": 154715080,
+            "name": "Abed",
+            "team_id": 39
+        },
+        {
             "account_id": 155332459,
             "name": "Matthew",
             "team_id": 7391077
-        },
-        {
-            "account_id": 339235645,
-            "name": "Pakazs",
-            "team_id": 7391077
-        },
-        {
-            "account_id": 352545711,
-            "name": "DarkMago\u2665",
-            "team_id": 7391077
-        },
-        {
-            "account_id": 408729743,
-            "name": "Sacred",
-            "team_id": 7391077
-        },
-        {
-            "account_id": 100594231,
-            "name": "skem",
-            "team_id": 7732977
         },
         {
             "account_id": 155494381,
@@ -464,24 +459,9 @@
             "team_id": 7732977
         },
         {
-            "account_id": 324277900,
-            "name": "Yopaj-",
-            "team_id": 7732977
-        },
-        {
-            "account_id": 392565237,
-            "name": "JACKBOYS",
-            "team_id": 7732977
-        },
-        {
-            "account_id": 119631156,
-            "name": "XstiNgerX",
-            "team_id": 8254400
-        },
-        {
-            "account_id": 153836240,
-            "name": "C. smile  <",
-            "team_id": 8254400
+            "account_id": 157475523,
+            "name": "XinQ",
+            "team_id": 15
         },
         {
             "account_id": 157989498,
@@ -489,34 +469,44 @@
             "team_id": 8254400
         },
         {
+            "account_id": 164532005,
+            "name": "Armel",
+            "team_id": 350190
+        },
+        {
             "account_id": 164685175,
             "name": "K1",
             "team_id": 8254400
         },
         {
-            "account_id": 292921272,
-            "name": "Wisper ",
-            "team_id": 8254400
+            "account_id": 167976729,
+            "name": "Yuragi",
+            "team_id": 2586976
         },
         {
-            "account_id": 38628747,
-            "name": "MoonMeander",
-            "team_id": 8260983
+            "account_id": 173978074,
+            "name": "NothingToSay",
+            "team_id": 15
         },
         {
-            "account_id": 97658618,
-            "name": "Timado",
-            "team_id": 8260983
+            "account_id": 183378746,
+            "name": "\u76ae\u7403",
+            "team_id": 6209166
         },
         {
-            "account_id": 126212866,
-            "name": "SabeRLighT-",
-            "team_id": 8260983
+            "account_id": 183719386,
+            "name": "AMMAR_THE_F",
+            "team_id": 2586976
         },
         {
-            "account_id": 145550466,
-            "name": "DuBu",
-            "team_id": 8260983
+            "account_id": 190826739,
+            "name": "BOOM",
+            "team_id": 8599101
+        },
+        {
+            "account_id": 207829314,
+            "name": "BoBoKa",
+            "team_id": 6209166
         },
         {
             "account_id": 238239590,
@@ -524,54 +514,64 @@
             "team_id": 8260983
         },
         {
-            "account_id": 10366616,
-            "name": "Sneyking",
-            "team_id": 8291895
+            "account_id": 256156323,
+            "name": "Mira",
+            "team_id": 7119388
         },
         {
-            "account_id": 86698277,
-            "name": "33",
-            "team_id": 8291895
+            "account_id": 292921272,
+            "name": "Wisper ",
+            "team_id": 8254400
         },
         {
-            "account_id": 94786276,
-            "name": "Nine",
-            "team_id": 8291895
+            "account_id": 302214028,
+            "name": "CoLLapse",
+            "team_id": 7119388
         },
         {
-            "account_id": 100058342,
-            "name": "skiter",
-            "team_id": 8291895
+            "account_id": 321580662,
+            "name": "YATOROGOD",
+            "team_id": 7119388
         },
         {
-            "account_id": 103735745,
-            "name": "Saksa",
-            "team_id": 8291895
+            "account_id": 324277900,
+            "name": "Yopaj-",
+            "team_id": 7732977
         },
         {
-            "account_id": 16497807,
-            "name": "tOfu",
-            "team_id": 8599101
+            "account_id": 339235645,
+            "name": "Pakazs",
+            "team_id": 7391077
         },
         {
-            "account_id": 91730177,
-            "name": "Seleri",
-            "team_id": 8599101
+            "account_id": 352545711,
+            "name": "DarkMago\u2665",
+            "team_id": 7391077
         },
         {
-            "account_id": 97590558,
-            "name": "Ace",
-            "team_id": 8599101
+            "account_id": 392565237,
+            "name": "JACKBOYS",
+            "team_id": 7732977
         },
         {
-            "account_id": 116934015,
-            "name": "dyrachyo",
-            "team_id": 8599101
+            "account_id": 401792574,
+            "name": "Taiga",
+            "team_id": 2586976
         },
         {
-            "account_id": 190826739,
-            "name": "BOOM",
-            "team_id": 8599101
+            "account_id": 408729743,
+            "name": "Sacred",
+            "team_id": 7391077
+        },
+        {
+            "account_id": 431770905,
+            "name": "TORONTOTOKYO",
+            "team_id": 7119388
+        },
+        {
+            "account_id": 898754153,
+            "name": "\u8427\u745f",
+            "team_id": 15
         }
     ]
 }
