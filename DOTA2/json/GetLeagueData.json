@@ -1,1 +1,577 @@
-null
+{
+    "info": {
+        "league_id": 14268,
+        "name": "The International 2022",
+        "tier": 5,
+        "region": 0,
+        "url": "https://www.dota2.com/esports",
+        "description": "The best teams in Dota arrive in Singapore for the culmination of the DPC league. Who will be the newest team to raise the Aegis of Champions?",
+        "notes": "",
+        "start_timestamp": 1665705600,
+        "end_timestamp": 1667001600,
+        "pro_circuit_points": 0,
+        "image_bits": 1537,
+        "status": 3,
+        "most_recent_activity": 1653336647,
+        "registration_period": 7
+    },
+    "prize_pool": {
+        "base_prize_pool": 0,
+        "total_prize_pool": 0,
+        "prize_split_pct_x100": [],
+        "prize_pool_items": []
+    },
+    "admins": [],
+    "streams": [
+        {
+            "stream_id": 3902,
+            "language": 0,
+            "name": "English Main",
+            "broadcast_provider": 2,
+            "stream_url": "https://www.twitch.tv/dota2ti",
+            "vod_url": ""
+        },
+        {
+            "stream_id": 3903,
+            "language": 8,
+            "name": "Russian Main",
+            "broadcast_provider": 2,
+            "stream_url": "https://www.twitch.tv/dota2ti_ru",
+            "vod_url": ""
+        },
+        {
+            "stream_id": 3904,
+            "language": 6,
+            "name": "Chinese Main",
+            "broadcast_provider": 2,
+            "stream_url": "https://www.twitch.tv/dota2ti_cn",
+            "vod_url": ""
+        }
+    ],
+    "node_groups": [
+        {
+            "name": "",
+            "node_group_id": 1,
+            "parent_node_group_id": 0,
+            "incoming_node_group_ids": [],
+            "advancing_node_group_id": 0,
+            "advancing_team_count": 0,
+            "team_count": 0,
+            "node_group_type": 1,
+            "default_node_type": 0,
+            "round": 1,
+            "max_rounds": 0,
+            "is_tiebreaker": false,
+            "is_final_group": false,
+            "is_completed": false,
+            "phase": 2,
+            "region": 1,
+            "start_time": 0,
+            "end_time": 0,
+            "secondary_advancing_node_group_id": 0,
+            "secondary_advancing_team_count": 0,
+            "tertiary_advancing_node_group_id": 0,
+            "tertiary_advancing_team_count": 0,
+            "elimination_dpc_points": 0,
+            "team_standings": [
+                {
+                    "standing": 0,
+                    "team_id": 15,
+                    "team_name": "PSG.LGD",
+                    "team_tag": "PSG.LGD",
+                    "team_logo": "1768194395980560504",
+                    "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1768194395980560504/81579A4F0055C88DACF7F52C77767A74D503CA57/",
+                    "wins": 0,
+                    "losses": 0,
+                    "score": "0",
+                    "team_abbreviation": "PLGD",
+                    "score_tiebreak_group": "0",
+                    "score_tiebreak_below": "0",
+                    "score_tiebreak_random": "0",
+                    "is_pro": true
+                },
+                {
+                    "standing": 0,
+                    "team_id": 39,
+                    "team_name": "Evil Geniuses",
+                    "team_tag": "EG",
+                    "team_logo": "1827909808864108708",
+                    "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1827909808864108708/BAA861E234E1BA39D75DF4CB814A5B76D020BED7/",
+                    "wins": 0,
+                    "losses": 0,
+                    "score": "0",
+                    "team_abbreviation": "EG",
+                    "score_tiebreak_group": "0",
+                    "score_tiebreak_below": "0",
+                    "score_tiebreak_random": "0",
+                    "is_pro": true
+                },
+                {
+                    "standing": 0,
+                    "team_id": 350190,
+                    "team_name": "Fnatic",
+                    "team_tag": "Fnatic",
+                    "team_logo": "772866954983282781",
+                    "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/772866954983282781/BCE0124B9A9BC0185070C01920318E880D60774C/",
+                    "wins": 0,
+                    "losses": 0,
+                    "score": "0",
+                    "team_abbreviation": "FNA",
+                    "score_tiebreak_group": "0",
+                    "score_tiebreak_below": "0",
+                    "score_tiebreak_random": "0",
+                    "is_pro": true
+                },
+                {
+                    "standing": 0,
+                    "team_id": 2586976,
+                    "team_name": "OG",
+                    "team_tag": "OG",
+                    "team_logo": "862855679982708969",
+                    "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/862855679982708969/901D0525481B6F5E3ECDC5D42176C685588B4CE1/",
+                    "wins": 0,
+                    "losses": 0,
+                    "score": "0",
+                    "team_abbreviation": "OG",
+                    "score_tiebreak_group": "0",
+                    "score_tiebreak_below": "0",
+                    "score_tiebreak_random": "0",
+                    "is_pro": true
+                },
+                {
+                    "standing": 0,
+                    "team_id": 6209166,
+                    "team_name": "Team Aster",
+                    "team_tag": "Aster",
+                    "team_logo": "1629730253163462144",
+                    "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1629730253163462144/FEF15B2B4528E81103DD693E37FD7B6C9BE6B471/",
+                    "wins": 0,
+                    "losses": 0,
+                    "score": "0",
+                    "team_abbreviation": "AST",
+                    "score_tiebreak_group": "0",
+                    "score_tiebreak_below": "0",
+                    "score_tiebreak_random": "0",
+                    "is_pro": true
+                },
+                {
+                    "standing": 0,
+                    "team_id": 7119388,
+                    "team_name": "Team Spirit",
+                    "team_tag": "TSpirit",
+                    "team_logo": "1773822957617535601",
+                    "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1773822957617535601/F40F2155B92321415E972B787C5B1B0FFF06155A/",
+                    "wins": 0,
+                    "losses": 0,
+                    "score": "0",
+                    "team_abbreviation": "TS",
+                    "score_tiebreak_group": "0",
+                    "score_tiebreak_below": "0",
+                    "score_tiebreak_random": "0",
+                    "is_pro": true
+                },
+                {
+                    "standing": 0,
+                    "team_id": 7391077,
+                    "team_name": "Thunder Awaken",
+                    "team_tag": "THUNDER",
+                    "team_logo": "1822272203087516431",
+                    "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1822272203087516431/689E3FD183048E98ED3F7B54BFE60AB30EA15681/",
+                    "wins": 0,
+                    "losses": 0,
+                    "score": "0",
+                    "team_abbreviation": "THU",
+                    "score_tiebreak_group": "0",
+                    "score_tiebreak_below": "0",
+                    "score_tiebreak_random": "0",
+                    "is_pro": true
+                },
+                {
+                    "standing": 0,
+                    "team_id": 7732977,
+                    "team_name": "BOOM Esports",
+                    "team_tag": "BOOM",
+                    "team_logo": "768365068750604173",
+                    "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/768365068750604173/EF3216F4B02A0DA2327AC3190A369349C7BF3A24/",
+                    "wins": 0,
+                    "losses": 0,
+                    "score": "0",
+                    "team_abbreviation": "BOOM",
+                    "score_tiebreak_group": "0",
+                    "score_tiebreak_below": "0",
+                    "score_tiebreak_random": "0",
+                    "is_pro": true
+                },
+                {
+                    "standing": 0,
+                    "team_id": 8254400,
+                    "team_name": "beastcoast",
+                    "team_tag": "bc",
+                    "team_logo": "1664609440937553639",
+                    "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1664609440937553639/85EA3FC27708076F8ACC2E5B70E25EEC72B09CC6/",
+                    "wins": 0,
+                    "losses": 0,
+                    "score": "0",
+                    "team_abbreviation": "BC",
+                    "score_tiebreak_group": "0",
+                    "score_tiebreak_below": "0",
+                    "score_tiebreak_random": "0",
+                    "is_pro": true
+                },
+                {
+                    "standing": 0,
+                    "team_id": 8260983,
+                    "team_name": "TSM FTX",
+                    "team_tag": "TSM FTX",
+                    "team_logo": "1818894999742669446",
+                    "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1818894999742669446/27884CB5B0E947F143B18055137ED4BDF5F96640/",
+                    "wins": 0,
+                    "losses": 0,
+                    "score": "0",
+                    "team_abbreviation": "TSM",
+                    "score_tiebreak_group": "0",
+                    "score_tiebreak_below": "0",
+                    "score_tiebreak_random": "0",
+                    "is_pro": true
+                },
+                {
+                    "standing": 0,
+                    "team_id": 8291895,
+                    "team_name": "Tundra Esports",
+                    "team_tag": "Tundra",
+                    "team_logo": "1771573722041415896",
+                    "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1771573722041415896/D98163DE6281550D35494CEFDF6257F9716BD43B/",
+                    "wins": 0,
+                    "losses": 0,
+                    "score": "0",
+                    "team_abbreviation": "TUN",
+                    "score_tiebreak_group": "0",
+                    "score_tiebreak_below": "0",
+                    "score_tiebreak_random": "0",
+                    "is_pro": true
+                },
+                {
+                    "standing": 0,
+                    "team_id": 8599101,
+                    "team_name": "Gaimin Gladiators",
+                    "team_tag": "GG",
+                    "team_logo": "1850419664501191993",
+                    "team_logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1850419664501191993/5DAAB68FB5604D29E1792A0F35E74B3FE3F3A026/",
+                    "wins": 0,
+                    "losses": 0,
+                    "score": "0",
+                    "team_abbreviation": "GG",
+                    "score_tiebreak_group": "0",
+                    "score_tiebreak_below": "0",
+                    "score_tiebreak_random": "0",
+                    "is_pro": true
+                }
+            ],
+            "nodes": [],
+            "node_groups": []
+        }
+    ],
+    "series_infos": [],
+    "registered_players": [
+        {
+            "account_id": 111114687,
+            "name": "y`",
+            "team_id": 15
+        },
+        {
+            "account_id": 118134220,
+            "name": "Faith_bian",
+            "team_id": 15
+        },
+        {
+            "account_id": 157475523,
+            "name": "XinQ",
+            "team_id": 15
+        },
+        {
+            "account_id": 173978074,
+            "name": "NothingToSay",
+            "team_id": 15
+        },
+        {
+            "account_id": 898754153,
+            "name": "\u8427\u745f",
+            "team_id": 15
+        },
+        {
+            "account_id": 25907144,
+            "name": "Cr1t-",
+            "team_id": 39
+        },
+        {
+            "account_id": 86745912,
+            "name": "\u5929\u9e3d",
+            "team_id": 39
+        },
+        {
+            "account_id": 94155156,
+            "name": "Fly",
+            "team_id": 39
+        },
+        {
+            "account_id": 124801257,
+            "name": "Nightfall \u51db",
+            "team_id": 39
+        },
+        {
+            "account_id": 154715080,
+            "name": "Abed",
+            "team_id": 39
+        },
+        {
+            "account_id": 100471531,
+            "name": "J",
+            "team_id": 350190
+        },
+        {
+            "account_id": 102099826,
+            "name": "DJ",
+            "team_id": 350190
+        },
+        {
+            "account_id": 132309493,
+            "name": "Raven",
+            "team_id": 350190
+        },
+        {
+            "account_id": 148526973,
+            "name": "Jaunuel",
+            "team_id": 350190
+        },
+        {
+            "account_id": 164532005,
+            "name": "Armel",
+            "team_id": 350190
+        },
+        {
+            "account_id": 90125566,
+            "name": "Misha",
+            "team_id": 2586976
+        },
+        {
+            "account_id": 93618577,
+            "name": "bzm",
+            "team_id": 2586976
+        },
+        {
+            "account_id": 167976729,
+            "name": "Yuragi",
+            "team_id": 2586976
+        },
+        {
+            "account_id": 183719386,
+            "name": "AMMAR_THE_F",
+            "team_id": 2586976
+        },
+        {
+            "account_id": 401792574,
+            "name": "Taiga",
+            "team_id": 2586976
+        },
+        {
+            "account_id": 107803494,
+            "name": "Ori",
+            "team_id": 6209166
+        },
+        {
+            "account_id": 129958758,
+            "name": "Xxs",
+            "team_id": 6209166
+        },
+        {
+            "account_id": 148215639,
+            "name": "Monet",
+            "team_id": 6209166
+        },
+        {
+            "account_id": 183378746,
+            "name": "\u76ae\u7403",
+            "team_id": 6209166
+        },
+        {
+            "account_id": 207829314,
+            "name": "BoBoKa",
+            "team_id": 6209166
+        },
+        {
+            "account_id": 113331514,
+            "name": "Miposhka",
+            "team_id": 7119388
+        },
+        {
+            "account_id": 256156323,
+            "name": "Mira",
+            "team_id": 7119388
+        },
+        {
+            "account_id": 302214028,
+            "name": "CoLLapse",
+            "team_id": 7119388
+        },
+        {
+            "account_id": 321580662,
+            "name": "YATOROGOD",
+            "team_id": 7119388
+        },
+        {
+            "account_id": 431770905,
+            "name": "TORONTOTOKYO",
+            "team_id": 7119388
+        },
+        {
+            "account_id": 117089283,
+            "name": "PandaMoo",
+            "team_id": 7391077
+        },
+        {
+            "account_id": 155332459,
+            "name": "Matthew",
+            "team_id": 7391077
+        },
+        {
+            "account_id": 339235645,
+            "name": "Pakazs",
+            "team_id": 7391077
+        },
+        {
+            "account_id": 352545711,
+            "name": "DarkMago\u2665",
+            "team_id": 7391077
+        },
+        {
+            "account_id": 408729743,
+            "name": "Sacred",
+            "team_id": 7391077
+        },
+        {
+            "account_id": 100594231,
+            "name": "skem",
+            "team_id": 7732977
+        },
+        {
+            "account_id": 155494381,
+            "name": "TIMS",
+            "team_id": 7732977
+        },
+        {
+            "account_id": 156328257,
+            "name": "Fbz",
+            "team_id": 7732977
+        },
+        {
+            "account_id": 324277900,
+            "name": "Yopaj-",
+            "team_id": 7732977
+        },
+        {
+            "account_id": 392565237,
+            "name": "JACKBOYS",
+            "team_id": 7732977
+        },
+        {
+            "account_id": 119631156,
+            "name": "XstiNgerX",
+            "team_id": 8254400
+        },
+        {
+            "account_id": 153836240,
+            "name": "C. smile  <",
+            "team_id": 8254400
+        },
+        {
+            "account_id": 157989498,
+            "name": "G\u014djira",
+            "team_id": 8254400
+        },
+        {
+            "account_id": 164685175,
+            "name": "K1",
+            "team_id": 8254400
+        },
+        {
+            "account_id": 292921272,
+            "name": "Wisper ",
+            "team_id": 8254400
+        },
+        {
+            "account_id": 38628747,
+            "name": "MoonMeander",
+            "team_id": 8260983
+        },
+        {
+            "account_id": 97658618,
+            "name": "Timado",
+            "team_id": 8260983
+        },
+        {
+            "account_id": 126212866,
+            "name": "SabeRLighT-",
+            "team_id": 8260983
+        },
+        {
+            "account_id": 145550466,
+            "name": "DuBu",
+            "team_id": 8260983
+        },
+        {
+            "account_id": 238239590,
+            "name": "Bryle",
+            "team_id": 8260983
+        },
+        {
+            "account_id": 10366616,
+            "name": "Sneyking",
+            "team_id": 8291895
+        },
+        {
+            "account_id": 86698277,
+            "name": "33",
+            "team_id": 8291895
+        },
+        {
+            "account_id": 94786276,
+            "name": "Nine",
+            "team_id": 8291895
+        },
+        {
+            "account_id": 100058342,
+            "name": "skiter",
+            "team_id": 8291895
+        },
+        {
+            "account_id": 103735745,
+            "name": "Saksa",
+            "team_id": 8291895
+        },
+        {
+            "account_id": 16497807,
+            "name": "tOfu",
+            "team_id": 8599101
+        },
+        {
+            "account_id": 91730177,
+            "name": "Seleri",
+            "team_id": 8599101
+        },
+        {
+            "account_id": 97590558,
+            "name": "Ace",
+            "team_id": 8599101
+        },
+        {
+            "account_id": 116934015,
+            "name": "dyrachyo",
+            "team_id": 8599101
+        },
+        {
+            "account_id": 190826739,
+            "name": "BOOM",
+            "team_id": 8599101
+        }
+    ]
+}
