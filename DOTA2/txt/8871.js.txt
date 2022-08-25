@@ -979,7 +979,6 @@
 "autograph_preparation_download_bullet_1":"Trykk på «<b>Last ned</b>» i toppfeltet.",
 "autograph_preparation_download_bullet_2":"Velg «<b>PNG (gjennomsiktig bakgrunn)</b>» fra valgene.",
 "autograph_preparation_download_bullet_3":"Trykk på «<b>Start nedlasting</b>».",
-"autograph_preparation_download_bullet_4":"Ferdig!",
 "ti_badgebinding_title":"The International – Registrering for Crimson Witness",
 "ti_badgebinding_needtologin":"Logg inn på Steam-kontoen for å registrere deg så du kan få Crimson Witness-slipp.",
 "ti_badgebinding_desc":"Skriv inn e-posten du brukte ved kjøp av billetter til The International 2021, i feltet nedenfor for å registrere deg og kunne motta Crimson Witness-slipp. Vi sender deg en e-post med bekreftelse for å fullføre registreringen.",
