@@ -925,7 +925,6 @@
 "dpc_compendium_header":"ปลดล็อกรางวัลที่เป็นส่วนหนึ่งของ [div=CompendiumTitle]Compendium The International[/div]",
 "dpc_compendium_details":"สะสมการ์ดผู้เล่น แข่งทายผลสายการแข่งขัน สั่งซื้อลายเซ็นและประโยควงล้อสนทนานักพากย์ และรับรางวัลสุดพิเศษจากรายการของรางวัล Compendium ในช่วงเวลาจำกัด",
 "dpc_compendium_details2":"ใช้งานได้ฟรีจนถึง 18 ตุลาคม",
-"ti_badgebinding_title":"การลงทะเบียน Crimson Witness ของ The International 2021",
 "ti_badgebinding_needtologin":"กรุณาเข้าสู่ระบบบัญชี Steam ของคุณ เพื่อลงทะเบียนสิทธิ์รับดรอป Crimson Witness",
 "ti_badgebinding_desc":"หากต้องการลงทะเบียนเพื่อให้มีสิทธิ์รับดรอป Crimson Witness กรุณากรอกที่อยู่อีเมลที่คุณใช้เมื่อซื้อตั๋ว The International 2021 ไว้ในช่องว่างข้างล่างนี้ เราจะส่งอีเมลสำหรับยืนยันการลงทะเบียนของคุณให้เสร็จสมบูรณ์",
 "ti_badgebinding_desc_multi":"หากต้องการลงทะเบียนอีกอีเมลหนึ่งให้กับบัญชี Steam นี้ กรุณากรอกที่อยู่อีเมลอื่นที่คุณใช้เมื่อซื้อตั๋ว The International 2021 ไว้ในช่องว่างข้างล่างนี้ เราจะส่งอีเมลสำหรับยืนยันการลงทะเบียนของคุณให้เสร็จสมบูรณ์",
